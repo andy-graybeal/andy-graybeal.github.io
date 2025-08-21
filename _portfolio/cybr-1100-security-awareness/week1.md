@@ -3,6 +3,8 @@
  
 **Description:**  
 What was covered this week? Summarize key ideas in 2–3 sentences.  
+
+What is Cyber Security and it's foundational elements: Confidentiality, Integrity, and Availabilty
  
 **Artifacts:**  
 - Screenshot of GitHub Pages live site  
