@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Andy Graybeal / This IS THE TITLE of the site"
+title                    : "Andy's Meanderings"
 title_separator          : "-"
 name                     : &name "Andy Graybeal"
 description              : &description "personal description"
-url                      : https://andy-graybeal.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://andy-graybeal.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andy-graybeal/andy-graybeal.github.io"
 
@@ -23,7 +23,7 @@ repository               : "andy-graybeal/andy-graybeal.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Andy Graybeal"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
