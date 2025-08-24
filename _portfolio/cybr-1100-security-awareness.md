@@ -21,7 +21,7 @@ We were introduced to the idea of Cybersecurity this first week of school.  We l
  
 **Reflection:**  
 We've learned that becoming complacent can't ever happen.  Everything is always changing and we need to be vigilant.
-We were introduced to hashcat, Cyber Skyline, rumkin and Cyberchef.  We learned that more breaches are happening now than ever before and it's only going to increase.  More and more things are becoming internet aware and quickly brought to market without much concern of how well they play with others, favoring ease-of-use devices for the sake of profit.
+We were introduced to tools like hashcat, Cyber Skyline, rumkin and Cyberchef.  We learned that more breaches are happening now than ever before and it's only going to increase.  More and more things are becoming internet-aware and quickly brought to market without much concern of how well they play with others, favoring ease-of-use devices for the sake of quarterly profits and the shareholders of consumer-based products care more about being the first to bring products to market with and security is an after-thought.  Something that is secure isn't easy to use, if you can't use it, it won't sell.  We are relying more and more on large corporations with our data and those companies are relying on our data for their profits.  
 
 
 Write 1–2 paragraphs about what you learned and why it matters. Connect it to everyday security habits or the workplace.  
