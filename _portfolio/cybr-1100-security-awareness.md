@@ -17,6 +17,7 @@ What was covered this week? Summarize key ideas in 2–3 sentences.
   
 <br>
 - Interactive Lab 
+
  
 **Reflection:**  
 Write 1–2 paragraphs about what you learned and why it matters. Connect it to everyday security habits or the workplace.  
