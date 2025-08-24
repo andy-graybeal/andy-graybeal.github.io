@@ -4,7 +4,7 @@ excerpt: "Collection of things from in Hocking College's CYBR-1100 class" # <br/
 collection: portfolio
 ---
 
-
+<a id="week_01"></a>
 # Week 1 – Introduction to Security Awareness
  
 **Description:**  
@@ -19,7 +19,7 @@ Write 1–2 paragraphs about what you learned and why it matters. Connect it to 
 **AI Use Note:**  
 If you used an AI tool (ChatGPT, Copilot, etc.), briefly describe how you used it (e.g., brainstorming, proofreading).
 
-
+<a id="week_02"></a>
 # Week 2 – Personal Cybersecurity
  
 **Description:**  
