@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the documentation of my adventures as a Hocking College student obtaining an Associate degree in CyberSecurity"
+title: "Welcome to the Adventures of a Hocking College student obtaining a CyberSecurity Associates Degree"
 author_profile: true
 redirect_from: 
   - /about/
