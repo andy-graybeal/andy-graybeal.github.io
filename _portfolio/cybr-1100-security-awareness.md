@@ -12,7 +12,7 @@ What was covered this week? Summarize key ideas in 2–3 sentences.
  
 **Artifacts:**  
 - Screenshot of GitHub Pages live site: <br> <img src='/images/Screenshot_of_Live_github.io.png'>
-<br>
+<br><br><br><br>
 - [Case Project 1-1: Personal Attack Experiences - "The Couriers"](/files/Week_01-Case_Project-Andy_Graybeal-The_Couriers.pdf)
   
 <br>
