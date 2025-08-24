@@ -1,6 +1,6 @@
 ---
 title: "CYBR-1100 - Security Awareness"
-excerpt: "Collection of things from in Hocking College's CYBR-1100 class" # <br/><img src='/images/500x300.png'>"
+excerpt: "Collection of things from in Hocking College's CYBR-1100 class" # <br/><img src='/images/500x300.png'>
 collection: portfolio
 ---
 
@@ -11,7 +11,7 @@ collection: portfolio
 What was covered this week? Summarize key ideas in 2–3 sentences.  
  
 **Artifacts:**  
-- Screenshot of GitHub Pages live site
+- Screenshot of GitHub Pages live site <br> <img src='/images/Screenshot_of_Live_github.io.png'>
 - Case Project
 - Interactive Lab 
  
