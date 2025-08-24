@@ -1,6 +1,6 @@
 ---
 title: "CYBR-1100 - Security Awareness"
-excerpt: "Collection of things learned in Hocking College's CYBR-1100 class" # <br/><img src='/images/500x300.png'>"
+excerpt: "Collection of things from in Hocking College's CYBR-1100 class" # <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
