@@ -4,5 +4,16 @@ excerpt: "Collection of things learned in Hocking College's CYBR-1100 class" # <
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-TESTING_AROOOOOO
+# Week 1 – Introduction to Security Awareness
+ 
+**Description:**  
+What was covered this week? Summarize key ideas in 2–3 sentences.  
+ 
+**Artifacts:**  
+- Screenshot of GitHub Pages live site  
+ 
+**Reflection:**  
+Write 1–2 paragraphs about what you learned and why it matters. Connect it to everyday security habits or the workplace.  
+ 
+**AI Use Note:**  
+If you used an AI tool (ChatGPT, Copilot, etc.), briefly describe how you used it (e.g., brainstorming, proofreading).
