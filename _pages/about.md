@@ -61,7 +61,7 @@ A little about me:
 
 I've got a son, whom I adore and want only the best for him.
 
-I'm an open-source advocate, I love using linux and I can't stand using Microsoft Windows.  I am happy that they integrated Linux into Windows recently.  And if it matters, I enjoy using the KDE Plasma interface at the moment.
+I'm an open-source advocate. Whenever possible, I steer far away from proprietary-based solutions.  I love using Linux and I can't stand using Microsoft Windows.  I am happy that they integrated Linux into Windows recently.  And if it matters, I enjoy using the KDE Plasma interface at the moment.
 
 I have a range of interests which include sci-fi and dystopian movies, cars, motor sports, forests, creeks, mushrooms, all the little flowers and trees, music based electronics (think Craig Anderton), music-based programming (think Miller S Puckette), Linux's music based tools. I have a DIY mentality when it comes to things. I recently got into scanning sheet music into the computer and outputing it as Open Music Format using neural networking / ML libraries and hooking up different instruments made in PureData to those voices.
 
