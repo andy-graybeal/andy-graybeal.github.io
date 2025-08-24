@@ -8,8 +8,8 @@ collection: portfolio
 # Week 1 – Introduction to Security Awareness
  
 **Description:**  
-We were introduced to the idea of Cybersecurity this first week of school.  We learned that cybersecurity should protect the confidentiality, integrity and availability of our valuable information. We also learned that cybersecurity affects everyone of us and we are all responsible to make sure that we practice good "cyber-hygeine" with strong passwords, and good technique by being aware of ways that we can be easily comprimised simply by using email or browsing the web.
-<br><br><br>
+We were introduced to the idea of Cybersecurity this first week of school.  We learned that cybersecurity should protect the confidentiality, integrity and availability of our valuable information. We also learned that cybersecurity affects everyone of us and we are all responsible to make sure that we practice good "cyber-hygeine" with strong passwords, and good technique by being aware of ways that we can be easily compromised simply by using every day things like email or browsing the web.
+<br><br>
  
 **Artifacts:**  
 - Screenshot of GitHub Pages live site: <br><br> <img src='/images/Screenshot_of_Live_github.io.png'>
