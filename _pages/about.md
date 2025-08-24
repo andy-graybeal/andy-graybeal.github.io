@@ -57,7 +57,9 @@ redirect_from:
 
 I'll use this space to make record and document my way through the Cybersecurity courses at Hocking!  And maybe even more if things work out!
 
-A little about me:  I've got a son, whom I adore and want only the best for him.
+A little about me:
+
+I've got a son, whom I adore and want only the best for him.
 
 I'm an open-source advocate, I love using linux and I can't stand using Microsoft Windows.  I am happy that they integrated Linux into Windows recently.  And if it matters, I enjoy using the KDE Plasma interface at the moment.
 
