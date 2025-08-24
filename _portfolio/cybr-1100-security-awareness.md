@@ -13,11 +13,10 @@ What was covered this week? Summarize key ideas in 2–3 sentences.
 **Artifacts:**  
 - Screenshot of GitHub Pages live site: <br> <img src='/images/Screenshot_of_Live_github.io.png'>
 <br><br><br><br>
-- [Case Project 1-1: Personal Attack Experiences - "The Couriers"](/files/Week_01-Case_Project-Andy_Graybeal-The_Couriers.pdf)
-  
-<br>
-- Interactive Lab 
-
+- [Case Project 1-1: Personal Attack Experiences - "The Couriers"](/files/Week_01-Case_Project-Andy_Graybeal-The_Couriers.pdf)  
+<br><br><br><br>
+- [Interactive Lab - Project 1-4: Are You a Victim?](/files/Week_01-Interactive_Lab-Andy_Graybeal.pdf)
+<br><br><br><br>
  
 **Reflection:**  
 Write 1–2 paragraphs about what you learned and why it matters. Connect it to everyday security habits or the workplace.  
