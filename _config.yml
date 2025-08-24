@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master of None"
   location         : "Athens, Ohio"
-  employer         : "Red Brick University"
+  employer         : "Hocking College"
   uri              : # URL
   email            : "graybeals@hocking.edu" 
 
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "andy-graybeal"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
