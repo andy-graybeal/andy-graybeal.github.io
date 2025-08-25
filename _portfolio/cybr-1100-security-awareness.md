@@ -12,10 +12,9 @@ We were introduced to the idea of Cybersecurity this first week of school.  We l
 <br><br>
  
 **Artifacts:**  
-- Screenshot of GitHub Pages live site: <br><br> <img src='/images/Screenshot_of_Live_github.io.png'>
-<br><br>
 - Case Project 1-1: [Personal Attack Experiences - "The Couriers"](/files/Week_01-Case_Project-Andy_Graybeal-The_Couriers.pdf)
 - Interactive Lab - Project 1-4: [Are You a Victim?](/files/Week_01-Interactive_Lab-Andy_Graybeal.pdf)
+- Screenshot of GitHub Pages live site: <br><br> <img src='/images/Screenshot_of_Live_github.io.png'>
  
 **Reflection:**  
 We've learned that becoming complacent can't ever happen. Everything is always changing and we need to be vigilant. We learned that more breaches are happening now than ever and it's only going to increase. 
