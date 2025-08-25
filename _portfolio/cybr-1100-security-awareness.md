@@ -26,6 +26,7 @@ One challenge in preventing attacks and why it’s so difficult to solve is that
 Companies favor ease-of-use products for the sake of quarterly profits and the shareholders care more about being the first to bring products to market with security as an after-thought. Like the curriculum says, “something that is secure isn't easy to use”, if you can't use it, it won't sell. We are relying more and more on these large corporations with our data and those companies are relying on our data for their profits. It seems like all these products these days have an app to login to. This trend is not going to stop. Being involved in Cybersecurity now more than ever is needed and hopefully by the end of this program we will all end up with decent jobs.
 
 We were also introduced to analysis tools like hashcat, Cyber Skyline, rumkin and Cyberchef, which I hope to learn more about and so far enjoy the comraderie of the class I'm in.
+<br><br>
 
 **AI Use Note:**  
 Other than to make sure I had access and the introductory questions asked by ChatGPT's Sage, I haven't had time to use any AI tools this week.
