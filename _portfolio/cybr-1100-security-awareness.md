@@ -14,9 +14,9 @@ We were introduced to the idea of Cybersecurity this first week of school.  We l
 **Artifacts:**  
 - Screenshot of GitHub Pages live site: <br><br> <img src='/images/Screenshot_of_Live_github.io.png'>
 <br><br>
-- [Case Project 1-1: Personal Attack Experiences - "The Couriers"](/files/Week_01-Case_Project-Andy_Graybeal-The_Couriers.pdf)  
+- Case Project 1-1: [Personal Attack Experiences - "The Couriers"](/files/Week_01-Case_Project-Andy_Graybeal-The_Couriers.pdf)  
 <br>
-- [Interactive Lab - Project 1-4: Are You a Victim?](/files/Week_01-Interactive_Lab-Andy_Graybeal.pdf)
+- Interactive Lab - Project 1-4: [Are You a Victim?](/files/Week_01-Interactive_Lab-Andy_Graybeal.pdf)
 <br><br>
  
 **Reflection:**  
