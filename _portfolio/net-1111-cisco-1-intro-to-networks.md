@@ -1,7 +1,26 @@
 ---
 title: "NET-1111 - Cisco 1 - Intro to Networks"
-excerpt: "Collection of things learned in Hocking College's NET-1111 class" # <br/><img src='/images/500x300.png'>"
+excerpt: "Collection of things from Hocking College's NET-1111 class" # <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<a id="week_01"></a><br><br>
+# Week 1 – Introduction to Networking & Course Setup
+
+**Description:**
+
+**Artificates:**
+
+**Reflection:**
+
+**AI Use Note:**
+
+# Week 2 – Networking Components, Types and Connections
+
+**Description:**
+
+**Artificates:**
+
+**Reflection:**
+
+**AI Use Note:**
