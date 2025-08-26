@@ -15,6 +15,7 @@ collection: portfolio
 
 **AI Use Note:**
 
+<a id="week_02"></a><br><br>
 # Week 2 – Networking Components, Types and Connections
 
 **Description:**
