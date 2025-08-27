@@ -10,7 +10,7 @@ collection: portfolio
 **Description:**  
 This week we reviewed the peice-parts of a computer.  We got to take apart some machines in class. Suprisingly, they were all missing their memory and processors.  We received toolkits and an anti-static strap.
 
-**Artifactss:**  
+**Artifacts:**  
 - Lab 1: Hardware Identification & Safety
     - Identify major internal components
         - motherboard
