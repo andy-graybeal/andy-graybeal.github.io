@@ -11,7 +11,7 @@ collection: portfolio
 We were introduced to networks and the general devices that make up networks.  We were also introduced to Cisco Packet Tracer.
 
 **Artifacts:**  
-Lab Assignment: Make a simple network with two hosts and a switch.  Ping between the hosts.
+- Lab Assignment: Make a simple network with two hosts and a switch.  Ping between the hosts.
 <img src='/images/Week_01-NET-1111-Cisco_Packet_Tracer.png'>
 
 **Reflection:**  
