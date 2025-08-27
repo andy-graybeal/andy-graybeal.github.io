@@ -15,7 +15,7 @@ We were introduced to networks and the general devices that make up networks.  W
 <img src='/images/Week_01-NET-1111-Cisco_Packet_Tracer.png'>  
 
 **Reflection:**  
-My first impressions of networking come from using modem’s and connecting to local Bulletin Board systems.  I was hooked.  My dad brought home a bunch of old ARCNet NIC’s from his work.  I learned how to network all our PC’s together in the house.  Also the internet was just emerging via local ISP’s.  I got my first account with a local company named Green Apple.  Eventually, I upgraded my ARCNet network to Ethernet.  At 16 I worked at a local computer shop installing and upgrading networks and servers for local businesses and doing support for the local ISP.
+My first impressions of networking come from using modem’s and connecting to local Bulletin Board systems.  I was hooked.  My dad brought home a bunch of old PC's and ARCNet NIC’s from his work.  And I hooked those up using the IPX and TCP/IP protocols.  Also the internet was just emerging via local ISP’s.  I got my first account with a local company named Green Apple in Lancaster, Ohio.  Eventually, I upgraded my ARCNet network to Ethernet.  At 16 I worked at a local computer shop installing and upgrading networks and servers for local businesses and doing support for the local ISP.
 
 And today networking affects us to an even greater degree.  Everything seems to be online.  For example: the brake controller we just bought for our vehicle!  We had to login to an app to configure it.
 I think it’s a little overboard to be honest.
