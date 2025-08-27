@@ -24,7 +24,7 @@ This week we reviewed the peice-parts of a computer.  We got to take apart some 
         - PSU
           <img src='/images/NET-1120/PSU-Open1.jpg'>
         - expansion cards
-          <img src='images/NET-1120/Chassis-plans-Digital-IO-Card.jpg'>
+          <img src='/images/NET-1120/Chassis-plans-Digital-IO-Card.jpg'>
     - Document safe handling procedures (ESD, power precautions).
 
 **Reflection:**  
