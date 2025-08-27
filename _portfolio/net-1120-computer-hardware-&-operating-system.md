@@ -14,11 +14,17 @@ This week we reviewed the peice-parts of a computer.  We got to take apart some 
 - Lab 1: Hardware Identification & Safety
     - Identify major internal components
         - motherboard
+          <img src='/images/NET-1120/Computer-motherboard.jpg'>
         - CPU
+          <img src='/images/NET-1120/Intel_i9-14900KF_CPU.jpg'>
         - RAM
+          <img src='/images/NET-1120/RAM_Module_(SDRAM-DDR4).jpg'>
         - storage
+          <img src='/images/NET-1120/Hard_drive_label_side.jpg'>
         - PSU
+          <img src='/images/NET-1120/PSU-Open1.jpg'>
         - expansion cards
+          <img src='images/NET-1120/Chassis-plans-Digital-IO-Card.jpg'>
     - Document safe handling procedures (ESD, power precautions).
 
 **Reflection:**  
