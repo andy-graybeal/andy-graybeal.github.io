@@ -10,7 +10,7 @@ collection: portfolio
 **Description:**
 We were introduced to networks and the general devices that make up networks.  We were also introduced to Cisco Packet Tracer.
 
-**Artificates:**
+**Artifacts:**
 Lab Assignment: Make a simple network with two hosts and a switch.  Ping between the hosts.
 <img src='/images/Week_01-NET-1111-Cisco_Packet_Tracer.png'>
 
@@ -30,7 +30,7 @@ I haven't used AI yet this course.
 
 **Description:**
 
-**Artificates:**
+**Artifacts:**
 
 **Reflection:**
 
