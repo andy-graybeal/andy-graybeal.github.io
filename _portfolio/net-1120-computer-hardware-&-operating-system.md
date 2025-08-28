@@ -28,7 +28,7 @@ This week we reviewed the peice-parts of a computer.  We got to take apart some 
 
     - Document safe handling procedures (ESD, power precautions).  
       Safe handling in regards to electro-static discharge, simply means use your anti-static wrist band.  I guess overtime it becomes a habit to always touch the chassis before touching the internal parts.
-      Regarding higher voltage things, make sure the machine is off and unplugged when working on it.  Also some components, like capacitors can hold charge for some time.. so be aware of this and not short them out accidently with your body parts.
+      Regarding higher voltage things, make sure the machine is off and unplugged when working on it.  Also some components, like capacitors, can hold charge for some time.. so be aware of this and not short them out accidently with your body parts.
 
 **Reflection:**  
 In this class, I hope to obtain a CompTIA A+ certification and find good camaraderie among my classmates and maybe even lasting friendships.  My last CompTIA A+ certification expired in July 2025.
