@@ -13,19 +13,21 @@ This week we reviewed the peice-parts of a computer.  We got to take apart some 
 **Artifacts:**  
 - Lab 1: Hardware Identification & Safety
     - Identify major internal components
-        - motherboard
+        - motherboard  
           <img src='/images/NET-1120/Computer-motherboard.jpg'>
-        - CPU
+        - CPU  
           <img src='/images/NET-1120/Intel_i9-14900KF_CPU.jpg'>
-        - RAM
+        - RAM  
           <img src='/images/NET-1120/RAM_Module_(SDRAM-DDR4).jpg'>
-        - storage
+        - storage  
           <img src='/images/NET-1120/Hard_drive_label_side.jpg'>
-        - PSU
+        - PSU  
           <img src='/images/NET-1120/PSU-Open1.jpg'>
-        - expansion cards
+        - expansion card  
           <img src='/images/NET-1120/Chassis-plans-Digital-IO-Card.jpg'>
+
     - Document safe handling procedures (ESD, power precautions).
+      Safe handling in regards to electro-static discharge, simply means use your anti-static wrist band.  I guess overtime it becomes a habit to always touch the chassis before touching the internal parts. Regarding higher voltage things, make sure the machine is off and unplugged when working on it.  Also some components, like capacitors can hold charge for some time.. so be aware of this and not short them out accidently with your body parts.
 
 **Reflection:**  
 In this class, I hope to obtain a CompTIA A+ certification and find good camaraderie among my classmates and maybe even lasting friendships.  My last CompTIA A+ certification expired in July 2025.
