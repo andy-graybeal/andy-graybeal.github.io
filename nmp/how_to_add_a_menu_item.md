@@ -13,6 +13,7 @@ I will explain how to add a menu item named "Journal"
 Add a page
 ======
 Add a journal.html file to the _pages folder.  Inside that file put this: 
+```
 ---
 permalink: /journal/
 title: "Journal"
@@ -25,7 +26,7 @@ title: "Journal"
 {% for post in site.journal %}
   {% include archive-single.html %}
 {% endfor %}
-
+```
 
 Add a folder
 ======
