@@ -1,0 +1,4 @@
+---
+permalink: /journal/
+title: "Journal"
+---
