@@ -149,7 +149,7 @@ defaults:
 
 Add content
 ======
-Now, lets add our content.  Put a file named something.md.  For my example I'm going to add a filenamed: cybr-1100-week01.md.  Inside this file we need to have:
+Now, lets add our content.  Put a file named something.md.  For my example I'm going to add a file name specific for my class: cybr-1100-week01.md.  Inside this file we need to have:
 ```
 ---
 title: "CYBR-1100 Week 01"
