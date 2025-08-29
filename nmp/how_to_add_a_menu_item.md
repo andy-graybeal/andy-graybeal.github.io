@@ -10,7 +10,7 @@ redirect_from:
 How to add a menu item in Academic Pages template.
 I will explain how I added a menu item named "Journal".
 
-Add a page
+1. Add a page
 ======
 Add a journal.html file to the _pages folder.  Inside that file put this: 
 ```
@@ -28,11 +28,11 @@ title: "Journal"
 {% endfor %}
 ```
 
-Add a folder
+2. Add a folder
 ======
 Add the folder _journal in the root of the site.
 
-Edit _data/navigation.yml
+3. Edit _data/navigation.yml
 ======
 add this:
 ```
@@ -40,7 +40,7 @@ add this:
     url: /journal/
 ```
 
-Edit _config.yml
+4. Edit _config.yml
 ======
 In _config.yml find the section "collections" and add this to the bottom:
 ```
@@ -147,7 +147,7 @@ defaults:
       comment: true
 ```
 
-Add content
+5. Add content
 ======
 Now, lets add our content.  Put a file named something.md.  For my example I'm going to add a file name specific for my class: cybr-1100-week01.md.  Inside this file we need to have:
 ```
