@@ -1,6 +1,6 @@
 ---
 permalink: /how-to-add-a-menu-item/
-title: "How to add a menu item in Academic Pages"
+title: "How to add a menu item in AcademicPages theme"
 author_profile: true
 redirect_from: 
   - "/nmp/"
