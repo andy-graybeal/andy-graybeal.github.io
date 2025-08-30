@@ -47,7 +47,7 @@ This week we focused on storage drives and memory.
 **Artifacts:**  
 [Hardware Components](/files/NET-1120/Week_02-NET-1120_Portfolio-Hardware_Components.pdf
 <img src='/images/NET-1120/Week_02-NET-1120_Portfolio-Hardware_Components_Page1.svg'>
-<img src='/images/NET-1120/Week_02-NET-1120_Portfolio-Hardware_Components_Page2.svg
+<img src='/images/NET-1120/Week_02-NET-1120_Portfolio-Hardware_Components_Page2.svg'>
 
 **Reflection:**  
 
