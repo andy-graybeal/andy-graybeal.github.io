@@ -42,6 +42,7 @@ I haven't had a chance to use the AI tools yet.
 # Week 2 – Memory, Storage, and Motherboards
 
 **Description:**  
+This week we focused on storage drives and memory.
 
 **Artifacts:**  
 
