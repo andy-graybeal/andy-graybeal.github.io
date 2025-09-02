@@ -32,7 +32,7 @@ I haven't used AI yet this course.
 Network Topologies
 
 **Artifacts:** 
-<img src='/images/NET-1111/Week_02_NET-1111-Home_Network.png
+<img src='/images/NET-1111/Week_02_NET-1111-Home_Network.png'>
 
 **Reflection:**  
 
