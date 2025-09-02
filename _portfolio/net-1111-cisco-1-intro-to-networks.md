@@ -29,8 +29,10 @@ I haven't used AI yet this course.
 # Week 2 – Networking Components, Types and Connections
 
 **Description:**  
+Network Topologies
 
-**Artifacts:**  
+**Artifacts:** 
+<img src='/images/NET-1111/Week_02_NET-1111-Home_Network.png
 
 **Reflection:**  
 
