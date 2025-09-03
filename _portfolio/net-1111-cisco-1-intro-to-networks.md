@@ -33,6 +33,7 @@ We were tasked to represent our home network in Cisco Packet Tracer.  I couldn't
 
 **Artifacts:** 
 <img src='/images/NET-1111/Week_02_NET-1111-Home_Network.png'>  
-<img src='/images/NET-1111/Week_02_NET-1111-Home_Network_PING.png'>
+<img src='/images/NET-1111/Week_02_NET-1111-Home_Network_PING.png'>  
+
 **AI Use Note:**
 I haven't used AI.
