@@ -29,11 +29,10 @@ I haven't used AI yet this course.
 # Week 2 – Networking Components, Types and Connections
 
 **Description:**  
-Network Topologies
+We were tasked to represent our home network in Cisco Packet Tracer.  I couldn't find a smart tv and I suppose there are bluetooth devices, like speakers that aren't being represented.
 
 **Artifacts:** 
-<img src='/images/NET-1111/Week_02_NET-1111-Home_Network.png'>
-
-**Reflection:**  
-
-**AI Use Note:**  
+<img src='/images/NET-1111/Week_02_NET-1111-Home_Network.png'>  
+<img src='/images/NET-1111/Week_02_NET-1111-Home_Network_PING.png'>
+**AI Use Note:**
+I haven't used AI.
