@@ -39,7 +39,8 @@ We read about how cybersecurity is a responsibility that falls on each individua
  
 **Artifacts:**  
 - Case Project - Project 2-1: [Password Strength](/files/CYBR-1100/Week_02-Case_Project_2-1-Andy_Graybeal.pdf)
-<img src='/images/CYBR-1100/Week_02-Case_Project_2-1-Andy_Graybeal.svg'>
+<img src='/images/CYBR-1100/Week_02-Case_Project_2-1-Andy_Graybeal.svg'>  
+<img src='/images/CYBR-1100/Screenshot 2025-09-04 113444.png'>  
 
  
 **AI Use Note:**  
