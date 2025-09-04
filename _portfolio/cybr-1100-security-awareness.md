@@ -35,13 +35,12 @@ Other than to make sure I had access and the introductory questions asked by Cha
 # Week 2 – Personal Cybersecurity
  
 **Description:**  
-What was covered this week? Summarize key ideas in 2–3 sentences.  
+We read about how cybersecurity is a responsibility that falls on each individual person.  For example, it takes one person with a weak password to allow someone to breach a system.  We all need to be educated about password lengths and usage, requiring MFA, using a password database program, being able to recognize phsishing scams, and not over-sharing on social media.  Doing these things is considered maintaining good cyber-hygiene. 
  
 **Artifacts:**  
-- Screenshot of GitHub Pages live site  
+
  
-**Reflection:**  
-Write 1–2 paragraphs about what you learned and why it matters. Connect it to everyday security habits or the workplace.  
+
  
 **AI Use Note:**  
 If you used an AI tool (ChatGPT, Copilot, etc.), briefly describe how you used it (e.g., brainstorming, proofreading).
