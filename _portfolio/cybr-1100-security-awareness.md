@@ -44,4 +44,4 @@ We read about how cybersecurity is a responsibility that falls on each individua
 
  
 **AI Use Note:**  
-If you used an AI tool (ChatGPT, Copilot, etc.), briefly describe how you used it (e.g., brainstorming, proofreading).
+Haven't used AI yet.
