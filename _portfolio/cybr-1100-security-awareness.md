@@ -38,8 +38,7 @@ Other than to make sure I had access and the introductory questions asked by Cha
 We read about how cybersecurity is a responsibility that falls on each individual person.  For example, it takes one person with a weak password to allow someone to breach a system.  We all need to be educated about password lengths and usage, requiring MFA, using a password database program, being able to recognize phsishing scams, and not over-sharing on social media.  Doing these things is considered maintaining good cyber-hygiene. 
  
 **Artifacts:**  
-
- 
+- Case Project - Project 2-1: [Password Strength](/files/CYBR-1100/Week_02-Case_Project_2-1-Andy_Graybeal.pdf)
 
  
 **AI Use Note:**  
