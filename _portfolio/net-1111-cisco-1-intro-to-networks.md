@@ -37,3 +37,21 @@ We were tasked to represent our home network in Cisco Packet Tracer.  I couldn't
 
 **AI Use Note:**
 I haven't used AI.
+
+<a id="week_03"></a><br><br>
+# Week 3 – Ethernet Fundamentals, Cabling, and Switching
+
+**Description:**  
+In a lab we were tasked to make a network that uses Star Topology and to verify L2/L3 connectivity.
+The prompt for this entry is this:
+Polished post: “Star Topology” + screenshots from Lab.
+Use what you did in Lab (Day 1) assignment for this entry. Explain what a star topology is, what devices are required, what connections are used, and what you had to configure on the end devices to get them connected.
+
+The star topology is the name of a network topology or network configuration that consists of nodes that are connected to a central location.  Each node is singularly connected with a wire to a central point looking like a spoke connected to a hub like on a wagon-wheel. This hub can be two devices, namely a switch or a hub.  Technically though, the device that is a hub is a relic of technology and no longer in widespread use.  This wagon-wheel type configuration appears to some to look like a star, hence it's name: "Star Topology".  Other topologies exist, like the "Bus Topology" which consist of a single line of nodes, appearing like a bus or a "Ring Topology" which connects nodes in a circle, looking like a ring.  Each network topology has it's own significance within networking techology.  Each node in a "Star Topology" constists of an end-device like a PC, Laptop, Printer, or etc.  Each end-device is assigned a MAC address, or Media Access Control address from it's manufacturer.  This address talks on Level 2 of the network.  Similarly, each device assigned either manually or automatically (with DHCP services) it's own IP Address. This address talks on Level 3 of the network. 
+
+**Artifacts:** 
+<img src='/images/NET-1111/Week_02_NET-1111-Home_Network.png'>  
+<img src='/images/NET-1111/Week_02_NET-1111-Home_Network_PING.png'>  
+
+**AI Use Note:**
+I haven't used AI.
