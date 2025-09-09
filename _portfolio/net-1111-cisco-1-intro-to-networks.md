@@ -44,7 +44,6 @@ I haven't used AI.
 **Description:**  
 Earlier, in a lab we were tasked to make a network that uses Star Topology and to verify L2/L3 connectivity.  
 The prompt for this entry is this:  
-
 > Polished post: “Star Topology” + screenshots from Lab.
 > Use what you did in Lab (Day 1) assignment for this entry. Explain what a star topology is, what devices are required, what connections are used, > and what you had to configure on the end devices to get them connected.
 
