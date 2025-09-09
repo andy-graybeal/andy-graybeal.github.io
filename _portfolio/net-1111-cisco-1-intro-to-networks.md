@@ -59,9 +59,12 @@ These cables come in two types, Unshielded Twisted Pair (UTP), or Shielded Twist
 
 Each end-device is assigned a MAC address, or Media Access Control address from it's manufacturer.  This address talks on what we call Level 2 or the Data-Link Layer of the local network.  Similarly, each device is assigned either manually or automatically (with DHCP, Dynamic Host Configuration Protocol, services) it's own IP Address. This address talks on Level 3 of the local network.  The ARP (Address Resolution Protocol) maps these two addresses together on the local network.  
 
-Basic switches only communicate on Level 2, ie. moving data around based on MAC addressing.  Some switches, however operate at both Level 2 and Level 3 and can be used for routing IP addresses across VLANs (Virtual LANS), these types of switches are used in larger organizations that require VLAN technology.
+Basic switches communicate on Level 2, ie. moving data around based on MAC addressing.  Some switches, however operate at both Level 2 and Level 3 and can be used for routing IP addresses across VLANs (Virtual LANS), these types of switches are used in larger organizations that require VLAN technology.
 
-**Artifacts:** 
+Here is the example of a "Star Topology Network" that I used in the lab.  I used 3 PCs as the nodes, a switch, as the central hub and I wired it with "straight-through" ethernet cables for my spokes.  Each PC needed an IP address assigned to it statically, there is no DHCP server to automatically hand out addresses in such a simple network configuration.
+
+On the PC's CLI I used commands like "ipconfig" to show the configuration of the network interface, "arp" to display the MAC addresses to IP translation (Level 2 and 3), and "ping" to show ip connectivity (Level 3).  On the switch's CLI I used the "show mac-address-table" command to show the MAC addresses connected to the switch (Level 2).
+
 <img src='/images/NET-1111/Week_02_NET-1111-Home_Network.png'>  
 <img src='/images/NET-1111/Week_02_NET-1111-Home_Network_PING.png'>  
 
