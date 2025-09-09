@@ -42,7 +42,7 @@ I haven't used AI.
 # Week 3 – Ethernet Fundamentals, Cabling, and Switching
 
 **Description:**  
-In a lab we were tasked to make a network that uses Star Topology and to verify L2/L3 connectivity.  
+Earlier, in a lab we were tasked to make a network that uses Star Topology and to verify L2/L3 connectivity.  
 The prompt for this entry is this:  
 
 Polished post: “Star Topology” + screenshots from Lab.
