@@ -65,8 +65,9 @@ Pictured below are screenshots from Cisco's Packet Tracer application showing my
 
 On the PC's CLI I used commands like "ipconfig" to show the configuration of the network interface, "arp" to display the MAC address to IP address translation (Layer 2 and 3), and "ping" to show ip connectivity (Layer 3).  On the switch's CLI I used the "show mac-address-table" command to show the MAC addresses connected to the switch (Layer 2).
 
-<img src='/images/NET-1111/Week_02_NET-1111-Home_Network.png'>  
-<img src='/images/NET-1111/Week_02_NET-1111-Home_Network_PING.png'>  
+<img src='/images/NET-1111/Week_03_NET-1111-Star_Topo_Lab-Highlight_Switch.png'>  
+<img src='/images/NET-1111/Week_03_NET-1111-Star_Topo_Lab-PC_CLI.png'>  
+<img src='/images/NET-1111/Week_03_NET-1111-Star_Topo_Lab-Switch_CLI.png'>  
 
 **AI Use Note:**
 I haven't used AI.
