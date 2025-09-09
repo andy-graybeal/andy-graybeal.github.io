@@ -61,7 +61,7 @@ Each end-device is assigned a MAC address, or Media Access Control address from 
 
 Basic switches communicate on Layer 1 and Layer 2 of the OSI layers, ie. moving data around based on MAC addressing.  Some switches, called multi-layer switches also operate at Layer 3 and can be used for routing IP addresses across VLANs (Virtual LANS), these types of switches are used in larger organizations that require VLAN technology.
 
-Here is the example of a "Star Topology Network" that I used in the lab.  I used 3 PCs as the nodes, a switch, as the central hub and I wired it with "straight-through" ethernet cables for my spokes.  Each PC needed an IP address assigned to it manually or what we call statically because there is no DHCP server to automatically hand out addresses in such a simple network configuration.
+Pictured below are screenshots from Cisco's Packet Tracer application showing my example of a "Star Topology Network" that I used in the lab.  I used 3 PCs as the nodes, a switch as the central hub and I wired it with "straight-through" ethernet cables for my spokes.  Each PC needed an IP address assigned to it manually or what we call statically because there is no DHCP server to automatically hand out addresses in such a simple network configuration.
 
 On the PC's CLI I used commands like "ipconfig" to show the configuration of the network interface, "arp" to display the MAC addresses to IP translation (Layer 2 and 3), and "ping" to show ip connectivity (Layer 3).  On the switch's CLI I used the "show mac-address-table" command to show the MAC addresses connected to the switch (Layer 2).
 
