@@ -45,8 +45,8 @@ I haven't used AI.
 Earlier, in a lab we were tasked to make a network that uses Star Topology and to verify L2/L3 connectivity.  
 The prompt for this entry is this:  
 
-Polished post: “Star Topology” + screenshots from Lab.
-Use what you did in Lab (Day 1) assignment for this entry. Explain what a star topology is, what devices are required, what connections are used, and what you had to configure on the end devices to get them connected.
+> Polished post: “Star Topology” + screenshots from Lab.
+> Use what you did in Lab (Day 1) assignment for this entry. Explain what a star topology is, what devices are required, what connections are used, > and what you had to configure on the end devices to get them connected.
 
 **Star Topology Network**  
 The star topology is the name of a network topology or network configuration that consists of nodes that are connected to a central location.  Each node is singularly connected with a cable to a central point looking like a spoke connected to a hub, like on a wagon-wheel. This hub can be one of two devices, namely a switch or a hub.  Technically though, the specific device that we call a hub is a relic of technology and no longer in widespread use.  This wagon-wheel type configuration appears to some to look like a star, hence it's name: "Star Topology".  Other topologies exist, for example the "Bus Topology" which consist of a single line of nodes, appearing like a bus or another topology called a "Ring Topology" which connects nodes in a circle-fashion, looking like a ring.  Each network topology has it's own significance within networking techology.  
