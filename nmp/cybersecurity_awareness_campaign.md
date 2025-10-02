@@ -1,3 +1,15 @@
+---
+permalink: /cybersecurity_awareness_campaign/
+title: "How to use Passwords according to the NIST as of August 2025"
+author_profile: true
+redirect_from: 
+  - "/nmp/"
+  - "/nmp.html"
+---
+
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
