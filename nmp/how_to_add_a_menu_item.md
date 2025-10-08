@@ -30,7 +30,8 @@ title: "Journal"
 
 Add a folder  
 ======
-Add the folder _journal in the root of the site.
+Add the folder: _journal  
+in the root of the site.
 
 Edit _data/navigation.yml  
 ======
