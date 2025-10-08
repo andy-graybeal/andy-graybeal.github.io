@@ -7,7 +7,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
-How to add a menu item in Academic Pages template.
+How to add a menu item in Academic Pages template.  
 I will explain how I added a menu item named "Journal".
 
 Add a page
