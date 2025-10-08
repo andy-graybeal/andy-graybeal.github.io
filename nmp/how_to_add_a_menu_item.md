@@ -32,7 +32,7 @@ Add a folder
 ======
 Add the folder _journal in the root of the site.
 
-3. Edit _data/navigation.yml  
+Edit _data/navigation.yml  
 ======
 add this:
 ```
