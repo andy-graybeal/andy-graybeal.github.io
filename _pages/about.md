@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The Adventures of a Hocking College Student"
+title: "Professional Statement"
 author_profile: true
 redirect_from: 
   - /about/
@@ -55,16 +55,22 @@ redirect_from:
 # ------
 # More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-I'll be using this space to document my way through the Cybersecurity courses at Hocking!  And maybe even more if things work out!
+# Professional Statement
 
-A little about me:
+As a cybersecurity and networking student at **Hocking College** with a **CompTIA A+ certification** and extensive hands-on IT experience, I bring a strong foundation in secure infrastructure design, network analysis, and system administration. My background spans both academic study and real-world implementation, allowing me to approach cybersecurity challenges with a practical, solutions-focused mindset.
 
-I've got a son, whom I adore and want only the best for him.
+My passion for cybersecurity has been shaped by both formal education and years of experience managing and securing complex systems. Through my coursework and independent learning, I have developed skills in vulnerability assessment, identity and access management (IAM), and network monitoring using tools such as **Wireshark** and **SNMP**. I am particularly interested in securing hybrid environments that integrate on-premises systems with cloud platforms such as **AWS**.
 
-I'm an open-source advocate. Whenever possible, I steer far away from proprietary-based solutions.  I love using Linux and I can't stand using Microsoft Windows.  I am happy that they integrated Linux into Windows recently.  And if it matters, I enjoy using the KDE Plasma interface at the moment.
+One of my most impactful professional experiences was serving as an **IT Coordinator** for a worker-owned organization, where I designed and implemented secure network infrastructure, including VLANs, VPNs, and firewalls. I led a full migration from Windows to Linux systems, significantly improving system security and stability while reducing costs. I also implemented centralized identity management using **OpenLDAP** and **Single Sign-On (SSO)**, enforcing least-privilege access controls across multiple platforms. These efforts strengthened the organization's security posture and demonstrated my ability to apply cybersecurity principles in real-world environments.
 
-I have a range of interests which include sci-fi and dystopian movies, cars, motor sports, forests, creeks, mushrooms, all the little flowers and trees, music based electronics (think Craig Anderton), music-based programming (think Miller S Puckette), Linux's music based tools. I have a DIY mentality when it comes to things. I recently got into scanning sheet music into the computer and outputing it as Open Music Format using neural networking / ML libraries and hooking up different instruments made in PureData to those voices.
+In addition, my experience maintaining **PCI-DSS-compliant** payment systems and monitoring network performance has strengthened my ability to identify risks, analyze threats, and respond proactively. Combined with my background in **Tier II/III Technical Support**, I have developed strong problem-solving, communication, and troubleshooting skills that allow me to work effectively across both technical and non-technical teams.
 
-I've tinkered with PC's, Printers and Networking equipment since an early age.  My dad worked for Olivetti and would bring home old or spare parts for me to play with.  I worked at local computer shop in highschool, supporting businesses, individuals and had an ISP attached to it. From there I moved to working for the Ohio prison system, that didn't last long as I got really depressed and as well had a laptop stolen from me and got what I thought was unfairly reprimanded for it.  I drove off to a start a new life that night.  I wound up in Santa Cruz, and luckily landed a job at UCSC, in their central IT group.  I eventually got bored of that and ended up back in Ohio.  I started working at cooperative and learned how to help run a business and took many of the cooperative values to heart.   I eventually started my own successful business, that is untili Covid.  After Covid, I got a job at a machine shop and learned to run manual and cnc machines, read blueprints and had a lot of fun making and repairing parts for Goodyear Tire company.  After the while, I decided to go back to school... hopefully to get an Associates degree and maybe even a Bachelors.  Which brings us to this wonderful website. 
+## Career Objectives
 
+I am seeking opportunities in cybersecurity or IT analysis where I can contribute to securing systems, improving network resilience, and supporting organizational security goals. I am especially interested in roles involving:
 
+- Security Operations
+- Network Defense
+- Cloud Security
+
+With my blend of hands-on experience, technical knowledge, and commitment to continuous learning, I am prepared to make an immediate and meaningful contribution while continuing to grow as a cybersecurity professional.
