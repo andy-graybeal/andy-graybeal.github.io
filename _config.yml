@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Andy Graybeal"
   pronouns         : # example: "she/her"  
-  bio              : "Every day is a new day!"
+  bio              : "Computer geek, learning something new every day."
   location         : "Athens, Ohio"
-  employer         : "Hocking College"
+  employer         : "None"
   uri              : # URL
-  email            : "graybeals@hocking.edu" 
+  email            : "andy@knivesandchives.com" 
 
   # Academic websites
   academia         : # URL
