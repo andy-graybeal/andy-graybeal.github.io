@@ -55,8 +55,6 @@ redirect_from:
 # ------
 # More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-# Professional Statement
-
 As a cybersecurity and networking student at **Hocking College** with a **CompTIA A+ certification** and extensive hands-on IT experience, I bring a strong foundation in secure infrastructure design, network analysis, and system administration. My background spans both academic study and real-world implementation, allowing me to approach cybersecurity challenges with a practical, solutions-focused mindset.
 
 My passion for cybersecurity has been shaped by both formal education and years of experience managing and securing complex systems. Through my coursework and independent learning, I have developed skills in vulnerability assessment, identity and access management (IAM), and network monitoring using tools such as **Wireshark** and **SNMP**. I am particularly interested in securing hybrid environments that integrate on-premises systems with cloud platforms such as **AWS**.
