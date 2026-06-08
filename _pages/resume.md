@@ -12,8 +12,8 @@ redirect_from:
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Machine Operator - Athens Ohio, 2022 - 2025 
+  * Athens Mold and Machine
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
