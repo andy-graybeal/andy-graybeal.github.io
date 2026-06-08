@@ -12,10 +12,10 @@ redirect_from:
 
 Work experience
 ======
-* Machine Operator - Athens Ohio, 2022 - 2025 
-  * Athens Mold and Machine
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - 2025: Machine Operator 
+  * Athens Mold and Machine, Athens Ohio
+  * Duties includes: Operated CNC mills and manual lathes in a precision manufacturing environment requiring strict process adherence and quality control — demonstrating reliability and continuous learning while planning return to IT career.
+  * Supervisor: Stan Smathers
 
 * Fall 2015: Research Assistant
   * GitHub University
