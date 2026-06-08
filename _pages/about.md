@@ -55,20 +55,27 @@ redirect_from:
 # ------
 # More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-As a cybersecurity and networking student at **Hocking College** with a **CompTIA A+ certification** and extensive hands-on IT experience, I bring a strong foundation in secure infrastructure design, network analysis, and system administration. My background spans both academic study and real-world implementation, allowing me to approach cybersecurity challenges with a practical, solutions-focused mindset.
+I am an IT professional with several years of hands-on experience supporting, administering, and securing technology environments, currently pursuing studies in Cybersecurity and Networking. My background includes network infrastructure, systems administration, identity and access management, technical support, and cybersecurity fundamentals. Through both professional experience and academic study, I have developed a practical understanding of how to build, maintain, and improve secure systems.
 
-My passion for cybersecurity has been shaped by both formal education and years of experience managing and securing complex systems. Through my coursework and independent learning, I have developed skills in vulnerability assessment, identity and access management (IAM), and network monitoring using tools such as **Wireshark** and **SNMP**. I am particularly interested in securing hybrid environments that integrate on-premises systems with cloud platforms such as **AWS**.
+I am naturally curious and motivated to learn, and I enjoy exploring new technologies, troubleshooting complex problems, and expanding my cybersecurity knowledge. This drive has led me to pursue both formal education and independent learning opportunities while applying what I learn in real-world environments.
 
-One of my most impactful professional experiences was serving as an **IT Coordinator** for a worker-owned organization, where I designed and implemented secure network infrastructure, including VLANs, VPNs, and firewalls. I led a full migration from Windows to Linux systems, significantly improving system security and stability while reducing costs. I also implemented centralized identity management using **OpenLDAP** and **Single Sign-On (SSO)**, enforcing least-privilege access controls across multiple platforms. These efforts strengthened the organization's security posture and demonstrated my ability to apply cybersecurity principles in real-world environments.
+One of my most impactful roles was serving as an IT Coordinator for a worker-owned organization, where I designed and implemented network infrastructure, including VLANs, VPNs, and firewall solutions. I led a complete migration from Windows to Linux systems, improving security, reliability, and operational efficiency while reducing costs. I also implemented centralized identity management using OpenLDAP and Single Sign-On (SSO), enforcing least-privilege access controls across multiple platforms. These projects strengthened the organization's security posture and provided valuable experience applying security principles in practice.
 
-In addition, my experience maintaining **PCI-DSS-compliant** payment systems and monitoring network performance has strengthened my ability to identify risks, analyze threats, and respond proactively. Combined with my background in **Tier II/III Technical Support**, I have developed strong problem-solving, communication, and troubleshooting skills that allow me to work effectively across both technical and non-technical teams.
+My experience also includes maintaining PCI-DSS-compliant payment systems, monitoring network performance, administering servers and endpoints, and providing Tier II/III technical support. Through these responsibilities, I have developed strong troubleshooting, problem-solving, and communication skills, enabling me to work effectively with both technical and non-technical stakeholders.
 
-## Career Objectives
+To complement my professional experience, I am pursuing studies in Cybersecurity and Networking at Hocking College and have earned the CompTIA A+ certification. My education helps reinforce and expand the practical knowledge I have gained through hands-on IT work.
 
-I am seeking opportunities in cybersecurity or IT analysis where I can contribute to securing systems, improving network resilience, and supporting organizational security goals. I am especially interested in roles involving:
+# Career Objectives
 
-- Security Operations
-- Network Defense
-- Cloud Security
+I am seeking opportunities in cybersecurity, security operations, network defense, cloud security, or IT analysis where I can continue developing my skills while contributing to organizational security goals.
 
-With my blend of hands-on experience, technical knowledge, and commitment to continuous learning, I am prepared to make an immediate and meaningful contribution while continuing to grow as a cybersecurity professional.
+## Areas of Particular Interest
+
+* Security Operations (SOC)
+* Network Defense and Monitoring
+* Cloud Security
+* Identity and Access Management (IAM)
+* Infrastructure Security
+* Vulnerability Assessment and Risk Management
+
+With a combination of hands-on experience, technical knowledge, curiosity, and a commitment to continuous learning, I am eager to contribute to a team while continuing to grow as a cybersecurity professional. I enjoy learning new technologies, understanding how systems work, and finding practical solutions to technical challenges.
