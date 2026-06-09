@@ -28,16 +28,16 @@ Work experience
   * Monitored and analyzed network performance using SNMP, proactively identifying anomalies and preventing outages through capacity planning and performance baselining.
   * Developed and maintained a WordPress-based website and e-commerce platform integrating event promotion, product sales, and social media.
 
-* **Tech Support Analyst** \| University of California - Santa Cruz \| Santa Cruz, California \| 1999–2004
+* **Tech Support Analyst** \| University of California - Santa Cruz \| *Santa Cruz, California* \| 1999–2004
   * Provided Tier II/III support across Windows, macOS, and Linux systems, resolving access, configuration, and security-related issues.
   *  Administered departmental Windows servers, ensuring high availability and reliable uptime for critical academic and research operations.
   *  Diagnosed and resolved network connectivity and system anomalies impacting availability and security.
   *  Managed support requests within a ticketed workflow, maintaining SLA compliance across multiple departments and adapting communication style for faculty, staff, and students.
 
-* **Tech Support Specialist** \| Ohio Department of Rehabilitation and Corrections \| Columbus, Ohio \| 1999 
+* **Tech Support Specialist** \| Ohio Department of Rehabilitation and Corrections \| *Columbus, Ohio* \| 1999 
   * Delivered on-site and remote workstation support for correctional facilities across Southeastern Ohio, including system imaging, deployment, and network troubleshooting, as part of a centralized IT Help Desk. 
 
-* **IT Support Technician** \| Tri-Star Computer Solutions \| Lancaster, Ohio \| 1995–1998
+* **IT Support Technician** \| Tri-Star Computer Solutions \| *Lancaster, Ohio* \| 1995–1998
   * Installed and supported network infrastructure, servers, and workstations for local businesses in Novell NetWare and Windows environments.
   * Provided on-site, in-house, and remote (phone) technical support for commercial and residential clients, including ISP dial-up troubleshooting.
   * Built, upgraded, and repaired desktop systems including hardware and OS installation and configuration.
