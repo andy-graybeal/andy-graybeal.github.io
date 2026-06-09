@@ -12,8 +12,7 @@ redirect_from:
 
 Work experience
 ======
-* 2022 - 2025: Machine Operator 
-  * Athens Mold and Machine - Athens, Ohio
+* **Machine Operator** - Athens Mold and Machine - *Athens, Ohio* - 2022 - 2025
   * Operated CNC mills and manual lathes in a precision manufacturing environment, following blueprints and adhering to quality standards and established procedures. 
   
 * 2015 - 2021: Mobile Food Owner/Operator
