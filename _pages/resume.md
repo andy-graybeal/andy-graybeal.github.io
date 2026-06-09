@@ -12,11 +12,10 @@ redirect_from:
 
 Work experience
 ======
-* **Machine Operator** - Athens Mold and Machine - *Athens, Ohio* - 2022 - 2025
+* **Machine Operator** : Athens Mold and Machine : *Athens, Ohio* : 2022 - 2025
   * Operated CNC mills and manual lathes in a precision manufacturing environment, following blueprints and adhering to quality standards and established procedures. 
   
-* 2015 - 2021: Mobile Food Owner/Operator
-  * Nixtamalized Mobile Food - Athens, Ohio
+* **Mobile Food Owner / Operator** - Nixtamalized Mobile Food - *Athens, Ohio* - 2015 - 2021
   * Founded and operated a successful mobile food business for six years, managing strategic planning, budgeting, operations, customer relations, and event logistics.
   * Administered a WordPress-based website and ordering system on a LAMP stack (Linux, Apache, MySQL, PHP), including integration with Square for payment processing to support business operations and online sales. 
   * Analyzed customer feedback and sales data to refine product offerings and improve customer retention. 
