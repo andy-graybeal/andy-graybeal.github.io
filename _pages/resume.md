@@ -49,9 +49,8 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ability to research and understand emerging threats
+* Strong analytical & problem solving
+* Excellent communication & teamwork
+* Ability to communicate technical concepts to non-technical audiences
+* Desire for professional growth through pursuit of industry certification and formal education
