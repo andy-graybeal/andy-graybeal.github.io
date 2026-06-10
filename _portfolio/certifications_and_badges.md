@@ -1,6 +1,6 @@
 ---
 title: "Certifications and Badges on Credly"
-excerpt: "My Credly Badge Wallet" 
+excerpt: "My Credly Badge Wallet"
 collection: portfolio
 ---
 
