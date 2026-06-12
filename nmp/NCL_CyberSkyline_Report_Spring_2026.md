@@ -1,6 +1,6 @@
 ---
 permalink: /NCL-CyberSkyline-Report-Spring-2026/
-title: "NCL - Cyber Skyline Individual Game Report - Spring 2026"
+title: "NCL - Cyber Skyline Individual Event Report - Spring 2026"
 author_profile: true
 redirect_from: 
   - "/nmp/"
