@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 [Certificate PDF](/files/NCL_CyberSkyline_Reports/Spring_2026/Andy_Graybeal-Cyber_Skyline_Certificate.pdf)
-![Certificate](/files/NCL_CyberSkyline_Certificate-1.ping
+![Certificate](/files/NCL_CyberSkyline_Certificate-1.png)
 
 
 [Report PDF](/files/NCL_CyberSkyline_Reports/Spring_2026/Andy_Graybeal-Cyber_Skyline_Report.pdf)
