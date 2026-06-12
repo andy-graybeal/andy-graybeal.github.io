@@ -17,4 +17,4 @@ redirect_from:
 ![CTF Report Page 5](/files/NCL_CyberSkyline_Reports/Spring_2026/Andy_Graybeal-Cyber_Skyline_Report-5.png)
 ![CTF Report Page 6](/files/NCL_CyberSkyline_Reports/Spring_2026/Andy_Graybeal-Cyber_Skyline_Report-6.png)
 ![CTF Report Page 7](/files/NCL_CyberSkyline_Reports/Spring_2026/Andy_Graybeal-Cyber_Skyline_Report-7.png)
-![CTF Report Page 8](/files/NCL_CyberSkyline_Reports/Spring_2026/Andy_Graybeal-Cyber_Skyline_Report-8.png7)
+![CTF Report Page 8](/files/NCL_CyberSkyline_Reports/Spring_2026/Andy_Graybeal-Cyber_Skyline_Report-8.png)
