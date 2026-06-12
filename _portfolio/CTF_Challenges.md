@@ -10,7 +10,9 @@ NCL groups participants into three brackets: High School, Standard, and Experien
 
 
 [NCL Spring 2026 Individual Event](/NCL-CyberSkyline-Report-Spring-2026)
+
 I ranked in the 83rd Percentile in the Standard bracket and in the 68th Percentile overall.
 
 [NCL Fall 2025 Individual Event](/NCL-CyberSkyline-Report-Fall-2025)
+
 I ranked in the 82nd Percentile in the Standard bracket and in the 68th Percentile overall.
