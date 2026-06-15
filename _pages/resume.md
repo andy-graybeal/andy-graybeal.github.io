@@ -52,10 +52,20 @@ Education
 ======
 * Associate of Applied Science in Cybersecurity and Network Systems, Hocking University, 2026 (expected)
 
-Skills
+Technical Skills
 ======
-* Ability to research and understand emerging threats
-* Strong analytical & problem solving
-* Excellent communication & teamwork
-* Ability to communicate technical concepts to non-technical audiences
+* Networking & Infrastructure: VLANs · VPNs (OpenVPN, site-to-site) · Firewall design & administration (pfSense) · Structured cabling · Segmented wired & wireless access · WLAN deployment · TCP/IP · DNS · DHCP · Remote access (X2Go, Tomato firmware) · Network documentation (Dia)
+* Systems Administration: Linux (administration, hardening, migration) · Windows Server · macOS · KVM/libvirt (virtualization) · LTSP (Linux Terminal Server Project) · LAMP stack (Linux, Apache, MySQL, PHP)
+* Cybersecurity: Wireshark · Network segmentation · Firewall rule management · PCI compliance · Access control (least privilege) · Vulnerability awareness · CTF participation · Security monitoring
+* Identity & Access Management: OpenLDAP · Zentyal · Samba · Kerberos · Single Sign-On (SSO) · OAuth (Google Workspace integration) · Account lifecycle management (provisioning/deprovisioning)
+* Monitoring, Ticketing & Backup: Nagios · SNMP · Request Tracker (RT) · Bacula · Capacity planning · Performance baselining · Alerting & incident triage
+* Cloud & Web: AWS EC2 · WordPress (administration & deployment) · E-commerce integration · Square payment processing
+
+Professional Skills
+======
 * Desire for professional growth through pursuit of industry certification and formal education
+* Strong analytical and problem-solving ability with a track record of diagnosing complex, multi-system issues
+* Proven ability to communicate technical concepts clearly to non-technical stakeholders
+* Self-directed learner with experience spanning formal education, independent study, and hands-on implementation
+* Experienced working independently across private sector, public sector, and cooperative organizations
+* End-user training and change management across major platform migrations
