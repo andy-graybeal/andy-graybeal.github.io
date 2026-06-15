@@ -58,8 +58,6 @@ redirect_from:
 
 I am an IT professional with experience since the 1990s, installing, supporting, and administering IT systems, currently pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College. My background spans network infrastructure, systems administration, technical support, end-user training, identity and access management, and cybersecurity fundamentals.
 
-I am naturally curious and motivated to learn. I enjoy exploring new technologies, troubleshooting complex problems, and expanding my knowledge. Whether through formal education, independent study, or hands-on experience, I am always looking for opportunities to grow.
-
 ---
 
 One of my most impactful roles was serving as IT Coordinator for a worker-owned organization, where I took full ownership of the technical infrastructure and drove meaningful improvements in security, reliability, and operational efficiency.
@@ -85,6 +83,8 @@ I also deployed and managed GNU Mailman mailing list systems to support structur
 
 **Web and Cloud Presence:**
 I designed, deployed, and managed the organization's WordPress website, supporting e-commerce functionality, event promotion, and public-facing communication. The site was hosted on AWS EC2 on a LAMP stack (Linux, Apache, MySQL, PHP), providing a secure, reliable, and scalable platform for online services and organizational outreach.
+
+Much of what I built during my time as IT Coordinator, I first had to learn. I came in knowing what a resilient system needed to look like — from my experience at UC Santa Cruz — but not always how to implement each piece. So I researched, set things up, tested, adjusted, and moved on to the next component. I did this on my own, one piece at a time, while keeping the organization running. When we migrated from Windows to Linux, I didn't just handle the technical side — I brought the users along with me every step of the way. For many of them, this was a significant shift in how they worked every day. I communicated changes before they happened, trained staff on unfamiliar tools, and worked to make the transition feel as smooth as possible — moving them from Microsoft Office to LibreOffice, and eventually to Google Workspace. I was mindful that technology only works if the people using it feel confident, so I made user adoption as much a priority as the technical implementation itself. That combination of technical self-direction and people-aware implementation is something I carry into every environment I work in.
 
 ---
 
