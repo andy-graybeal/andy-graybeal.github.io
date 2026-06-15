@@ -57,7 +57,7 @@ redirect_from:
 
 I am an IT professional with experience since the 1990s, installing, supporting, and administering IT systems, currently pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College. My background includes network infrastructure, systems administration, technical support, end-user training, identity and access management, and cybersecurity fundamentals.
 
-I am naturally curious and motivated to learn. I enjoy exploring new technologies, troubleshooting complex problems, and expanding my cybersecurity knowledge. This drive has led me to pursue formal education alongside independent learning while applying new concepts in real-world environments.
+I am naturally curious and motivated to learn. I enjoy exploring new technologies, troubleshooting complex problems, and expanding my knowledge. This drive has led me to pursue formal education alongside independent learning while applying new concepts in real-world environments.
 
 One of my most impactful roles was serving as an IT Coordinator for a organization, where I designed, installed, and maintained network infrastructure, including structured cabling, switch configuration, and implementation of WLANs, VLANs, VPNs using OpenVPN, and firewall solutions based on pfSense. I also supported remote office connectivity using Tomato firmware-based router configurations to improve reliability and enable secure site-to-site access.
 
