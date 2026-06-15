@@ -71,7 +71,7 @@ I designed and managed the organization’s WordPress website, supporting both e
 
 # Career Objectives
 
-I am seeking opportunities in cybersecurity, security operations, network defense, cloud security, or IT analysis where I can continue developing my skills while contributing to organizational security goals.
+I am seeking cybersecurity-focused entry-level positions or internships in security operations, network defense, cloud security, or IT analysis where I can leverage my extensive IT experience while continuing to develop and apply specialized cybersecurity skills in support of organizational security goals.
 
 ## Areas of Particular Interest
 
