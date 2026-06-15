@@ -18,7 +18,7 @@ Work experience
   
 * **Mobile Food Owner / Operator** \| Nixtamalized Mobile Food \| *Athens, Ohio* \| 2015–2021
   * Founded and operated a successful mobile food business for six years, managing strategic planning, budgeting, operations, customer relations, and event logistics.
-  * Administered a WordPress-based website and ordering system on a LAMP stack (Linux, Apache, MySQL, PHP), including integration with Square for payment processing to support business operations and online sales. 
+  * Deployed, administered, and maintained a WordPress-based website and ordering system on Amazon Web Services (AWS) EC2 using a LAMP stack (Linux, Apache, MySQL, PHP), including integration with Square for payment processing to support business operations, e-commerce functionality, and online sales.
   * Analyzed customer feedback and sales data to refine product offerings and improve customer retention. 
 
 
@@ -26,7 +26,7 @@ Work experience
   * Designed and implemented secure network infrastructure including VLANs, VPNs, and firewalls, improving segmentation and reducing attack surface.
   * Led organization-wide migration from Windows to Linux, reducing vulnerabilities, improving system stability, eliminating licensing costs and improving overall security posture.
   * Implemented centralized identity and access management (IAM) using OpenLDAP enabling Single Sign-On (SSO) across multiple applications and integration with Google Cloud services, enforcing least-privilege access controls.
-  * Deployed on-premises virtualized (Libvirt/KVM) infrastructure and AWS IaaS cloud-based solutions, replacing manual workflows with centralized open-source systems.
+  * Deployed on-premises virtualized (Libvirt/KVM) infrastructure, replacing manual workflows with centralized open-source systems.
   * Monitored and analyzed network performance using SNMP, proactively identifying anomalies and preventing outages through capacity planning and performance baselining.
   * Developed and maintained a WordPress-based website and e-commerce platform integrating event promotion, product sales, and social media.
 
