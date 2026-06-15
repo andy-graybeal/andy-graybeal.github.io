@@ -75,7 +75,7 @@ I implemented proactive network and device monitoring using SNMP and Nagios, giv
 
 I also maintained PCI compliance for payment processing systems, ensuring secure handling of sensitive financial data and adherence to applicable security standards.
 
-**Platform Migration: Windows to Linux:**
+**Platform Migration — Windows to Linux:**
 To improve security, reliability, and operational efficiency while eliminating software licensing costs, I led a full organizational migration from Windows to Linux-based systems. As part of this effort, I implemented Linux Terminal Server Project (LTSP) infrastructure to centralize desktop management, and deployed X2Go-based remote access to support secure off-site and remote work — years before remote work became a mainstream necessity.
 
 **Identity and Access Management:**
