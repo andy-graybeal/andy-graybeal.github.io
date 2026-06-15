@@ -55,33 +55,55 @@ redirect_from:
 # ------
 # More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-I am an IT professional with experience since the 1990s, installing, supporting, and administering IT systems, currently pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College. My background includes network infrastructure, systems administration, technical support, end-user training, identity and access management, and cybersecurity fundamentals.
 
-I am naturally curious and motivated to learn. I enjoy exploring new technologies, troubleshooting complex problems, and expanding my knowledge. Whether through formal education, independent study, or hands-on experience, I am always looking for opportunities to learn and grow.
+I am an IT professional with experience since the 1990s, installing, supporting, and administering IT systems, currently pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College. My background spans network infrastructure, systems administration, technical support, end-user training, identity and access management, and cybersecurity fundamentals.
 
-One of my most impactful roles was serving as an IT Coordinator for an organization, where I designed, installed, and maintained network infrastructure, including structured cabling, switch configuration, and implementation of WLANs, VLANs, VPNs using OpenVPN, and firewall solutions based on pfSense. I also supported remote office connectivity using Tomato firmware-based router configurations to improve reliability and enable secure site-to-site access.
+I am naturally curious and motivated to learn. I enjoy exploring new technologies, troubleshooting complex problems, and expanding my knowledge. Whether through formal education, independent study, or hands-on experience, I am always looking for opportunities to grow.
 
-To support core organizational services, I deployed and administered a virtualized server environment using KVM/libvirt, hosting directory services, file and print services, monitoring systems, backup infrastructure, web applications, and other business-critical workloads.
+---
 
-I implemented network and device monitoring using SNMP and Nagios, enabling proactive performance monitoring, alerting, troubleshooting, and visibility across critical systems. I also deployed and maintained a centralized backup system using Bacula, strengthening data protection, recovery capabilities, and overall infrastructure resilience. I maintained PCI compliance for payment processing systems, ensuring adherence to security standards and supporting secure handling of sensitive financial data. These systems supported analysis of utilization trends, device health, and capacity metrics, informing long-term infrastructure planning, hardware lifecycle management, and annual budgeting decisions.
+One of my most impactful roles was serving as IT Coordinator for a worker-owned organization, where I took full ownership of the technical infrastructure and drove meaningful improvements in security, reliability, and operational efficiency.
 
-I led a migration from a Windows environment to Linux-based systems, improving security, reliability, and operational efficiency while significantly reducing software licensing costs through the adoption of open-source technologies. As part of this migration, I implemented Linux Terminal Server Project (LTSP) infrastructure to centralize desktop management, along with X2Go-based remote access to support secure off-site and remote work capabilities.
+**Network Infrastructure**
+I secured and modernized the organization's network by designing and implementing structured cabling, switch configuration, and segmented wired and wireless access. To reduce attack surface and improve traffic management, I introduced VLANs and deployed a pfSense-based firewall solution. I extended secure connectivity to remote offices by configuring site-to-site VPNs using OpenVPN and Tomato firmware-based routers, replacing unreliable and unsecured remote access with a stable, encrypted architecture.
 
-Building on this infrastructure, I implemented a centralized Identity and Access Management (IAM) solution using OpenLDAP through Zentyal, integrating Samba and Kerberos to provide enterprise-style Single Sign-On (SSO) services. This infrastructure enabled users to authenticate once to their Linux workstations and securely access multiple organizational resources—including HR systems, business productivity tools, and shared file and print services—without maintaining separate credentials. The solution centralized authentication and authorization, simplified account provisioning and deprovisioning, reduced password-related support requests, reduced administrative overhead, enhanced the user experience, and strengthened security through consistent access controls and policy enforcement. I also integrated OAuth-based authentication for Google Workspace services, extending centralized access management and providing users with secure access to cloud-based collaboration and productivity tools. I additionally deployed and managed GNU Mailman mailing list systems to support structured internal and external communication across teams and customers.
+**Virtualized Server Environment**
+To consolidate hardware and centralize service delivery, I deployed and administered an on-premises virtualized server environment using KVM/libvirt. This platform hosted directory services, file and print services, monitoring systems, backup infrastructure, web applications, and other business-critical workloads — replacing a fragmented collection of physical machines with a manageable, resilient infrastructure.
 
-I designed, deployed, and managed the organization’s WordPress website, supporting e-commerce functionality, event promotion, and public-facing communication. The website was hosted on Amazon Web Services (AWS) EC2 and maintained on a LAMP stack (Linux, Apache, MySQL, PHP), providing a secure, reliable, and scalable platform for online services and organizational outreach.
+**Monitoring and Resilience**
+I implemented proactive network and device monitoring using SNMP and Nagios, giving the organization real-time visibility into system health, performance trends, and potential failures before they became outages. To strengthen data protection and recovery capabilities, I deployed and maintained a centralized backup system using Bacula. These systems together supported long-term capacity planning, hardware lifecycle management, and annual budgeting decisions based on actual utilization data.
 
-# Career Objectives
+I also maintained PCI compliance for payment processing systems, ensuring secure handling of sensitive financial data and adherence to applicable security standards.
 
-I am seeking cybersecurity-focused entry-level positions or internships in security operations, network defense, cloud security, or IT analysis where I can leverage my IT experience while continuing to develop and apply specialized cybersecurity skills in support of organizational security goals.
+**Platform Migration: Windows to Linux**
+To improve security, reliability, and operational efficiency while eliminating software licensing costs, I led a full organizational migration from Windows to Linux-based systems. As part of this effort, I implemented Linux Terminal Server Project (LTSP) infrastructure to centralize desktop management, and deployed X2Go-based remote access to support secure off-site and remote work — years before remote work became a mainstream necessity.
 
-## Areas of Particular Interest
+**Identity and Access Management**
+Building on the new Linux platform, I designed and implemented a centralized IAM solution using OpenLDAP through Zentyal, integrating Samba and Kerberos to deliver enterprise-style Single Sign-On (SSO). Users could authenticate once to their Linux workstations and access HR systems, business productivity tools, and shared file and print services without maintaining separate credentials. This architecture centralized authentication and authorization, simplified account provisioning and deprovisioning, reduced password-related support requests, and enforced consistent access controls and policy across the organization. I extended this further by integrating OAuth-based authentication for Google Workspace, bringing cloud-based collaboration tools under the same centralized access management umbrella.
 
-* Security Operations (SOC)
-* Network Defense and Monitoring
-* Cloud Security
-* Identity and Access Management (IAM)
-* Infrastructure Security
-* Vulnerability Assessment and Risk Management
+I also deployed and managed GNU Mailman mailing list systems to support structured communication across internal teams and external customers.
 
-With a combination of long-term hands-on experience, technical knowledge, curiosity, and a commitment to continuous learning, I am eager to contribute to a team while continuing to grow as a cybersecurity professional. I enjoy learning new technologies, understanding how systems work, and finding practical solutions to technical challenges.
+**Web and Cloud Presence**
+I designed, deployed, and managed the organization's WordPress website, supporting e-commerce functionality, event promotion, and public-facing communication. The site was hosted on AWS EC2 on a LAMP stack (Linux, Apache, MySQL, PHP), providing a secure, reliable, and scalable platform for online services and organizational outreach.
+
+---
+
+## Career Objectives
+
+After a period away from dedicated IT roles, I returned to the field with renewed focus — currently completing my AAS in Cybersecurity and Network Systems and actively building on the deep hands-on foundation I developed over decades of real-world infrastructure work.
+
+I am seeking cybersecurity-focused entry-level positions or internships in security operations, network defense, cloud security, or IT analysis where I can leverage that experience while continuing to develop and apply specialized cybersecurity skills in support of organizational security goals.
+
+### Areas of Particular Interest
+
+- Security Operations (SOC)
+- Network Defense and Monitoring
+- Cloud Security
+- Identity and Access Management (IAM)
+- Infrastructure Security
+- Vulnerability Assessment and Risk Management
+
+With a combination of long-term hands-on experience, technical depth, curiosity, and a commitment to continuous learning, I am eager to contribute to a team while continuing to grow as a cybersecurity professional.
+
+---
+
