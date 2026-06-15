@@ -59,7 +59,7 @@ I am an IT professional with experience since the 1990s, installing, supporting,
 
 I am naturally curious and motivated to learn. I enjoy exploring new technologies, troubleshooting complex problems, and expanding my knowledge. Whether through formal education, independent study, or hands-on experience, I am always looking for opportunities to learn and grow.
 
-One of my most impactful roles was serving as an IT Coordinator for a organization, where I designed, installed, and maintained network infrastructure, including structured cabling, switch configuration, and implementation of WLANs, VLANs, VPNs using OpenVPN, and firewall solutions based on pfSense. I also supported remote office connectivity using Tomato firmware-based router configurations to improve reliability and enable secure site-to-site access.
+One of my most impactful roles was serving as an IT Coordinator for an organization, where I designed, installed, and maintained network infrastructure, including structured cabling, switch configuration, and implementation of WLANs, VLANs, VPNs using OpenVPN, and firewall solutions based on pfSense. I also supported remote office connectivity using Tomato firmware-based router configurations to improve reliability and enable secure site-to-site access.
 
 To support core organizational services, I deployed and administered a virtualized server environment using KVM/libvirt, hosting directory services, file and print services, monitoring systems, backup infrastructure, web applications, and other business-critical workloads.
 
