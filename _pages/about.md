@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "IT Professional • Cybersecurity Student"
+title: "IT Professional • Open-Source Advocate"
 author_profile: true
 redirect_from: 
   - /about/
@@ -55,7 +55,8 @@ redirect_from:
 # ------
 # More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
-Open-source advocate with hands-on infrastructure experience
+Building secure networks, administering systems, and solving complex technical problems through a practical, open-source approach.
+
 ---
 ## Professional Statement
 
