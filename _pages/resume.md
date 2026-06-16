@@ -65,7 +65,7 @@ Professional Skills
 ======
 * Desire for professional growth through pursuit of industry certification and formal education
 * Strong analytical and problem-solving ability with a track record of diagnosing complex, multi-system issues
-* Proven ability to communicate technical concepts clearly to non-technical audiences
+* Proven ability to communicate technical concepts clearly to non-technical staff and users across diverse work environments
 * Self-directed learner with experience spanning formal education, independent study, and hands-on implementation
 * Experienced working independently across private sector, public sector, and cooperative organizations
 * End-user training and change management across major platform migrations
