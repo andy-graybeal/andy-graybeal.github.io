@@ -103,7 +103,7 @@ I am seeking cybersecurity-focused entry-level positions or internships in secur
 - Infrastructure Security
 - Vulnerability Assessment and Risk Management
 
-With a combination of long-term hands-on experience, technical depth, curiosity, and a drive to continuous learning, I am eager to contribute to a team while continuing to grow as a cybersecurity professional.
+With a combination of long-term hands-on experience, technical depth, curiosity, and a drive for continuous learning, I am eager to contribute to a team while continuing to grow as a cybersecurity professional.
 
 ---
 
