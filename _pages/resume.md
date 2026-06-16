@@ -33,8 +33,8 @@ Work experience
 
 * **Tech Support Analyst** \| University of California - Santa Cruz \| *Santa Cruz, California* \| 1999–2004
   *   Progressed from Tier I helpdesk support for a campus of 18,000 students, staff, and faculty to Tier II and eventually dedicated workstation support for approximately 300 clients across demanding departments including Human Resources, Police, Physical Plant, Receiving, and Business Services.
-  *   Installed and configured enterprise application clients including PeopleSoft, Banner, and Business Objects/Crystal Reports, ensuring proper database connectivity and readiness for end users and development staff.
-  *  Administered departmental Windows servers, ensuring high availability and reliable uptime for critical academic and research operations.
+  *  Installed and configured a myriad of applications including enterprise apps such as PeopleSoft, Banner, and Business Objects/Crystal Reports, ensuring proper database connectivity and readiness for end users and development staff.
+  *  Administered and maintained critical server infrastructure including a campus-wide emergency alerting system integrated with phone services for mass notification during public safety events, and WebCBT — the university's sole online learning platform at a time when web-based education was still in its earliest stages — as well as multiple departmental servers supporting academic and administrative operations.
   *  Diagnosed and resolved network connectivity and system anomalies impacting availability and security.
   *  Managed support requests within a ticketed workflow, maintaining SLA compliance across multiple departments and adapting communication style for faculty, staff, and students.
 
