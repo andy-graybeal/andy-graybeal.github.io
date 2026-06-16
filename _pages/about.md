@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Infrastructure Professional | Systems Administrator | Cybersecurity Student"
+title: "Infrastructure Professional /| Systems Administrator /| Cybersecurity Student"
 author_profile: true
 redirect_from: 
   - /about/
@@ -55,6 +55,8 @@ redirect_from:
 # ------
 # More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
+Building secure networks, administering systems, and expanding into cybersecurity through formal education and hands-on technical experience.
+---
 ## Professional Statement
 
 I am an information technology professional with experience spanning systems administration, network infrastructure, identity and access management, cloud services, and enterprise technical support. Throughout my career I have been drawn to the challenge of building reliable, secure, and well-managed technology environments. While I am currently pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College, my interest in cybersecurity is rooted in years of hands-on experience designing, supporting, and securing real-world systems.
