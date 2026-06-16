@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Infrastructure Professional \| Systems Administrator \| Cybersecurity Student"
+title: "'Infrastructure Professional \| Systems Administrator \| Cybersecurity Student'"
 author_profile: true
 redirect_from: 
   - /about/
