@@ -1,4 +1,3 @@
-
 ---
 title: "My Story"
 excerpt: "The about me section"
