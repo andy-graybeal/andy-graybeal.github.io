@@ -40,7 +40,8 @@ Work experience
 
 
 * **Tech Support Specialist** \| Ohio Department of Rehabilitation and Corrections \| *Columbus, Ohio* \| 1999 
-  * Delivered on-site and remote workstation support for correctional facilities across Southeastern Ohio, including system imaging, deployment, and network troubleshooting, as part of a centralized IT Help Desk. 
+  * Began on the central IT Help Desk before transitioning to on-site and remote workstation support across eight facilities including correctional institutions, a pre-release center, and a parole authority throughout Southeastern Ohio and the Columbus area — including SCI, PCI, CRC, HCI, RCI, CCI, Franklin Pre-Release Center, and the Athens Parole Authority.
+  * Performed system imaging, deployment, and network troubleshooting as part of a centralized IT operation supporting the regional corrections infrastructure
 
 
 * **IT Support Technician** \| Tri-Star Computer Solutions \| *Lancaster, Ohio* \| 1995–1998
