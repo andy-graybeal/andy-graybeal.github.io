@@ -70,8 +70,6 @@ I am an experienced information technology professional with a strong open-sourc
 
 ## Career Objectives
 
-I am currently completing my AAS in Cybersecurity and Network Systems and actively building on the deep hands-on foundation I developed over decades of real-world infrastructure work.
-
 I am seeking cybersecurity-focused entry-level positions or internships in security operations, network defense, cloud security, or IT analysis where I can leverage that experience while continuing to develop and apply specialized cybersecurity skills in support of organizational security goals.
 
 ### Areas of Particular Interest
@@ -83,7 +81,6 @@ I am seeking cybersecurity-focused entry-level positions or internships in secur
 - Infrastructure Security
 - Vulnerability Assessment and Risk Management
 
-With a combination of long-term hands-on experience, technical depth, curiosity, and a drive for continuous learning, I am eager to contribute to a team while continuing to grow as a cybersecurity professional.
 
 ---
 
