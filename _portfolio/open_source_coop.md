@@ -1,5 +1,5 @@
 ---
-title: "Building an Open-Source Infrastructure for a Multi-Business Cooperative"
+title: "Building an Open-Source Infrastructure for a Multi-Faceted Cooperative"
 excerpt: "Open-Source Puzzle Piecing"
 collection: portfolio
 ---
