@@ -60,7 +60,7 @@ I enjoy solving complex technical problems through a practical, open-source appr
 ---
 ## Professional Statement
 
-I work across systems administration, network infrastructure, identity and access management, cloud services, and enterprise technical support — building reliable, secure, and well-managed technology environments. My experience has been rooted primarily in on-premises infrastructure — designing and administering systems like OpenLDAP, Kerberos, and Samba for centralized identity and access management, and OpenVPN for secure remote connectivity. I am now expanding that foundation through hands-on work with modern open-source IAM platforms such as Keycloak, FreeIPA, and Authentik, alongside AWS IAM, as well as WireGuard for next-generation VPN connectivity.
+I work across systems administration, network infrastructure, identity and access management, cloud services, and enterprise technical support — building reliable, secure, and well-managed technology environments. My experience has been rooted primarily in on-premises infrastructure — designing and administering systems using OpenLDAP, Kerberos, and Samba for centralized identity and access management, and OpenVPN for secure remote connectivity. I am now expanding that foundation through hands-on work with modern open-source IAM platforms such as Keycloak, FreeIPA, and Authentik, alongside AWS IAM, as well as WireGuard for next-generation VPN connectivity.
 
 
 
