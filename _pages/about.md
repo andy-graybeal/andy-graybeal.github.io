@@ -68,7 +68,7 @@ I am now expanding that foundation through hands-on work with modern open-source
 
 At the same time, I am pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College and working toward industry certifications to strengthen and formalize knowledge that has largely been developed through decades of hands-on experience and self-directed learning.
 
-Many of these technologies and practices were applied in real-world environments throughout my career. Readers interested in a more detailed technical discussion of this work may wish to explore my case study, *Building Open-Source Infrastructure for a Worker-Owned Cooperative*, which documents the design, implementation, and administration of a Linux-based infrastructure incorporating centralized identity management, networking, virtualization, remote access, and monitoring.
+If you're interested, I've written more about many of the technologies and systems I've worked with in *Building Open-Source On-Premise Infrastructure for a Worker-Owned Cooperative*.
 
 
 
