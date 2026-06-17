@@ -21,3 +21,7 @@ I also deployed and managed GNU Mailman mailing list systems to support structur
 **Web and Cloud Presence:** I designed, deployed, and managed the organization's WordPress website, supporting e-commerce functionality, event promotion, and public-facing communication. The site was hosted on AWS EC2 on a LAMP stack (Linux, Apache, MySQL, PHP), providing a secure, reliable, and scalable platform for online services and organizational outreach.
 
 **Open-Source ERP:** One project I was unable to complete before my departure was the implementation of an open-source ERP system. After researching several options — including Compiere, ADempiere, and OpenERP — I settled on OpenBravo as the best fit for the organization's needs. The groundwork was laid, but the project was never finished. It remains a reminder that not every initiative reaches completion.
+
+*Writing still in progress:*  I will get around to documenting what apps i used but breifly need to flush my memory: used orangeCRM for HR, Moodle for training managemnt, Document management, Facilities management for maintenance, something for timesheets, much of which didn't get implemented before I left.
+
+*writing still in progress:* write about MADM/LVM, what hardware was used; upgrade from 8.04 to 10.04, move from on-prem website, mail and filesystem, to AWS and google
