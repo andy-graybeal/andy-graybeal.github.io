@@ -5,7 +5,6 @@ collection: portfolio
 ---
 
 
-# My Journey Into Technology
 
 My curiosity about technology started early. Around kindergarten, my father taught me the basics of GW-BASIC on an 8088 PC, and from that point on there always seemed to be a computer somewhere in our living room. Around the same time, he gave me a Hallicrafters shortwave radio from the tube era—the kind that needed time to warm up before it came to life. I spent countless hours listening to distant voices and signals, fascinated by the idea that information could travel invisibly across the world.
 
