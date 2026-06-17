@@ -60,7 +60,7 @@ I enjoy solving complex technical problems through a practical, open-source appr
 ---
 ## Professional Statement
 
-I am an experienced information technology professional with a strong open-source background with experience spanning systems administration, network infrastructure, identity and access management, cloud services, and enterprise technical support. Throughout my career I have been drawn to the challenge of building reliable, secure, and well-managed technology environments. While I am currently pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College, my interest in cybersecurity is rooted in years of hands-on experience designing, supporting, and securing real-world systems.
+I am an experienced information technology professional with a strong open-source background spanning systems administration, network infrastructure, identity and access management, cloud services, and enterprise technical support. Throughout my career I have been drawn to the challenge of building reliable, secure, and well-managed technology environments. While I am currently pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College, my interest in cybersecurity is rooted in years of hands-on experience designing, supporting, and securing real-world systems.
 
 
 
