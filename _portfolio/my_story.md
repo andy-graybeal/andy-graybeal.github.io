@@ -1,5 +1,5 @@
 ---
-title: "My Story"
+title: "My Technological Journey"
 excerpt: "The about me section"
 collection: portfolio
 ---
