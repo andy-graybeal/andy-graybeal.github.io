@@ -64,11 +64,12 @@ I work across systems administration, network infrastructure, identity and acces
 
 My experience has been rooted primarily in on-premises infrastructure — designing and administering identity and access management solutions using OpenLDAP, Kerberos, and Samba to provide centralized authentication, authorization, and Single Sign-On (SSO), along with OpenVPN for secure remote connectivity. I have also implemented monitoring and alerting solutions using SNMP and Nagios to improve operational visibility, support capacity planning, and proactively identify issues before they impact users.
 
-I am now expanding that foundation through hands-on work with modern open-source IAM platforms such as Keycloak, FreeIPA, and Authentik, alongside AWS IAM, as well as WireGuard for next-generation VPN connectivity.
+I am now expanding that foundation through hands-on work with modern open-source IAM platforms such as Keycloak, FreeIPA, and Authentik, alongside AWS IAM, as well as WireGuard for next-generation VPN connectivity. I am also developing skills in security monitoring, log analysis, and SIEM technologies as I continue building toward security-focused infrastructure and cybersecurity roles.
 
 At the same time, I am pursuing formal education in Cybersecurity and Network Systems and working toward industry certifications to strengthen and formalize knowledge that has largely been developed through decades of hands-on experience and self-directed learning.
 
-Many of these technologies and practices were applied in real-world environments throughout my career. Readers interested in a more detailed technical discussion of this work may wish to explore my case study, *Building Open-Source Infrastructure for a Worker-Owned Cooperative*, which documents the design, implementation, and administration of a Linux-based infrastructure incorporating centralized identity management, networking, virtualization, remote access, monitoring, and security services.
+Many of these technologies and practices were applied in real-world environments throughout my career. Readers interested in a more detailed technical discussion of this work may wish to explore my case study, *Building Open-Source Infrastructure for a Worker-Owned Cooperative*, which documents the design, implementation, and administration of a Linux-based infrastructure incorporating centralized identity management, networking, virtualization, remote access, and monitoring.
+
 
 
 
