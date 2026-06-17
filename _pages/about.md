@@ -71,7 +71,7 @@ In parallel, I am developing skills in security monitoring, log analysis, SIEM p
 
 At the same time, I am pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College and working toward industry certifications to strengthen and formalize knowledge that has largely been developed through decades of hands-on experience and self-directed learning.
 
-If you're interested, I've written more about many of the technologies and systems I've worked with in [/portfolio/open_source_coop/](Building Open-Source On-Premise Infrastructure for a Worker-Owned Cooperative).
+If you're interested, I've written more about many of the technologies and systems I've worked with in [Building Open-Source On-Premise Infrastructure for a Worker-Owned Cooperative](/portfolio/open_source_coop/).
 
 
 
