@@ -60,12 +60,7 @@ I enjoy solving complex technical problems through a practical, open-source appr
 ---
 ## Professional Statement
 
-I am an experienced information technology professional with a strong open-source background spanning systems administration, network infrastructure, identity and access management, cloud services, and enterprise technical support. Throughout my career I have been drawn to the challenge of building reliable, secure, and well-managed technology environments. While I am currently pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College, my interest in cybersecurity is rooted in years of hands-on experience designing, supporting, and securing real-world systems.
-
-
-
-
-
+I work across systems administration, network infrastructure, identity and access management, cloud services, and enterprise technical support — building reliable, secure, and well-managed technology environments. My experience has been rooted primarily in on-premises infrastructure — designing and administering systems like OpenLDAP, Kerberos, and Samba for centralized identity and access management, and OpenVPN for secure remote connectivity. I am now expanding that foundation through hands-on work with modern open-source IAM platforms such as Keycloak, FreeIPA, and Authentik, alongside AWS IAM, as well as WireGuard for next-generation VPN connectivity.
 ---
 
 ## Career Objectives
