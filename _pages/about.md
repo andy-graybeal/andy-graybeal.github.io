@@ -60,6 +60,7 @@ I enjoy solving complex technical problems through a practical, open-source appr
 ---
 ## Professional Statement
 
+My experience has been primarily focused on on-premises infrastructure, including identity and access management with OpenLDAP, Kerberos, and Samba; secure remote access with OpenVPN; virtualization using KVM/libvirt; Linux Terminal Server Project (LTSP) terminal server environments providing centralized desktop and application access; and the deployment and administration of web and enterprise applications on LAMP and Java-based platforms. I have also implemented and administered infrastructure monitoring and alerting using SNMP and Icinga to improve operational visibility, support capacity planning, and proactively identify issues before they impact users. In addition, I have gained cloud infrastructure experience through the deployment and management of virtual machines on Amazon Web Services EC2.
 
 My experience has been rooted primarily in on-premises infrastructure — deploying and administering identity and access management solutions using OpenLDAP, Kerberos, and Samba to provide centralized authentication, authorization, and Single Sign-On (SSO), along with OpenVPN for secure remote connectivity. I have also implemented monitoring and alerting solutions using SNMP and Nagios to improve operational visibility, support capacity planning, and proactively identify issues before they impact users.
 
