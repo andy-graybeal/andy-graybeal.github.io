@@ -66,7 +66,7 @@ I am now actively updating and expanding my on-premises foundation to keep pace 
 
 To formalize my background, I am pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College and working toward industry certifications, bringing structure and credentialing to knowledge developed over decades of practical experience and self-directed learning.
 
-If you're interested, I've written more about the technologies and systems I've worked with in [Building Open-Source On-Premise Infrastructure for a Worker-Owned Cooperative](/portfolio/open_source_coop/).
+If you're interested, I've written more about the technologies and systems I've worked with in [Building Open-Source On-Premise Infrastructure](/portfolio/open_source_coop/).
 
 
 
