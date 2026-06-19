@@ -1,5 +1,5 @@
 ---
-title: "Building Open-Source On-Premise Infrastructure for a for a Multi-Faceted Worker-Owned Cooperative"
+title: "Building Open-Source On-Premise Infrastructure"
 excerpt: "Open-Source Puzzle Piecing"
 collection: portfolio
 ---
