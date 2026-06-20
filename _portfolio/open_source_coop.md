@@ -24,4 +24,4 @@ I also deployed and managed GNU Mailman mailing list systems to support structur
 
 *Writing still in progress:*  I will get around to documenting what apps i used but breifly need to flush my memory: used orangeCRM for HR, Moodle for training managemnt, Document management, Facilities management for maintenance, something for timesheets, much of which didn't get implemented before I left.
 
-*writing still in progress:* write about MADM/LVM, what hardware was used; upgrade from 8.04 to 10.04, move from on-prem website, mail and filesystem, to AWS and google
+*writing still in progress:* write about madm/LVM, what hardware was used; upgrade from 8.04 to 10.04, move from on-prem website, mail and filesystem, to AWS and google
