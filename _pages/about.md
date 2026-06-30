@@ -60,7 +60,11 @@ I enjoy solving complex technical problems through a practical, open-source appr
 ---
 ## Professional Statement
 
-I began my IT career in 1995 as a technician at a local computer shop and Internet service provider (ISP), where I developed a strong foundation in computer hardware, networking, troubleshooting, and customer support. Over the years, that hands-on experience evolved into increasingly advanced infrastructure and systems administration roles. My experience has been rooted primarily in on-premises infrastructure, including:
+I began my IT career in 1995 as a technician at a local computer shop and Internet service provider (ISP), where I developed a strong foundation in computer hardware, networking, troubleshooting, and customer support. Over the years, that hands-on experience evolved into increasingly advanced infrastructure and systems administration roles. 
+
+After more than 15 years in IT, I stepped away from the industry in 2013 to help raise my child. In 2015, I launched and operated a successful mobile food business, which I ran until the COVID-19 pandemic significantly impacted the industry in 2021. When I decided to return to IT, I found it challenging to compete without formal degrees or industry certifications despite my years of hands-on experience. I enrolled at Hocking College to pursue an Associate of Applied Science in Cybersecurity and Network Systems, began working toward industry certifications, and plan to continue my education by earning a bachelor's degree in Cybersecurity.
+
+My experience has been rooted primarily in on-premises infrastructure, including:
 
 - **Identity and Access Management:** Administered centralized authentication and authorization using OpenLDAP, Kerberos, and Samba.
 - **Network Security & Remote Access:** Designed, implemented, and administered network infrastructure from the ground up, including pfSense firewalls and secure OpenVPN remote access.
