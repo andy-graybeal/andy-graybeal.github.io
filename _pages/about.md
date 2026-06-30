@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Professional Statement"
 author_profile: true
 redirect_from: 
   - /about/
@@ -55,10 +55,12 @@ redirect_from:
 # ------
 # More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
+---
+
 I enjoy solving complex technical problems through a practical, open-source approach.
 
 ---
-## Professional Statement
+
 
 I began my IT career in 1995 as a technician at a local computer shop and Internet service provider (ISP), where I developed a strong foundation in computer hardware, networking, troubleshooting, and customer support. Over the years, that hands-on experience evolved into increasingly advanced infrastructure and systems administration roles. 
 
