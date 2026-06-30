@@ -60,9 +60,32 @@ I enjoy solving complex technical problems through a practical, open-source appr
 ---
 ## Professional Statement
 
-My experience has been rooted primarily in on-premises infrastructure, including identity and access management with OpenLDAP, Kerberos, and Samba; secure remote access with OpenVPN; firewall and network security management with pfSense; virtualization using KVM/libvirt; providing centralized desktop management and application access through Linux Terminal Server Project (LTSP); and the deployment and administration of web and enterprise applications on LAMP and Java-based platforms. I have also implemented and administered infrastructure monitoring and alerting using SNMP and Icinga to improve operational visibility, support capacity planning, and proactively identify issues before they impact users. In addition, I have gained cloud infrastructure experience through the deployment and management of virtual machines on Amazon Web Services EC2.
+I began my IT career in 1995 as a technician at a local computer shop and Internet service provider (ISP), where I developed a strong foundation in computer hardware, networking, troubleshooting, and customer support. Over the years, that hands-on experience evolved into increasingly advanced infrastructure and systems administration roles. My experience has been rooted primarily in on-premises infrastructure, including:
 
-I am now actively updating and expanding my on-premises foundation to keep pace with the industry's shift toward cloud and hybrid architectures. This includes learning open-source IAM platforms (Keycloak, FreeIPA, Authentik) and AWS IAM; building skills across the modern infrastructure stack, including Infrastructure as Code (Terraform, OpenTofu, AWS CloudFormation), automation and configuration management (Ansible), endpoint management and device lifecycle administration, containerization (Docker, Podman), container orchestration (Kubernetes, K3s), CI/CD and DevSecOps workflows (GitHub Actions, GitLab CI/CD), cloud-native monitoring and observability (Prometheus, Grafana, Loki), and secrets management (HashiCorp Vault, AWS Secrets Manager); and developing security-focused skills such as log analysis and SIEM platforms (Wazuh, Splunk), intrusion detection and prevention technologies (Suricata, Zeek, Snort), vulnerability management (Nessus, OpenVAS), incident response, and cloud security services (CloudTrail, GuardDuty, Security Hub).
+- **Identity and Access Management:** Administered centralized authentication and authorization using OpenLDAP, Kerberos, and Samba.
+- **Remote Access:** Designed, deployed, and maintained secure remote access solutions using OpenVPN.
+- **Network Security:** Managed firewall infrastructure, VPN connectivity, and network security using pfSense.
+- **Virtualization:** Deployed and administered virtualized environments using KVM and libvirt.
+- **Centralized Desktop Services:** Implemented and managed Linux Terminal Server Project (LTSP) environments to provide centralized desktop management and application delivery.
+- **Web and Enterprise Applications:** Deployed, configured, and administered web and enterprise applications on LAMP and Java-based platforms.
+- **Infrastructure Monitoring:** Implemented SNMP- and Icinga-based monitoring and alerting to improve operational visibility, support capacity planning, and proactively identify issues before they impacted users.
+- **Cloud Infrastructure:** Deployed and managed virtual machines and supporting infrastructure on Amazon Web Services (AWS) EC2.
+
+I am expanding my expertise in modern infrastructure, cloud, and security technologies, including:
+
+Modern Identity and Access Management: Learning open-source IAM platforms including Keycloak, FreeIPA, and Authentik, as well as AWS Identity and Access Management (IAM).
+Infrastructure as Code (IaC): Building proficiency with Terraform, OpenTofu, and AWS CloudFormation to automate infrastructure deployment and management.
+Automation and Configuration Management: Developing expertise with Ansible to automate system provisioning, configuration, and maintenance.
+Endpoint Management: Expanding skills in endpoint management, device lifecycle administration, and systems management practices.
+Containers and Orchestration: Working with Docker, Podman, Kubernetes, and K3s to deploy and manage containerized applications.
+CI/CD and DevSecOps: Learning GitHub Actions and GitLab CI/CD to implement automated build, testing, deployment, and security workflows.
+Monitoring and Observability: Building experience with Prometheus, Grafana, and Loki for cloud-native monitoring, visualization, and log aggregation.
+Secrets Management: Learning secure credential and secret management using HashiCorp Vault and AWS Secrets Manager.
+Security Monitoring and SIEM: Developing skills in log analysis and security monitoring using Wazuh and Splunk.
+Intrusion Detection and Prevention: Gaining experience with Suricata, Zeek, and Snort to detect and respond to network threats.
+Vulnerability Management: Learning vulnerability assessment and remediation using Nessus and OpenVAS.
+Incident Response: Building practical knowledge of incident response processes, investigation techniques, and security operations.
+Cloud Security: Developing expertise with AWS CloudTrail, GuardDuty, and Security Hub to improve cloud security posture and threat detection.
 
 To formalize my background, I am pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College and working toward industry certifications, bringing structure and credentialing to knowledge developed over decades of practical experience and self-directed learning.
 
