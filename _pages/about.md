@@ -73,19 +73,19 @@ I began my IT career in 1995 as a technician at a local computer shop and Intern
 
 I am expanding my expertise in modern infrastructure, cloud, and security technologies, including:
 
-Modern Identity and Access Management: Learning open-source IAM platforms including Keycloak, FreeIPA, and Authentik, as well as AWS Identity and Access Management (IAM).
-Infrastructure as Code (IaC): Building proficiency with Terraform, OpenTofu, and AWS CloudFormation to automate infrastructure deployment and management.
-Automation and Configuration Management: Developing expertise with Ansible to automate system provisioning, configuration, and maintenance.
-Endpoint Management: Expanding skills in endpoint management, device lifecycle administration, and systems management practices.
-Containers and Orchestration: Working with Docker, Podman, Kubernetes, and K3s to deploy and manage containerized applications.
-CI/CD and DevSecOps: Learning GitHub Actions and GitLab CI/CD to implement automated build, testing, deployment, and security workflows.
-Monitoring and Observability: Building experience with Prometheus, Grafana, and Loki for cloud-native monitoring, visualization, and log aggregation.
-Secrets Management: Learning secure credential and secret management using HashiCorp Vault and AWS Secrets Manager.
-Security Monitoring and SIEM: Developing skills in log analysis and security monitoring using Wazuh and Splunk.
-Intrusion Detection and Prevention: Gaining experience with Suricata, Zeek, and Snort to detect and respond to network threats.
-Vulnerability Management: Learning vulnerability assessment and remediation using Nessus and OpenVAS.
-Incident Response: Building practical knowledge of incident response processes, investigation techniques, and security operations.
-Cloud Security: Developing expertise with AWS CloudTrail, GuardDuty, and Security Hub to improve cloud security posture and threat detection.
+- **Modern Identity and Access Management:** Learning open-source IAM platforms including Keycloak, FreeIPA, and Authentik, as well as AWS Identity and Access Management (IAM).
+- **Infrastructure as Code (IaC):** Building proficiency with Terraform, OpenTofu, and AWS CloudFormation to automate infrastructure deployment and management.
+- **Automation and Configuration Management:** Developing expertise with Ansible to automate system provisioning, configuration, and maintenance.
+- **Endpoint Management:** Expanding skills in endpoint management, device lifecycle administration, and systems management practices.
+- **Containers and Orchestration:** Working with Docker, Podman, Kubernetes, and K3s to deploy and manage containerized applications.
+- **CI/CD and DevSecOps:** Learning GitHub Actions and GitLab CI/CD to implement automated build, testing, deployment, and security workflows.
+- **Monitoring and Observability:** Building experience with Prometheus, Grafana, and Loki for cloud-native monitoring, visualization, and log aggregation.
+- **Secrets Management:** Learning secure credential and secret management using HashiCorp Vault and AWS Secrets Manager.
+- **Security Monitoring and SIEM:** Developing skills in log analysis and security monitoring using Wazuh and Splunk.
+- **Intrusion Detection and Prevention:** Gaining experience with Suricata, Zeek, and Snort to detect and respond to network threats.
+- **Vulnerability Management:** Learning vulnerability assessment and remediation using Nessus and OpenVAS.
+- **Incident Response:** Building practical knowledge of incident response processes, investigation techniques, and security operations.
+- **Cloud Security:** Developing expertise with AWS CloudTrail, GuardDuty, and Security Hub to improve cloud security posture and threat detection.
 
 To formalize my background, I am pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College and working toward industry certifications, bringing structure and credentialing to knowledge developed over decades of practical experience and self-directed learning.
 
