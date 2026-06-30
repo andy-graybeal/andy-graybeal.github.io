@@ -67,7 +67,7 @@ I began my IT career in 1995 as a technician at a local computer shop and Intern
 - **Virtualization:** Deployed and administered virtualized environments using KVM and libvirt.
 - **Centralized Desktop Services:** Implemented and managed Linux Terminal Server Project (LTSP) environments to provide centralized desktop management and application delivery.
 - **Web and Enterprise Applications:** Deployed, configured, and administered web and enterprise applications on LAMP and Java-based platforms.
-- **Infrastructure Monitoring:** Implemented SNMP and Icinga-based monitoring and alerting to improve operational visibility, support capacity planning, and proactively identify issues before they impacted users.
+- **Infrastructure Monitoring:** Implemented SNMP and Icinga-based (Nagios) monitoring and alerting to improve operational visibility, support capacity planning, and proactively identify issues before they impacted users.
 - **Cloud Infrastructure:** Deployed and managed virtual machines and supporting infrastructure on Amazon Web Services (AWS) EC2.
 
 I am expanding my expertise in modern infrastructure, cloud, and security technologies, including:
