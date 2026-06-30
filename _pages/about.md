@@ -86,7 +86,7 @@ I am expanding my expertise in modern infrastructure, cloud, and security techno
 - **Incident Response:** Building practical knowledge of incident response processes, investigation techniques, and security operations.
 - **Cloud Security:** Developing expertise with AWS CloudTrail, GuardDuty, and Security Hub to improve cloud security posture and threat detection.
 
-To formalize my background, I am pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College and working toward industry certifications, bringing structure and credentialing to knowledge developed over decades of practical experience and self-directed learning.
+To formalize my background, I am pursuing an Associate of Applied Science in Cybersecurity and Network Systems at Hocking College while working toward industry certifications, with plans to continue on to a bachelor's degree in Cybersecurity.
 
 If you're interested, I've written more about the technologies and systems I've worked with in [Building Open-Source On-Premise Infrastructure](/portfolio/open_source_coop/).
 
