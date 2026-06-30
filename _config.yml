@@ -235,6 +235,9 @@ collections:
   resume: 
     output: true
     permalink: /:collection/:path/
+  bio:
+    output: true
+    permalink: /:collection/:path/
   
 
 
@@ -306,6 +309,15 @@ defaults:
   - scope:
       path: ""
       type: resume
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+    # _bio
+  - scope:
+      path: ""
+      type: bio
     values:
       layout: single
       author_profile: true
