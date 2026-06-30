@@ -63,12 +63,11 @@ I enjoy solving complex technical problems through a practical, open-source appr
 I began my IT career in 1995 as a technician at a local computer shop and Internet service provider (ISP), where I developed a strong foundation in computer hardware, networking, troubleshooting, and customer support. Over the years, that hands-on experience evolved into increasingly advanced infrastructure and systems administration roles. My experience has been rooted primarily in on-premises infrastructure, including:
 
 - **Identity and Access Management:** Administered centralized authentication and authorization using OpenLDAP, Kerberos, and Samba.
-- **Remote Access:** Designed, deployed, and maintained secure remote access solutions using OpenVPN.
-- **Network Security:** Managed firewall infrastructure, VPN connectivity, and network security using pfSense.
+- **Network Security & Remote Access:** Designed, implemented, and administered network infrastructure from the ground up, including pfSense firewalls and secure OpenVPN remote access.
 - **Virtualization:** Deployed and administered virtualized environments using KVM and libvirt.
 - **Centralized Desktop Services:** Implemented and managed Linux Terminal Server Project (LTSP) environments to provide centralized desktop management and application delivery.
 - **Web and Enterprise Applications:** Deployed, configured, and administered web and enterprise applications on LAMP and Java-based platforms.
-- **Infrastructure Monitoring:** Implemented SNMP- and Icinga-based monitoring and alerting to improve operational visibility, support capacity planning, and proactively identify issues before they impacted users.
+- **Infrastructure Monitoring:** Implemented SNMP and Icinga-based monitoring and alerting to improve operational visibility, support capacity planning, and proactively identify issues before they impacted users.
 - **Cloud Infrastructure:** Deployed and managed virtual machines and supporting infrastructure on Amazon Web Services (AWS) EC2.
 
 I am expanding my expertise in modern infrastructure, cloud, and security technologies, including:
