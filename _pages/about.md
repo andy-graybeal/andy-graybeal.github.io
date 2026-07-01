@@ -57,7 +57,7 @@ redirect_from:
 
 ---
 
-I enjoy solving complex technical problems through a practical, open-source approach.
+I enjoy solving technical problems with a practical, open-source approach.
 
 ---
 ### Professional Statement
