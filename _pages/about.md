@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Andy Graybeal's Fantastic Homepage - "
+title: "Andy Graybeal's Fantastic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
