@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Andy Graybeal's Fantastic Homepage"
+title: "Linux Nerd • Open-Source Advocate "
 author_profile: true
 redirect_from: 
   - /about/
