@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Professional Statement"
+title: "Andy's Meanderings"
 author_profile: true
 redirect_from: 
   - /about/
@@ -60,7 +60,8 @@ redirect_from:
 I enjoy solving complex technical problems through a practical, open-source approach.
 
 ---
-
+Professional Statement
+===
 
 I began my IT career in 1995 as a technician at a local computer shop and Internet service provider (ISP), where I developed a strong foundation in computer hardware, networking, troubleshooting, and customer support. Over the years, that hands-on experience evolved into increasingly advanced infrastructure and systems administration roles. 
 
