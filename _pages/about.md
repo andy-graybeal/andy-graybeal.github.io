@@ -60,14 +60,20 @@ redirect_from:
 I enjoy solving technical problems with a practical, open-source approach.
 
 ---
-### Professional Statement
+## Professional Statement
+---
 
+### Background
 
-I began my IT career in 1995 as a technician at a local computer shop and Internet service provider (ISP), where I developed a strong foundation in computer hardware, networking, troubleshooting, and customer support. Over the years, that hands-on experience evolved into increasingly advanced infrastructure and systems administration roles. 
+I began my IT career in 1995, working as a field and in-house technician — handling network installs, upgrades, and repairs, while also providing phone support for retail and commercial customers and ISP subscribers. That broad hands-on foundation carried into a help desk role supporting a large university campus, which grew into server administration and workstation support, and eventually into network design, virtualization, and identity infrastructure work as an IT Coordinator — with a consistent thread of modernizing systems and infrastructure as technology evolved.
 
-After more than 15 years in IT, I stepped away from the industry in 2013 to help raise my child. In 2015, I launched and operated a successful mobile food business, which I ran until the COVID-19 pandemic significantly impacted the industry in 2021. When I decided to return to IT, I found it challenging to compete without formal degrees or industry certifications despite my years of hands-on experience. I enrolled at Hocking College to pursue an Associate of Applied Science in Cybersecurity and Network Systems, began working toward industry certifications, and plan to continue my education by earning a bachelor's degree in Cybersecurity.
+After more than 15 years in IT, I stepped away from the industry in 2014 to help raise my child. In 2015, I launched and operated a mobile food business, successfully running it for six years until the COVID-19 pandemic disrupted the industry in 2021. I spent the next several years in precision manufacturing as a CNC machine operator, before deciding to return to IT and formalize my hands-on experience with a degree and industry certifications rather than rely on credentials that predated the shift. I enrolled at Hocking College to pursue an Associate of Applied Science in Cybersecurity and Network Systems, expected in 2027, and am working toward relevant certifications alongside plans to continue on to a bachelor's degree in Cybersecurity.
 
-My experience has been rooted primarily in on-premises infrastructure, including:
+---
+
+### Experience
+
+My experience has been rooted in on-premises infrastructure:
 
 - **Identity and Access Management:** Administered centralized authentication and authorization using OpenLDAP, Kerberos, and Samba.
 - **Network Security & Remote Access:** Designed, implemented, and administered network infrastructure from the ground up, including pfSense firewalls and secure OpenVPN remote access.
@@ -75,47 +81,30 @@ My experience has been rooted primarily in on-premises infrastructure, including
 - **Centralized Desktop Services:** Implemented and managed Linux Terminal Server Project (LTSP) environments to provide centralized desktop management and application delivery.
 - **Web and Enterprise Applications:** Deployed, configured, and administered web and enterprise applications on LAMP and Java-based platforms.
 - **Infrastructure Monitoring:** Implemented SNMP and Icinga-based (Nagios) monitoring and alerting to improve operational visibility, support capacity planning, and proactively identify issues before they impacted users.
-- **Cloud Infrastructure:** Deployed and managed virtual machines and supporting infrastructure on Amazon Web Services (AWS) EC2.
+- **Cloud Infrastructure:** Deployed and managed virtual machines on Amazon Web Services (AWS) EC2.
 
-I am expanding my expertise in modern infrastructure, cloud, and security technologies, including:
+I've written more about this experience in [Building Open-Source On-Premise Infrastructure](/portfolio/open_source_coop/).
 
-- **Modern Identity and Access Management:** Learning open-source IAM platforms including Keycloak, FreeIPA, and Authentik, as well as AWS Identity and Access Management (IAM).
-- **Infrastructure as Code (IaC):** Building proficiency with Terraform, OpenTofu, and AWS CloudFormation to automate infrastructure deployment and management.
-- **Automation and Configuration Management:** Developing expertise with Ansible to automate system provisioning, configuration, and maintenance.
-- **Endpoint Management:** Expanding skills in endpoint management, device lifecycle administration, and systems management practices.
-- **Containers and Orchestration:** Working with Docker, Podman, Kubernetes, and K3s to deploy and manage containerized applications.
-- **CI/CD and DevSecOps:** Learning GitHub Actions and GitLab CI/CD to implement automated build, testing, deployment, and security workflows.
-- **Monitoring and Observability:** Building experience with Prometheus, Grafana, and Loki for cloud-native monitoring, visualization, and log aggregation.
-- **Secrets Management:** Learning secure credential and secret management using HashiCorp Vault and AWS Secrets Manager.
-- **Security Monitoring and SIEM:** Developing skills in log analysis and security monitoring using Wazuh and Splunk.
-- **Intrusion Detection and Prevention:** Gaining experience with Suricata, Zeek, and Snort to detect and respond to network threats.
-- **Vulnerability Management:** Learning vulnerability assessment and remediation using Nessus and OpenVAS.
-- **Incident Response:** Building practical knowledge of incident response processes, investigation techniques, and security operations.
-- **Cloud Security:** Developing expertise with AWS CloudTrail, GuardDuty, and Security Hub to improve cloud security posture and threat detection.
+### Currently Expanding into
+
+- **Modern IAM:** Keycloak, FreeIPA, and Authentik, AWS IAM
+- **Infrastructure as Code (IaC):** Terraform, OpenTofu, AWS CloudFormation
+- **Automation:** Ansible
+- **Containers and Orchestration:** Docker, Podman, Kubernetes, K3s
+- **CI/CD and DevSecOps:** GitHub Actions, GitLab CI/CD
+- **Monitoring and Observability:**  Prometheus, Grafana, Loki
+- **Secrets Management:** HashiCorp Vault, AWS Secrets Manager.
+- **Security Monitoring and SIEM:** Wazuh, Splunk.
+- **Intrusion Detection and Prevention:** Suricata, Zeek, Snort
+- **Vulnerability Management:** Nessus, OpenVAS.
+- **Incident Response and Cloud Security:** AWS CloudTrail, GuardDuty, Security Hub
 
 If you're interested, I've written more about the technologies and systems I've worked with in [Building Open-Source On-Premise Infrastructure](/portfolio/open_source_coop/).
 
 
+### What I'm Looking For
 
-
-
-
-
----
-
-## Career Objectives
-
-I am seeking cybersecurity-focused entry-level positions or internships in security operations, network defense, cloud security, or IT analysis where I can leverage that experience while continuing to develop and apply specialized cybersecurity skills in support of organizational security goals.
-
-### Areas of Particular Interest
-
-- Security Operations (SOC)
-- Network Defense and Monitoring
-- Cloud Security
-- Identity and Access Management (IAM)
-- Infrastructure Security
-- Vulnerability Assessment and Risk Management
-
+I'm seeking entry-level or internship opportunities in security operations, network defense, cloud security, or IT analysis — roles where I can build on this foundation while continuing to develop specialized cybersecurity skills.
 
 ---
 
