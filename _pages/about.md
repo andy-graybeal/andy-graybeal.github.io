@@ -99,8 +99,6 @@ I've written more about this experience in [Building Open-Source On-Premise Infr
 - **Vulnerability Management:** Nessus, OpenVAS.
 - **Incident Response and Cloud Security:** AWS CloudTrail, GuardDuty, Security Hub
 
-If you're interested, I've written more about the technologies and systems I've worked with in [Building Open-Source On-Premise Infrastructure](/portfolio/open_source_coop/).
-
 
 ### What I'm Looking For
 
