@@ -61,8 +61,9 @@ I enjoy solving technical problems with a practical, open-source approach.
 
 ---
 ## Professional Statement
+IT infrastructure professional with 30 years of progressive experience designing, implementing, modernizing, and supporting network and server infrastructure across small businesses, higher education, and worker-owned cooperative environments. Proven track record of guiding organizations through technology transitions—including network modernization, Linux migration, identity and access management, virtualization, and cloud-hosted services—while maintaining secure, reliable, and resilient operations. Currently completing an Associate of Applied Science in Cybersecurity and Network Systems to complement extensive real-world experience with current cybersecurity principles and best practices.
 
-
+---
 ### Background
 
 I began my IT career in 1995 as a technician at Tri-Star Computer Solutions, installing and supporting networks, servers, and workstations for retail, manufacturing, and public sector clients, while also delivering phone-based technical support for a regional Internet service provider. That hands-on foundation carried into progressively larger environments — from workstation support for state corrections facilities, to a multi-year progression at the University of California, Santa Cruz, from Tier I help desk to server administration supporting roughly 300 clients across university departments.
@@ -70,8 +71,6 @@ I began my IT career in 1995 as a technician at Tri-Star Computer Solutions, ins
 From 2004 to 2013, as IT Coordinator for a worker-owned restaurant cooperative, I designed and implemented secure network infrastructure, led an organization-wide migration from Windows to Linux, and built centralized identity and access management using OpenLDAP for single sign-on across multiple applications. I also deployed virtualized infrastructure and implemented performance monitoring to support long-term capacity planning.
 
 In 2015, I founded and operated a mobile food business, managing its strategic planning, operations, and technology — including a self-administered AWS-hosted e-commerce platform — until the COVID-19 pandemic disrupted the industry in 2021. I then spent several years as a CNC machine operator in precision manufacturing before returning to IT, enrolling at Hocking College in an Associate of Applied Science in Cybersecurity and Network Systems program, expected in 2027.
-
-I am seeking entry-level opportunities in security operations, network defense, cloud security, or IT analysis, where I can apply this infrastructure and systems background while continuing to build specialized cybersecurity expertise.
 
 ---
 
@@ -107,6 +106,7 @@ I've written more about this experience in [Building Open-Source On-Premise Infr
 ### What I'm Looking For
 
 I'm seeking entry-level or internship opportunities in security operations, network defense, cloud security, or IT analysis — roles where I can build on this foundation while continuing to develop specialized cybersecurity skills.
+
 
 ---
 
