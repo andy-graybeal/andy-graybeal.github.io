@@ -56,7 +56,7 @@ Work experience
  
 Education
 ======
-* Associate of Applied Science in Cybersecurity and Network Systems, Hocking University, 2026 (expected)
+* Associate of Applied Science in Cybersecurity and Network Systems, Hocking University, 2027 (expected)
 
 Technical Skills
 ======
