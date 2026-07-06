@@ -33,7 +33,12 @@ Work experience
 
 * **Tech Support Analyst** \| University of California - Santa Cruz \| *Santa Cruz, California* \| 1999–2004
   *   Progressed from Tier I help desk support for a campus of 18,000 students, staff, and faculty to Tier II and eventually to server administration and workstation support for approximately 300 clients across departments including IT, Human Resources, Police, Physical Plant, Receiving, Business Services, and the Chancellor's Office.
-  * Administered and maintained critical server infrastructure including a campus-wide emergency alerting system integrated with phone services for mass notification during public safety events, the university's WebCBT online learning platform, and departmental database, file, print, and domain servers. Managed enterprise backups using Legato NetWorker to ensure reliable data protection and recovery.
+  * Administered and maintained critical server infrastructure:
+    * Campus-wide emergency alerting system integrated with phone services for mass notification during public safety events.
+    * The university's online learning platform, WebCBT.
+    * Departmental database, file, print, and domain servers supporting academic and administrative operations.
+    * Managed enterprise server backups using Legato NetWorker to ensure reliable data protection and recovery for supported systems.
+  * Administered and maintained critical server infrastructure  a campus-wide emergency alerting system integrated with phone services for mass notification during public safety events, the university's WebCBT online learning platform, and departmental database, file, print, and domain servers. Managed enterprise backups using Legato NetWorker to ensure reliable data protection and recovery.
   *  Installed and configured a myriad of applications including enterprise application clients such as PeopleSoft, Banner, and Business Objects/Crystal Reports, ensuring proper database connectivity and readiness for end users and development staff.
   *  Managed and maintained two computer labs for the Human Resources department, each housing approximately 40 workstations, ensuring availability and readiness for staff training and departmental operations.
   *  Diagnosed and resolved network connectivity and system anomalies impacting availability and security.
