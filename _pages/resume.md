@@ -46,9 +46,11 @@ Work experience
 
 
 * **IT Support Technician** \| Tri-Star Computer Solutions \| *Lancaster, Ohio* \| 1995–1998
-  * Installed and supported network infrastructure, servers, and workstations for retail, manufacturing, and public sector clients in Novell NetWare and Windows environments, including Glasfloss Industries, Zebco Industries, and the Lancaster Police Department.
-  * Executed infrastructure upgrades including ARCnet-to-Ethernet network migrations and Novell NetWare 3.x to Netware 4.1 migrations.
-  * Provided on-site, in-house, and remote (phone) technical support for commercial and residential clients, including ISP dial-up troubleshooting.
+  * Installed and supported network infrastructure, servers, and workstations for retail, manufacturing, and public sector clients in Novell NetWare and Windows environments, serving organizations including Glassfloss Industries, Zebco Industries, and the Lancaster Police Department.
+  * Executed client infrastructure projects including multiple ARCnet-to-Ethernet network migrations and Novell NetWare 3.x to 4.1 migrations.
+  * Integrated Windows NT Internet gateway and proxy server solutions into Novell NetWare business networks, enabling secure shared Internet access for commercial clients.
+  * Provided on-site, in-house, and telephone technical support for commercial and residential clients.
+  * Delivered outsourced telephone technical support for Fairfield Internet, a regional Internet service provider (ISP), troubleshooting dial-up connectivity, modem configuration, web browser and email client configuration, and Internet access issues.
   * Built, upgraded, and repaired desktop systems including hardware and OS installation and configuration.
 
  
