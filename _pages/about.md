@@ -61,7 +61,7 @@ I enjoy solving technical problems with a practical, open-source approach.
 
 ---
 ## Professional Statement
----
+
 
 ### Background
 
