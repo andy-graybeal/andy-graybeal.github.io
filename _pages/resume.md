@@ -32,7 +32,7 @@ Work experience
 
 
 * **Tech Support Analyst** \| University of California - Santa Cruz \| *Santa Cruz, California* \| 1999–2004
-  *   Progressed from Tier I helpdesk support for a campus of 18,000 students, staff, and faculty to Tier II and eventually dedicated workstation support for approximately 300 clients across departments including IT, Human Resources, Police, Physical Plant, Receiving, Business Services and the Chancellor's Office.
+  *   Progressed from Tier I help desk support for a campus of 18,000 students, staff, and faculty to Tier II and eventually to server administration and workstation support for approximately 300 clients across departments including IT, Human Resources, Police, Physical Plant, Receiving, Business Services, and the Chancellor's Office.
   * Administered and maintained critical server infrastructure including a campus-wide emergency alerting system integrated with phone services for mass notification during public safety events, the university's WebCBT online learning platform, and departmental database, file, print, and domain servers. Managed enterprise backups using Legato NetWorker to ensure reliable data protection and recovery.
   *  Installed and configured a myriad of applications including enterprise application clients such as PeopleSoft, Banner, and Business Objects/Crystal Reports, ensuring proper database connectivity and readiness for end users and development staff.
   *  Managed and maintained two computer labs for the Human Resources department, each housing approximately 40 workstations, ensuring availability and readiness for staff training and departmental operations.
@@ -46,7 +46,7 @@ Work experience
 
 
 * **IT Support Technician** \| Tri-Star Computer Solutions \| *Lancaster, Ohio* \| 1995–1998
-  * Installed and supported network infrastructure, servers, and workstations for local businesses in Novell NetWare and Windows environments.
+  * Installed and supported network infrastructure, servers, and workstations for retail, manufacturing, and public sector clients in Novell NetWare and Windows environments, including Glasfloss Industries, Zebco Industries, and the Lancaster Police Department.
   * Provided on-site, in-house, and remote (phone) technical support for commercial and residential clients, including ISP dial-up troubleshooting.
   * Built, upgraded, and repaired desktop systems including hardware and OS installation and configuration.
 
@@ -61,6 +61,6 @@ Technical Skills
 * Systems Administration: Linux (administration, hardening, migration) · Windows Server · macOS · KVM/libvirt (virtualization) · LTSP (Linux Terminal Server Project) · LAMP stack (Linux, Apache, MySQL, PHP)
 * Cybersecurity: Wireshark · Network segmentation · Firewall rule management · PCI compliance · Access control (least privilege) · Vulnerability awareness · CTF participation · Security monitoring
 * Identity & Access Management: OpenLDAP · Zentyal · Samba · Kerberos · Single Sign-On (SSO) · OAuth (Google Workspace integration) · Account lifecycle management (provisioning/deprovisioning)
-* Monitoring, Ticketing & Backup: Nagios · SNMP · Request Tracker (RT) · Bacula · Capacity planning · Performance baselining · Alerting & incident triage
+* Monitoring, Ticketing & Backup: Nagios · SNMP · Request Tracker (RT) · Bacula · Legato Networker · Capacity planning · Performance baselining · Alerting & incident triage
 * Cloud & Web: AWS EC2 · WordPress (administration & deployment) · E-commerce integration · Square payment processing
 
