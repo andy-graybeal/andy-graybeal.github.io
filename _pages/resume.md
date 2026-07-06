@@ -38,7 +38,6 @@ Work experience
     * The university's online learning platform, WebCBT.
     * Departmental database, file, print, and domain servers supporting academic and administrative operations.
     * Managed enterprise server backups using Legato NetWorker to ensure reliable data protection and recovery for supported systems.
-  * Administered and maintained critical server infrastructure  a campus-wide emergency alerting system integrated with phone services for mass notification during public safety events, the university's WebCBT online learning platform, and departmental database, file, print, and domain servers. Managed enterprise backups using Legato NetWorker to ensure reliable data protection and recovery.
   *  Installed and configured a myriad of applications including enterprise application clients such as PeopleSoft, Banner, and Business Objects/Crystal Reports, ensuring proper database connectivity and readiness for end users and development staff.
   *  Managed and maintained two computer labs for the Human Resources department, each housing approximately 40 workstations, ensuring availability and readiness for staff training and departmental operations.
   *  Diagnosed and resolved network connectivity and system anomalies impacting availability and security.
