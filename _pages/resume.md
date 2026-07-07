@@ -10,13 +10,23 @@ redirect_from:
 {% include base_path %}
 
 
-Systems & Network Administrator
-====
+# Systems & Network Administrator
 
-Systems and network administrator with 20+ years of experience designing, securing, and supporting enterprise infrastructure across higher education, government, small business, and manufacturing environments. Built upon a foundation of self-directed, hands-on learning, I'm now formalizing decades of field experience by completing an Associate of Applied Science in Cybersecurity and Network Systems. Seeking a cybersecurity internship, part-time opportunity, or entry-level security role where I can apply extensive infrastructure experience while continuing to develop my cybersecurity expertise.
 
-Work experience
-======
+Systems and network administrator with 20+ years of experience designing, securing, and supporting enterprise infrastructure across higher education, government, small business, and manufacturing environments. Built upon a foundation of self-directed, hands-on learning, I'm now formalizing decades of field experience by completing an Associate of Applied Science in Cybersecurity and Network Systems. Seeking a cybersecurity internship, part-time opportunity, or entry-level security role where I can apply my infrastructure experience while continuing to develop my cybersecurity expertise.
+
+## Work experience
+
+### IT Coordinator
+#### Worker-Owned Restaurant Corporation \| *Athens, Ohio* \| 2004–2013
+  * **Infrastructure and Modernization:** Designed and implemented secure network infrastructure including VLANs, VPNs, and firewalls, improving segmentation and reducing attack surface.
+  * **Platform Migration:** Led organization-wide migration from Windows to Linux, reducing vulnerabilities, improving system stability, eliminating licensing costs and improving overall security posture.
+  * **Identity & Access Management:** Implemented centralized identity and access management (IAM) using OpenLDAP enabling Single Sign-On (SSO) across multiple applications and integration with Google Cloud services, enforcing least-privilege access controls.
+  * **Virtualization:** Deployed on-premises virtualized (Libvirt/KVM) infrastructure, replacing manual workflows with centralized open-source systems.
+  * **Monitoring and Performance:** Monitored and analyzed network performance using SNMP, proactively identifying anomalies and preventing outages through capacity planning and performance baselining.
+  * **Web and E-COmmerce:** Developed and maintained a WordPress-based website and e-commerce platform integrating event promotion, product sales, and social media.
+
+
 * **Machine Operator** \| Athens Mold and Machine \| *Athens, Ohio* \| 2022–2025
   * Operated CNC mills and manual lathes in a precision manufacturing environment, following blueprints and adhering to quality standards and established procedures.
 
@@ -27,13 +37,14 @@ Work experience
   * Analyzed customer feedback and sales data to refine product offerings and improve customer retention. 
 
 
-* **IT Coordinator** \| Worker-Owned Restaurant Corporation \| *Athens, Ohio* \| 2004–2013
-  * Designed and implemented secure network infrastructure including VLANs, VPNs, and firewalls, improving segmentation and reducing attack surface.
-  * Led organization-wide migration from Windows to Linux, reducing vulnerabilities, improving system stability, eliminating licensing costs and improving overall security posture.
-  * Implemented centralized identity and access management (IAM) using OpenLDAP enabling Single Sign-On (SSO) across multiple applications and integration with Google Cloud services, enforcing least-privilege access controls.
-  * Deployed on-premises virtualized (Libvirt/KVM) infrastructure, replacing manual workflows with centralized open-source systems.
-  * Monitored and analyzed network performance using SNMP, proactively identifying anomalies and preventing outages through capacity planning and performance baselining.
-  * Developed and maintained a WordPress-based website and e-commerce platform integrating event promotion, product sales, and social media.
+### IT Coordinator
+#### Worker-Owned Restaurant Corporation \| *Athens, Ohio* \| 2004–2013
+  * **Infrastructure and Modernization:** Designed and implemented secure network infrastructure including VLANs, VPNs, and firewalls, improving segmentation and reducing attack surface.
+  * **Platform Migration:** Led organization-wide migration from Windows to Linux, reducing vulnerabilities, improving system stability, eliminating licensing costs and improving overall security posture.
+  * **Identity & Access Management:** Implemented centralized identity and access management (IAM) using OpenLDAP enabling Single Sign-On (SSO) across multiple applications and integration with Google Cloud services, enforcing least-privilege access controls.
+  * **Virtualization:** Deployed on-premises virtualized (Libvirt/KVM) infrastructure, replacing manual workflows with centralized open-source systems.
+  * **Monitoring and Performance:** Monitored and analyzed network performance using SNMP, proactively identifying anomalies and preventing outages through capacity planning and performance baselining.
+  * **Web and E-COmmerce:** Developed and maintained a WordPress-based website and e-commerce platform integrating event promotion, product sales, and social media.
 
 
 * **Tech Support Analyst** \| University of California - Santa Cruz \| *Santa Cruz, California* \| 1999–2004
