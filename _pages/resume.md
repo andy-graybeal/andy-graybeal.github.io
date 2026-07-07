@@ -12,10 +12,10 @@ redirect_from:
 
 Systems and network administrator with 20+ years of experience designing, securing, and supporting enterprise infrastructure across higher education, government, small business, and manufacturing environments. Built upon a foundation of self-directed, hands-on learning, I'm now formalizing decades of field experience by completing an Associate of Applied Science in Cybersecurity and Network Systems. Seeking a cybersecurity internship, part-time opportunity, or entry-level security role where I can apply my infrastructure experience while continuing to develop my cybersecurity expertise.
 
-## Work experience
+# Work experience
 
-### IT Coordinator
-#### Worker-Owned Restaurant Corporation \| *Athens, Ohio* \| 2004–2013
+## IT Coordinator
+### Worker-Owned Restaurant Corporation \| *Athens, Ohio* \| 2004–2013
   * **Infrastructure and Modernization:** Designed and implemented secure network infrastructure including VLANs, VPNs, and firewalls, improving segmentation and reducing attack surface.
   * **Platform Migration:** Led organization-wide migration from Windows to Linux, reducing vulnerabilities, improving system stability, eliminating licensing costs and improving overall security posture.
   * **Identity & Access Management:** Implemented centralized identity and access management (IAM) using OpenLDAP enabling Single Sign-On (SSO) across multiple applications and integration with Google Cloud services, enforcing least-privilege access controls.
