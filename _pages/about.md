@@ -60,8 +60,11 @@ redirect_from:
 I enjoy solving technical problems with a practical, open-source approach.
 
 ---
-## Professional Statement
-IT infrastructure professional with 30 years of progressive experience designing, implementing, modernizing, and supporting network and server infrastructure across small businesses, higher education, and worker-owned cooperative environments. Proven track record of guiding organizations through technology transitions—including network modernization, Linux migration, identity and access management, virtualization, and cloud-hosted services—while maintaining secure, reliable, and resilient operations. Currently completing an Associate of Applied Science in Cybersecurity and Network Systems to complement extensive real-world experience with current cybersecurity principles and best practices.
+## Systems and Network Administrator
+
+*Roots that go back to 1995. Built upon a foundation of self-directed, hands-on learning, I'm now formalizing decades of field experience with a degree in Cybersecurity and Network Systems.*
+
+I've designed and secured networks from the ground up — VLANs, pfSense firewalls, site-to-site VPNs — and administered critical infrastructure at a large university, including campus-wide emergency alerting and online learning platforms supporting thousands of users. I later joined a worker-owned cooperative of about 90 people as both IT Coordinator and co-owner, leading a full organizational migration from Windows to Linux, implementing centralized identity and access management (OpenLDAP/SSO), and maintaining PCI compliance for payment systems. I ran my own mobile food business for six years and later worked in precision manufacturing, experience that added a practical sense of minding both budgets and blueprints. I'm looking for an entry point into security operations or network defense where this foundation can keep growing.
 
 ---
 ### Background
