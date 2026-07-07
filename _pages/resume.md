@@ -9,10 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+---
 
 Systems and network administrator with 20+ years of experience designing, securing, and supporting enterprise infrastructure across higher education, government, small business, and manufacturing environments. Built upon a foundation of self-directed, hands-on learning, I'm now formalizing decades of field experience by completing an Associate of Applied Science in Cybersecurity and Network Systems. Seeking a cybersecurity internship, part-time opportunity, or entry-level security role where I can apply my infrastructure experience while continuing to develop my cybersecurity expertise.
 
 # Work experience
+
+---
 
 ## IT Coordinator
 ### Worker-Owned Restaurant Corporation \| *Athens, Ohio* \| 2004–2013
