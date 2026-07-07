@@ -19,12 +19,12 @@ Systems and network administrator with 20+ years of experience designing, securi
 
 ## IT Coordinator
 ### Worker-Owned Restaurant Corporation \| *Athens, Ohio* \| 2004–2013
-  * **Infrastructure and Modernization:** Designed and implemented secure network infrastructure including VLANs, VPNs, and firewalls, improving segmentation and reducing attack surface.
-  * **Platform Migration:** Led organization-wide migration from Windows to Linux, reducing vulnerabilities, improving system stability, eliminating licensing costs and improving overall security posture.
-  * **Identity & Access Management:** Implemented centralized identity and access management (IAM) using OpenLDAP enabling Single Sign-On (SSO) across multiple applications and integration with Google Cloud services, enforcing least-privilege access controls.
-  * **Virtualization:** Deployed on-premises virtualized (Libvirt/KVM) infrastructure, replacing manual workflows with centralized open-source systems.
-  * **Monitoring and Performance:** Monitored and analyzed network performance using SNMP, proactively identifying anomalies and preventing outages through capacity planning and performance baselining.
-  * **Web and E-COmmerce:** Developed and maintained a WordPress-based website and e-commerce platform integrating event promotion, product sales, and social media.
+  * **Network Infrastructure:** Designed and implemented the organization's network infrastructure from the ground up, including structured cabling, WLANs, VLANs, pfSense firewalls, VPN connectivity, and network segmentation.
+  * **Linux Migration:** Led an organization-wide migration from Windows to Linux, implementing LTSP to centrally manage approximately 30 workstations supporting 90 users, improving system stability, reducing vulnerabilities, and eliminating software licensing costs.
+  * **Identity & Access Management:** Implemented centralized identity and access management using OpenLDAP, Samba, and Kerberos, enabling Single Sign-On (SSO) for Linux workstations and integration with Google Workspace using OAuth while enforcing least-privilege access controls.
+  * **Virtualized Infrastructure:** Deployed and administered an on-premises KVM/libvirt virtualized server environment hosting core business and development services, replacing standalone physical systems with centralized open-source infrastructure.
+  * **Monitoring and Operations:** Implemented and maintained infrastructure monitoring using Icinga (Nagios) and SNMP, proactively identifying performance issues, supporting capacity planning, and improving operational visibility.
+  * **Web & Business Systems:** Developed and maintained a WordPress-based website and e-commerce platform integrating event promotion, product sales, and social media while supporting PCI-compliant payment processing.
 
 
 * **Machine Operator** \| Athens Mold and Machine \| *Athens, Ohio* \| 2022–2025
