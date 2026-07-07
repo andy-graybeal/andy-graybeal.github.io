@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-Systems and network administrator with 20+ years of experience designing, securing, and supporting enterprise infrastructure across higher education, government, small business, and manufacturing environments. Built upon a foundation of self-directed, hands-on learning, I'm now formalizing decades of field experience by completing an Associate of Applied Science in Cybersecurity and Network Systems. Seeking a cybersecurity internship, part-time opportunity, or entry-level security role where I can apply my infrastructure experience while continuing to develop my cybersecurity expertise.
+I have 20+ years of experience designing, securing, and supporting enterprise infrastructure across higher education, government, small business, and manufacturing environments. Built upon a foundation of self-directed, hands-on learning, I'm now formalizing decades of field experience by completing an Associate of Applied Science in Cybersecurity and Network Systems. I am seeking a cybersecurity internship, part-time opportunity, or entry-level security role where I can apply my infrastructure experience while continuing to develop my cybersecurity expertise.
 
 ---
 
@@ -51,44 +51,42 @@ Systems and network administrator with 20+ years of experience designing, securi
   * **Regional Technical Support:** Began on the central IT Help Desk before transitioning to on-site and remote workstation support across eight facilities including correctional institutions, a pre-release center, and the parole authority throughout Southeastern Ohio and the Columbus area—including SCI, PCI, CRC, HCI, RCI, CCI, Franklin Pre-Release Center, and the Athens Parole Authority.
   * **System Deployment & Networking:** Performed system imaging, deployment, and network troubleshooting as part of a centralized IT operation supporting the regional corrections infrastructure.
 
+## IT Support Technician
+### Tri-Star Computer Solutions \| *Lancaster, Ohio* \| 1995–1998
+ * **Network Infrastructure:** Installed and supported network infrastructure, servers, and workstations for retail, manufacturing, and public sector clients in Novell NetWare and Windows environments, serving organizations including Glassfloss Industries, Zebco Industries, and the Lancaster Police Department.
+ * **Network Migrations:** Executed client infrastructure projects including multiple ARCnet-to-Ethernet network migrations and Novell NetWare 3.x to 4.1 migrations.
+ * **Internet Connectivity:** Integrated Windows NT Internet gateway and proxy server solutions into Novell NetWare business networks, enabling secure shared Internet access for commercial clients.
+ *  **ISP Technical Support:**: Delivered outsourced telephone technical support for Fairfield Internet, a regional Internet service provider (ISP), assisting customers with dial-up connectivity, modem configuration, web browser and email client configuration, and Internet access issues.
+ *  **Desktop Support:** Provided on-site, in-house, and telephone technical support for commercial and residential clients. Built, upgraded, and repaired desktop systems, including hardware installation, operating system installation, and system configuration.
 
+## Machine Operator
+### Athens Mold and Machine \| *Athens, Ohio* \| 2022–2025
+  * **Precision Manufacturing:** Operated CNC mills and manual lathes in a precision manufacturing environment
+  * **Quality & Documentation:** Interpreted blueprints and adhered to quality standards and established procedures.
 
+---
 
-* **Machine Operator** \| Athens Mold and Machine \| *Athens, Ohio* \| 2022–2025
-  * Operated CNC mills and manual lathes in a precision manufacturing environment, following blueprints and adhering to quality standards and established procedures.
+# Education
 
-  
+---
 
-
-
-
-
-
-
-* **Tech Support Specialist** \| Ohio Department of Rehabilitation and Corrections \| *Columbus, Ohio* \| 1999 
-  * Began on the central IT Help Desk before transitioning to on-site and remote workstation support across eight facilities including correctional institutions, a pre-release center, and a parole authority throughout Southeastern Ohio and the Columbus area — including SCI, PCI, CRC, HCI, RCI, CCI, Franklin Pre-Release Center, and the Athens Parole Authority.
-  * Performed system imaging, deployment, and network troubleshooting as part of a centralized IT operation supporting the regional corrections infrastructure
-
-
-* **IT Support Technician** \| Tri-Star Computer Solutions \| *Lancaster, Ohio* \| 1995–1998
-  * Installed and supported network infrastructure, servers, and workstations for retail, manufacturing, and public sector clients in Novell NetWare and Windows environments, serving organizations including Glassfloss Industries, Zebco Industries, and the Lancaster Police Department.
-  * Executed client infrastructure projects including multiple ARCnet-to-Ethernet network migrations and Novell NetWare 3.x to 4.1 migrations.
-  * Integrated Windows NT Internet gateway and proxy server solutions into Novell NetWare business networks, enabling secure shared Internet access for commercial clients.
-  * Delivered outsourced telephone technical support for Fairfield Internet, a regional Internet service provider (ISP), assisting customers with dial-up connectivity, modem configuration, web browser and email client configuration, and Internet access issues.
-  * Provided on-site, in-house, and telephone technical support for commercial and residential clients.
-  * Built, upgraded, and repaired desktop systems including hardware and OS installation and configuration.
-
- 
-Education
-======
 * Associate of Applied Science in Cybersecurity and Network Systems, Hocking University, 2027 (expected)
 
-Technical Skills
-======
-* Networking & Infrastructure: VLANs · VPNs (OpenVPN, site-to-site) · Firewall design & administration (pfSense) · Structured cabling · Segmented wired & wireless access · WLAN deployment · TCP/IP · DNS · DHCP · Remote access (X2Go, Tomato firmware) · Network documentation (Dia)
-* Systems Administration: Linux (administration, hardening, migration) · Windows Server · macOS · KVM/libvirt (virtualization) · LTSP (Linux Terminal Server Project) · LAMP stack (Linux, Apache, MySQL, PHP)
-* Cybersecurity: Wireshark · Network segmentation · Firewall rule management · PCI compliance · Access control (least privilege) · Vulnerability awareness · CTF participation · Security monitoring
-* Identity & Access Management: OpenLDAP · Zentyal · Samba · Kerberos · Single Sign-On (SSO) · OAuth (Google Workspace integration) · Account lifecycle management (provisioning/deprovisioning)
-* Monitoring, Ticketing & Backup: Nagios · SNMP · Request Tracker (RT) · Bacula · Legato Networker · Capacity planning · Performance baselining · Alerting & incident triage
-* Cloud & Web: AWS EC2 · WordPress (administration & deployment) · E-commerce integration · Square payment processing
+---
+
+# Selected Technical Skills
+
+---
+
+Operating Systems: Linux · UNIX · Windows
+
+Networking: TCP/IP · VLANs · WLANs · DNS · DHCP · pfSense · OpenVPN · Structured cabling · SNMP
+
+Systems Administration: KVM/libvirt · LTSP · LAMP · WordPress · AWS EC2 · Google Workspace
+
+Identity & Access Management: OpenLDAP · Samba · Kerberos · SSO · OAuth
+
+Monitoring & Operations: Icinga (Nagios) · Legato NetWorker · Bacula · Request Tracker (RT) · GNU Mailman
+
+Security: Network segmentation · Firewall administration · PCI compliance · Wireshark · Vulnerability awareness · CTF participation
 
