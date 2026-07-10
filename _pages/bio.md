@@ -25,5 +25,5 @@ Networking was another area that quickly captured my interest. I experimented wi
 
 As my computers became more connected, I spent time on local bulletin board systems and eventually discovered larger communities through networks such as FidoNet. Conversations were no longer limited to people in my area code. Ideas, discussions, and friendships could travel across the country—and sometimes around the world—through a patchwork of interconnected systems.
 
-As Internet access became more common, I immersed myself in Usenet newsgroups, IRC, websites, email, and online communities. EFnet became a place where I learned from people around the world. Mailing lists, Linux User Groups, and open-source communities reinforced a lesson that has stayed with me ever since: some of the best learning happens when people openly share knowledge with one another.
+As Internet access became more common, I immersed myself in Usenet newsgroups, IRC, websites, email, mailing lists, Linux User Groups, and open-source communities.
 
