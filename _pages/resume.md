@@ -86,7 +86,7 @@ I have 20+ years of experience supporting information technology infrastructure 
 
 **Identity & Access Management:** OpenLDAP · Samba · Kerberos · SSO · OAuth
 
-**Monitoring & Operations:** Icinga (Nagios) · Legato NetWorker · Bacula · Request Tracker (RT) · GNU Mailman
+**Monitoring & Operations:** Icinga (Nagios) · Bacula · GNU Mailman
 
 **Security:** Network segmentation · Firewall administration · PCI compliance · Wireshark  · CTF participation
 
