@@ -104,10 +104,5 @@ I've written more about this experience in [Building Open-Source On-Premise Infr
 - **Incident Response and Cloud Security:** AWS CloudTrail, GuardDuty, Security Hub
 
 
-### What I'm Looking For
-
-I'm seeking entry-level or internship opportunities in security operations, network defense, cloud security, or IT analysis — roles where I can build on this foundation while continuing to develop specialized cybersecurity skills.
-
-
 ---
 
