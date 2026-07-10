@@ -67,7 +67,8 @@ I have 20+ years of experience supporting enterprise infrastructure across highe
 ---
 ### Background
 
-I began my IT career in 1995 as a technician at Tri-Star Computer Solutions, installing and supporting networks, servers, and workstations for retail, manufacturing, and public sector clients, while also delivering phone-based technical support for a regional Internet service provider. That hands-on foundation carried into progressively larger environments — from workstation support for state corrections facilities, to a multi-year progression at the University of California, Santa Cruz, from Tier I help desk to server administration supporting roughly 300 clients across university departments.
+I began my IT career in 1995 as a technician at Tri-Star Computer Solutions, a local computer retailer and service provider, installing and supporting networks, servers, and workstations for retail, manufacturing, and public sector clients while also providing phone-based technical support for a regional Internet service provider. That hands-on foundation carried into progressively larger environments—from workstation support for state correctional facilities to a multi-year progression at the University of California, Santa Cruz, from Tier I help desk to server administration supporting approximately 300 clients across multiple university departments.
+
 
 From 2004 to 2013, I served as System Administrator / IT Coordinator for a worker-owned restaurant cooperative of approximately 90 people. I designed and implemented secure network infrastructure, led an organization-wide migration from Windows to Linux, and implemented centralized identity and access management to provide single sign-on across multiple applications. I also deployed virtualized infrastructure and implemented infrastructure monitoring to support long-term capacity planning and operational visibility.
 
