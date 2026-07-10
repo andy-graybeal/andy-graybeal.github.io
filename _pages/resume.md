@@ -88,5 +88,5 @@ I have 20+ years of experience supporting information technology infrastructure 
 
 **Monitoring & Operations:** Icinga (Nagios) · Legato NetWorker · Bacula · Request Tracker (RT) · GNU Mailman
 
-**Security:** Network segmentation · Firewall administration · PCI compliance · Wireshark · Vulnerability awareness · CTF participation
+**Security:** Network segmentation · Firewall administration · PCI compliance · Wireshark  · CTF participation
 
