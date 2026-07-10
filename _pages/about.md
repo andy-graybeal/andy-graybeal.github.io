@@ -79,7 +79,7 @@ In 2015, I founded and operated a mobile food business, managing its strategic p
 
 My experience has been rooted in on-premises infrastructure:
 
-- **Identity and Access Management:** Administered centralized authentication and authorization using OpenLDAP, Kerberos, and Samba.
+- **Identity and Access Management:** Implemented centralized identity and access management using Zentyal, built on OpenLDAP, Kerberos, and Samba, enabling Single Sign-On (SSO) across multiple applications.
 - **Network Security & Remote Access:** Designed, implemented, and administered network infrastructure from the ground up, including pfSense firewalls and secure OpenVPN remote access.
 - **Virtualization:** Deployed and administered virtualized environments using KVM and libvirt.
 - **Centralized Desktop Services:** Implemented and managed Linux Terminal Server Project (LTSP) environments to provide centralized desktop management and application delivery.
