@@ -78,15 +78,15 @@ I have 20+ years of experience supporting enterprise infrastructure across highe
 
 ---
 
-Operating Systems: Linux · UNIX · Windows
+**Operating Systems:** Linux · UNIX · Windows
 
-Networking: TCP/IP · VLANs · WLANs · DNS · DHCP · pfSense · OpenVPN · Structured cabling · SNMP
+**Networking:** TCP/IP · VLANs · WLANs · DNS · DHCP · pfSense · OpenVPN · Structured cabling · SNMP
 
-Systems Administration: KVM/libvirt · LTSP · LAMP · WordPress · AWS EC2 · Google Workspace
+**Systems Administration:** KVM/libvirt · LTSP · LAMP · WordPress · AWS EC2 · Google Workspace
 
-Identity & Access Management: OpenLDAP · Samba · Kerberos · SSO · OAuth
+**Identity & Access Management:** OpenLDAP · Samba · Kerberos · SSO · OAuth
 
-Monitoring & Operations: Icinga (Nagios) · Legato NetWorker · Bacula · Request Tracker (RT) · GNU Mailman
+**Monitoring & Operations:** Icinga (Nagios) · Legato NetWorker · Bacula · Request Tracker (RT) · GNU Mailman
 
-Security: Network segmentation · Firewall administration · PCI compliance · Wireshark · Vulnerability awareness · CTF participation
+**Security:** Network segmentation · Firewall administration · PCI compliance · Wireshark · Vulnerability awareness · CTF participation
 
