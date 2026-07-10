@@ -21,7 +21,7 @@ I have 20+ years of experience supporting information technology infrastructure 
 
 ## Systems & Network Administrator / IT Coordinator
 ### Worker-Owned Restaurant Corporation \| *Athens, Ohio* \| 2004–2013
-  * **Network Infrastructure:** Designed and implemented the organization's network infrastructure, including structured cabling, deploying secure WLAN deployment, VLAN segmentation, and deployment and administration of a pfSense firewall. Extending secure connectivity to remote office and home-based users through encrypted site-to-site VPNs using OpenVPN. 
+  * **Network Infrastructure:** Designed and implemented the organization's network infrastructure, including structured cabling, WLAN, VLAN segmentation, and deployment and administration of a pfSense firewall. Extending secure connectivity to remote office and home-based users through encrypted site-to-site VPNs using OpenVPN. 
   * **Linux Migration:** Led an organization-wide migration from Windows to Linux, implementing LTSP to centrally manage approximately 20 workstations supporting 90 users, improving system stability, reducing vulnerabilities, and eliminating software licensing costs.
   * **Identity & Access Management:** Identity & Access Management: Implemented centralized identity and access management (IAM) using Zentyal (OpenLDAP, Samba, and Kerberos), enabling Single Sign-On (SSO) across multiple applications and integration with Google Workspace using OAuth.
   * **Virtualized Infrastructure:** Deployed and administered an on-premises KVM/libvirt virtualized server environment hosting core business and development services, replacing standalone physical systems with centralized open-source infrastructure.
