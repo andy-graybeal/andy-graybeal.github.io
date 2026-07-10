@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+** Work-in-progress **
 
 My interest in technology began early. Around kindergarten, my father introduced me to GW-BASIC on an 8088 PC, and from then on there always seemed to be a computer somewhere in our living room. Around the same time, he gave me a Hallicrafters shortwave radio from the tube era—the kind that needed time to warm up before it came to life.
 
@@ -26,4 +27,3 @@ As my computers became more connected, I spent time on local bulletin board syst
 
 As Internet access became more common, I immersed myself in Usenet newsgroups, IRC, websites, email, and online communities. EFnet became a place where I learned from people around the world. Mailing lists, Linux User Groups, and open-source communities reinforced a lesson that has stayed with me ever since: some of the best learning happens when people openly share knowledge with one another.
 
-Working technical support for a local Internet service provider later gave me the opportunity to support others as the Internet continued to grow, building on interests and experiences I had already developed as a user.
