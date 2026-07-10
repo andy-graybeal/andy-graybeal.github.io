@@ -48,7 +48,7 @@ I have 20+ years of experience supporting information technology infrastructure 
 
 ## Tech Support Specialist
 ###  Ohio Department of Rehabilitation and Corrections \| *Columbus, Ohio* \| 1999 
-  * **Regional Technical Support:** Began on the central IT Help Desk before transitioning to on-site and remote workstation support across eight facilities including correctional institutions, a pre-release center, and the parole authority throughout Southeastern Ohio and the Columbus area—including SCI, PCI, CRC, HCI, RCI, CCI, Franklin Pre-Release Center, and the Athens Parole Authority.
+  * **Regional Technical Support:** Began on the central IT Help Desk before transitioning to field technical support, providiing workstation and network support across eight facilities including correctional institutions, a pre-release center, and the parole authority throughout Southeastern Ohio and the Columbus area—including SCI, PCI, CRC, HCI, RCI, CCI, Franklin Pre-Release Center, and the Athens Parole Authority.
   * **System Deployment & Networking:** Performed system imaging, deployment, and network troubleshooting as part of a centralized IT operation supporting the regional corrections infrastructure.
 
 ## IT Support Technician
