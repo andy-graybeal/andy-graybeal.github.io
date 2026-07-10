@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-** Work-in-progress **
+## Work-in-Progress
 
 My interest in technology began early. Around kindergarten, my father introduced me to GW-BASIC on an 8088 PC, and from then on there always seemed to be a computer somewhere in our living room. Around the same time, he gave me a Hallicrafters shortwave radio from the tube era—the kind that needed time to warm up before it came to life.
 
