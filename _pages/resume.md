@@ -30,13 +30,13 @@ I have 20+ years of experience designing, securing, and supporting enterprise in
 
 ## Tech Support Analyst
 ### University of California – Santa Cruz \| Santa Cruz, California \| 1999–2004
-  * **Career Progression:** Progressed from Tier I help desk support for a campus of 18,000 students, staff, and faculty to Tier II and eventually to server administration and workstation support for approximately 300 clients across departments including IT, Human Resources, Police, Physical Plant, Receiving, Business Services, and the Chancellor's Office.\
+  * **Career Progression:** Progressed from Tier I help desk support for a campus of 18,000 students, staff, and faculty to Tier II and eventually to server administration and workstation support for approximately 300 clients across departments including IT, Human Resources, Police, Physical Plant, Receiving, Business Services, and the Chancellor's Office.
   * **Server Administration:** Administered and maintained critical campus infrastructure:
     *   Campus-wide emergency alerting system integrated with phone services for mass notification during public safety events.
     *   The university's online learning platform, WebCBT.
     *   Departmental database, file, print, and domain servers supporting administrative operations.
     *   Managed server backups for supported systems using the Legato NetWorker client, ensuring reliable data protection and recovery.
-  * Enterprise Client Support: Installed and configured a myriad of applications including enterprise application clients such as ERP systems (PeopleSoft, Banner) and business intelligence (BI) tools (Business Objects/Crystal Reports), ensuring proper database connectivity and readiness for end users and development staff.
+  * **Enterprise Client Support:** Installed and supported a myriad of applications including enterprise application clients such as ERP systems (PeopleSoft, Banner) and business intelligence (BI) tools (Business Objects/Crystal Reports), ensuring proper database connectivity and readiness for end users and development staff.
   * **Training Lab Administration:** Managed and maintained two computer labs for the Human Resources department, each housing approximately 40 workstations, ensuring availability and readiness for staff training and departmental operations.
   * **Operations & Support: Diagnosed and resolved network connectivity and system anomalies impacting availability and security. Managed support requests within a ticketed workflow, maintaining SLA compliance across multiple departments and adapting communication style for faculty, staff, and students.
 
@@ -56,7 +56,7 @@ I have 20+ years of experience designing, securing, and supporting enterprise in
  * **Network Infrastructure:** Installed and supported network infrastructure, servers, and workstations for retail, manufacturing, and public sector clients in Novell NetWare and Windows environments, serving organizations including Glassfloss Industries, Zebco Industries, and the Lancaster Police Department.
  * **Network Migrations:** Executed client infrastructure projects including multiple ARCnet-to-Ethernet network migrations and Novell NetWare 3.x to 4.1 migrations.
  * **Internet Connectivity:** Integrated Windows NT Internet gateway and proxy server solutions into Novell NetWare business networks, enabling secure shared Internet access for commercial clients.
- *  **ISP Technical Support:**: Delivered outsourced telephone technical support for Fairfield Internet, a regional Internet service provider (ISP), assisting customers with dial-up connectivity, modem configuration, web browser and email client configuration, and Internet access issues.
+ *  **ISP Technical Support:** Delivered outsourced telephone technical support for Fairfield Internet, a regional Internet service provider (ISP), assisting customers with dial-up connectivity, modem configuration, web browser and email client configuration, and Internet access issues.
  *  **Desktop Support:** Provided on-site, in-house, and telephone technical support for commercial and residential clients. Built, upgraded, and repaired desktop systems, including hardware installation, operating system installation, and system configuration.
 
 ## Machine Operator
