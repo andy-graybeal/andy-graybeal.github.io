@@ -62,9 +62,7 @@ I enjoy solving technical problems with a practical, open-source approach.
 ---
 ## Systems and Network Administrator
 
-*Roots that go back to 1995. Built upon a foundation of self-directed, hands-on learning, I'm now formalizing decades of field experience with a degree in Cybersecurity and Network Systems.*
-
-I've designed and secured networks from the ground up — VLANs, pfSense firewalls, site-to-site VPNs — and administered critical infrastructure at a large university, including campus-wide emergency alerting and online learning platforms supporting thousands of users. I later joined a worker-owned cooperative of about 90 people as both IT Coordinator and co-owner, leading a full organizational migration from Windows to Linux, implementing centralized identity and access management (OpenLDAP/SSO), and maintaining PCI compliance for payment systems. I ran my own mobile food business for six years and later worked in precision manufacturing, experience that added a practical sense of minding both budgets and blueprints. I'm looking for an entry point into security operations or network defense where this foundation can keep growing.
+I have 20+ years of experience supporting enterprise infrastructure across higher education, government, small business, and manufacturing environments. Built upon a foundation of self-directed, hands-on learning, I'm now formalizing decades of field experience by completing an Associate of Applied Science in Cybersecurity and Network Systems. I am seeking a cybersecurity internship, part-time opportunity, or entry-level security role where I can apply my infrastructure experience while continuing to develop my cybersecurity expertise.
 
 ---
 ### Background
