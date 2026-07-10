@@ -21,9 +21,9 @@ I have 20+ years of experience supporting information technology infrastructure 
 
 ## Systems & Network Administrator / IT Coordinator
 ### Worker-Owned Restaurant Corporation \| *Athens, Ohio* \| 2004–2013
-  * **Network Infrastructure:** Designed and implemented the organization's network infrastructure, including structured cabling, WLANs, VLAN segmentation, and deployment and administration of a pfSense firewall. Extending secure connectivity to remote office and home-based users through encrypted site-to-site VPNs using OpenVPN. 
+  * **Network Infrastructure:** Designed and implemented the organization's network infrastructure, including structured cabling, WLANs, VLAN segmentation, and deployment and administration of a pfSense firewall. Extended secure connectivity to remote offices and home-based users through encrypted site-to-site VPNs using OpenVPN. 
   * **Linux Migration:** Led an organization-wide migration from Windows to Linux, implementing LTSP to centrally manage approximately 20 workstations supporting 90 users, improving system stability, reducing vulnerabilities, and eliminating software licensing costs.
-  * **Identity & Access Management:** Identity & Access Management: Implemented centralized identity and access management (IAM) using Zentyal (OpenLDAP, Samba, and Kerberos), enabling Single Sign-On (SSO) across multiple applications and integration with Google Workspace using OAuth.
+  * **Identity & Access Management:** Implemented centralized identity and access management (IAM) using Zentyal (OpenLDAP, Samba, and Kerberos), enabling Single Sign-On (SSO) across multiple applications and integration with Google Workspace using OAuth.
   * **Virtualized Infrastructure:** Deployed and administered an on-premises KVM/libvirt virtualized server environment hosting core business and development services, replacing standalone physical systems with centralized open-source infrastructure.
   * **Monitoring and Operations:** Implemented and maintained infrastructure monitoring using Icinga (Nagios) and SNMP, proactively identifying performance issues, supporting capacity planning, and improving operational visibility.
   * **Web & Business Systems:** Developed and maintained a WordPress-based website and e-commerce platform integrating event promotion, product sales, and social media while supporting PCI-compliant payment processing.
@@ -61,7 +61,7 @@ I have 20+ years of experience supporting information technology infrastructure 
 
 ## Machine Operator
 ### Athens Mold and Machine \| *Athens, Ohio* \| 2022–2025
-  * **Precision Manufacturing:** Operated CNC mills and manual lathes in a precision manufacturing environment
+  * **Precision Manufacturing:** Operated CNC mills and manual lathes in a precision manufacturing environment.
   * **Quality & Documentation:** Interpreted blueprints and adhered to quality standards and established procedures.
 
 ---
@@ -70,7 +70,7 @@ I have 20+ years of experience supporting information technology infrastructure 
 
 ---
 
-* Associate of Applied Science in Cybersecurity and Network Systems, Hocking University, 2027 (expected)
+* Associate of Applied Science in Cybersecurity and Network Systems, Hocking College, 2027 (expected)
 
 ---
 
