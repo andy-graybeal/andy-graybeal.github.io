@@ -34,7 +34,7 @@ I have 20+ years of experience designing, securing, and supporting enterprise in
   * **Server Administration:** Administered and maintained critical campus infrastructure:
     *   Campus-wide emergency alerting system integrated with phone services for mass notification during public safety events.
     *   The university's online learning platform, WebCBT.
-    *   Departmental database, file, print, and domain servers supporting administrative operations.
+    *   Ten departmental servers providing database, file, print, primary and secondary domain services supporting administrative operations.
     *   Managed server backups for supported systems using the Legato NetWorker client, ensuring reliable data protection and recovery.
   * **Enterprise Client Support:** Installed and supported a myriad of applications including enterprise application clients such as ERP systems (PeopleSoft, Banner) and business intelligence (BI) tools (Business Objects/Crystal Reports), ensuring proper database connectivity and readiness for end users and development staff.
   * **Training Lab Administration:** Managed and maintained two computer labs for the Human Resources department, each housing approximately 40 workstations, ensuring availability and readiness for staff training and departmental operations.
