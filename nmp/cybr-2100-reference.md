@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/cybr-2100/reference/
-title: "Cyber Ethics and Law - CYBR-2100 - Reference Material and Resources"
+title: "Cyber Ethics - Reference Material and Resources"
 author_profile: true
 redirect_from: 
   - "/nmp/"
