@@ -1,8 +1,11 @@
 ---
 layout: archive
-title: "Interests"
+title: "Some interests of mine"
 permalink: /interests/
 author_profile: true
+---
+
+---
 ---
 
 # Books
