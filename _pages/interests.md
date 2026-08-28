@@ -13,6 +13,8 @@ author_profile: true
 - On the Sensations of Tone as a Physiological Basis for the Theory of Music - Hermann von Helmholtz
 - Electronic Projects for Musicians - Craig Anderton
 - The Theory and Technique of Electronic Music - Miller S. Puckette
+- The Cuckoo's Egg - Clifford Stoll
+- The Masters of Deception - Michelle Slatalla and Joshua Quittner 
 
 
 ---
@@ -42,7 +44,7 @@ author_profile: true
 
 ---
 
-# Audio Musicians / Composers
+# Musicians / Composers
 - Conrad Schnitzler
 - Terre Thaemlitz
 - Wendy Williams
@@ -50,4 +52,25 @@ author_profile: true
 - Steve Reich
 - Brian Eno
 
-  
+---
+
+# Authors / Writers
+Jaron Lanier
+Phillip K Dick
+Steven Levy
+Richard Stallman
+John Perry Barlow
+Bruce Sterling
+William Gibson
+
+---
+
+# Film Maker
+- Iara Lee
+
+
+---
+
+# Record Labels
+4ad
+
