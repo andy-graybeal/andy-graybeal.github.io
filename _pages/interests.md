@@ -79,7 +79,7 @@ author_profile: true
 - 4ad
 
 # Corporations
-- ISC - Bunker Ramo
+- Bunker Ramo
 - Olivetti
 - Burroughs
 - Sun
