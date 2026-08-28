@@ -72,5 +72,5 @@ author_profile: true
 ---
 
 # Record Labels
-4ad
+- 4ad
 
