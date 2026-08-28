@@ -45,6 +45,7 @@ author_profile: true
 ---
 
 # Musicians / Composers
+- Edward Ka-Spel
 - Conrad Schnitzler
 - Terre Thaemlitz
 - Wendy Williams
@@ -62,15 +63,30 @@ author_profile: true
 - John Perry Barlow
 - Bruce Sterling
 - William Gibson
+- Alvin Toffler
 
 ---
 
-# Film Maker
+# Film Makers
 - Iara Lee
+- Terry Giliiam
 
 
 ---
 
 # Record Labels
 - 4ad
+
+# Corporations
+- ISC - Bunker Ramo
+- Olivetti
+- Burroughs
+- Sun
+
+---
+
+# Laws / Regulations
+- [Computer I, II, III](https://en.wikipedia.org/wiki/FCC_Computer_Inquiries)
+
+
 
