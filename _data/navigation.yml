@@ -40,3 +40,7 @@ main:
 
   # - title: "Journal"
   #  url: /journal/
+
+  - title: "Interests"
+    url: /interests/
+    
