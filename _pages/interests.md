@@ -30,3 +30,21 @@ author_profile: true
 - Pure Data
 - tmux
 - ImageMagick
+
+---
+
+# Graphic Design
+- Peter Saville
+- defHaro
+
+---
+
+# Audio Musicians / Composers
+- Conrad Schnitzler
+- Terre Thaemlitz
+- Wendy Williams
+- David Tudor
+- Steve Reich
+- Brian Eno
+
+  
