@@ -64,12 +64,13 @@ author_profile: true
 - Bruce Sterling
 - William Gibson
 - Alvin Toffler
+- David Bohm
 
 ---
 
 # Film Makers
 - Iara Lee
-- Terry Giliiam
+- Terry Gilliam
 
 
 ---
