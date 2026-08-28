@@ -39,6 +39,13 @@ author_profile: true
 - tmux
 - ImageMagick
 
+
+---
+
+# Hardware / Software Projects
+- [Bat and Cat Sound Labs](https://batandcat.com/index.html)
+- [OpenMHA](https://www.openmha.org)
+
 ---
 
 # Graphic Design
