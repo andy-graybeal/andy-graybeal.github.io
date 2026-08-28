@@ -55,13 +55,13 @@ author_profile: true
 ---
 
 # Authors / Writers
-Jaron Lanier
-Phillip K Dick
-Steven Levy
-Richard Stallman
-John Perry Barlow
-Bruce Sterling
-William Gibson
+- Jaron Lanier
+- Phillip K Dick
+- Steven Levy
+- Richard Stallman
+- John Perry Barlow
+- Bruce Sterling
+- William Gibson
 
 ---
 
