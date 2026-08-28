@@ -93,6 +93,8 @@ author_profile: true
 - Olivetti
 - Burroughs
 - Sun
+- Sundstrand
+  - OM-3 5-axis mill
 
 ---
 
