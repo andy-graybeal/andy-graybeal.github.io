@@ -26,6 +26,8 @@ author_profile: true
 - The Conversation
 - Sneakers
 - North by Northwest
+- Clockwork Orange
+- They Live
   
 ---
 
