@@ -62,7 +62,7 @@ I enjoy solving technical problems with a practical, open-source approach.
 ---
 ## Systems and Network Administrator
 
-I have 20+ years of experience supporting information technology infrastructure across higher education, government, small business, and manufacturing environments. Building upon a foundation of self-directed, hands-on learning, I'm now formalizing decades of field experience by completing an Associate of Applied Science in Cybersecurity and Network Systems.  I am seeking a position in cybersecurity where I can apply my experience and further develop my security skills and knowledge.
+I have 20+ years of experience supporting information technology infrastructure across higher education, government, small business, and manufacturing environments. Building upon a foundation of self-directed, hands-on learning, I'm now formalizing years of field experience by completing an Associate of Applied Science in Cybersecurity and Network Systems.  I am seeking a position in cybersecurity where I can apply my experience and further develop my security skills and knowledge.
 
 ---
 ### Background
