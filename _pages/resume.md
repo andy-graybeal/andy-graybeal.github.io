@@ -7,7 +7,7 @@ redirect_from:
   - 
 ---
 
-{% include base_path %}
+{% include base_path %} [PDF](/files/resume/Andy_Graybeal_Resume-09_04_2026.pdf)
 
 ---
 
@@ -19,13 +19,13 @@ I have extensive hands-on experience supporting information technology infrastru
 
 ---
 
-## Systems & Network Administrator / IT Coordinator
+## Systems & Network Administrator
 ### Worker-Owned Restaurant Corporation \| *Athens, Ohio* \| 2004–2013
   * **Network Infrastructure:** Designed and implemented the organization's network infrastructure, including structured cabling, WLANs, VLAN segmentation, and deployment and administration of a pfSense firewall. Extended secure connectivity to remote offices and home-based users through encrypted site-to-site VPNs using OpenVPN. 
   * **Linux Migration:** Led an organization-wide migration from Windows to Linux, implementing LTSP to centrally manage approximately 20 workstations supporting 90 users, improving system stability, reducing vulnerabilities, and eliminating software licensing costs.
   * **Identity & Access Management:** Implemented centralized identity and access management (IAM) using Zentyal (OpenLDAP, Samba, and Kerberos), enabling Single Sign-On (SSO) across multiple applications and integration with Google Workspace using OAuth.
   * **Virtualized Infrastructure:** Deployed and administered an on-premises KVM/libvirt virtualized server environment hosting core business and development services, replacing standalone physical systems with centralized open-source infrastructure.
-  * **Monitoring and Operations:** Implemented and maintained infrastructure monitoring using Icinga (Nagios) and SNMP, administered backups with Bacula, proactively identified performance issues, and supported capacity planning and operational visibility.
+  * **Monitoring and Operations:** Implemented and maintained infrastructure monitoring using Icinga/Nagios and SNMP, administered backups with Bacula, proactively identified performance issues, and supported capacity planning and operational visibility.
   * **Web & Business Systems:** Developed and maintained a WordPress-based website and e-commerce platform integrating event promotion, product sales, and social media while supporting PCI-compliant payment processing.
 
 ## Tech Support Analyst
