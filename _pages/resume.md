@@ -7,7 +7,7 @@ redirect_from:
   - 
 ---
 
-{% include base_path %} [PDF](/files/resume/Andy_Graybeal_Resume-09_04_2026.pdf)
+{% include base_path %} [Download a concise, one page version of my resume in PDF format](/files/resume/Andy_Graybeal_Resume-09_04_2026.pdf)
 
 ---
 
