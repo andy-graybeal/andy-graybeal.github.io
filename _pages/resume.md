@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-I have extensive hands-on experience supporting information technology infrastructure across higher education, government, small business, and manufacturing environments. Building upon a foundation of self-directed, hands-on learning, I'm now formalizing years of field experience by completing an Associate of Applied Science in Cybersecurity and Network Systems. I am seeking a position in cybersecurity where I can apply my experience and further develop my security skills and knowledge.
+I have extensive hands-on experience supporting information technology infrastructure across higher education, government, small business, and manufacturing environments. Building upon a foundation of self-directed, hands-on learning, I'm now formalizing my years of field experience by completing an Associate of Applied Science in Cybersecurity and Network Systems. I am seeking a position in cybersecurity where I can apply my experience and further develop my security skills and knowledge.
 
 ---
 
