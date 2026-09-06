@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-I have extensive hands-on experience supporting information technology infrastructure across higher education, government, small business, and manufacturing environments. I'm now formalizing my experience by completing an Associate of Applied Science in Cybersecurity and Network Systems. I am seeking a position in cybersecurity where I can apply my experience and further develop my security skills and knowledge.
+I am a systems and network administrator with extensive hands-on experience supporting information technology infrastructure across higher education, government, small business, and manufacturing environments. I’m now formalizing my experience by completing an Associate of Applied Science in Cybersecurity and Network Systems. My cybersecurity interests include Linux and open-source security, identity and access management, infrastructure defense, privacy and digital rights, and the ethical use of emerging technologies. I’ve been developing skills in security monitoring and threat detection, vulnerability management, incident response, cybersecurity risk assessment, and network defense. At this stage, I am most interested in working as a cybersecurity analyst, where I could apply my existing systems, networking, and infrastructure experience while gaining practical experience in cybersecurity operations.
 
 ---
 
