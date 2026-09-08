@@ -64,9 +64,9 @@ Request Tracker provided a centralized workflow for recording, assigning, and fo
 
 ## Automated Cross-Platform Backups
 
-I designed and automated a backup workflow for Linux systems and the Windows machines that remained in service. Bash scripts used rsync to collect and stage data from remote systems, with Cygwin providing the required tools on Windows. Cron scheduled the synchronization jobs, and Bacula managed the centralized backups.
+I designed and automated a backup workflow for Linux systems and the Windows machines. Bash scripts used rsync to collect and stage data from systems, with Cygwin providing the required tools on Windows. Cron scheduled the synchronization jobs, and Bacula managed the centralized backups.
 
-The remote workflow used SSH public-key authentication, host-key validation, and restricted backup accounts. I tested restores to confirm that backed-up data could be recovered.
+The workflow used SSH public-key authentication, host-key validation, and restricted backup accounts. I tested restores to confirm that backed-up data could be recovered.
 
 In addition to the centralized backups, I maintained a weekly offsite tape copy at a separate office so that recovery did not depend entirely on the primary site. Tapes at the primary location were stored in a fire-resistant safe.
 
