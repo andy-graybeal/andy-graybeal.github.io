@@ -4,6 +4,7 @@ excerpt: "Design and administration of segmented networks, pfSense firewalls, en
 collection: portfolio
 ---
 
+# Open-Source Infrastructure and Network Security at Worker-Owned Restaurant Corporation
 
 From 2004 through 2013, I served as co-owner and the sole systems and network administrator for Worker-Owned Restaurant Corporation in Athens, Ohio. IT was not a full-time position; I divided my time between technology responsibilities and restaurant operations, including work as a prep cook. I designed and administered an open-source environment that supported approximately 90 people across a restaurant, bakery, bar, nightclub, manufacturing facility, catering operation, and festival and farmers market activities. The environment included approximately 20 centrally managed workstations, segmented networks, firewall and VPN administration, Linux desktop management, virtualized servers, centralized authentication, monitoring, and automated backups.
 
@@ -29,7 +30,7 @@ A limited number of Windows systems remained in service when application or oper
 
 ## Implementation and User Adoption
 
-I introduced changes incrementally while keeping the organization’s active systems available. User training was part of the implementation process, particularly when moving staff from Windows to Linux, introducing LibreOffice, providing remote access through X2Go, and later migrating services to Google Workspace.
+I introduced changes incrementally while keeping the organization’s active systems available. User training was part of the implementation process, particularly when moving staff from Windows to Linux, migrating productivity work from Microsoft Office to LibreOffice, providing remote access through X2Go, and later migrating services to Google Workspace. The office-suite transition also required converting hundreds of the organization’s existing documents and spreadsheets into formats that could be maintained in LibreOffice.
 
 Many of the organization’s administrative and operational workflows originally relied on pen-and-paper records or spreadsheets. Digital files were scattered across individual computers in different offices, often with separate versions of the same material and no centralized backup. I helped consolidate these files into centrally managed storage, digitize paper-based processes, and move selected spreadsheet-based workflows into database-backed applications. This provided more consistent access to shared information and brought important organizational data into the managed backup system.
 
@@ -37,7 +38,7 @@ Many of the organization’s administrative and operational workflows originally
 
 I deployed and administered an on-premises KVM/libvirt environment to consolidate services that had previously depended on separate physical systems. The virtualized environment hosted directory services, file and print services, monitoring, backup infrastructure, web applications, and other internal services.
 
-The primary hardware was a refurbished IBM X-series server with hot-swappable SCSI drives. I configured its Linux storage using mdadm and LVM, providing software-managed disk arrays and flexible allocation of storage to the hosted services.
+The primary hardware was an IBM server with hot-swappable SCSI drives. I configured its Linux storage using mdadm and LVM, providing software-managed disk arrays and flexible allocation of storage to the hosted services.
 
 Virtualization made it easier to manage workloads centrally and use available hardware more efficiently. Monitoring and utilization data also supported capacity planning, hardware lifecycle decisions, and budgeting.
 
@@ -58,7 +59,7 @@ I deployed and administered GNU Mailman as a central communication service for i
 I deployed Nagios/Icinga and SNMP monitoring to track network devices, servers, service availability, and system health. Each computer was supported by an uninterruptible power supply (UPS), and I used the temperature readings reported by those units to record conditions in rooms throughout the facilities. I also used Icinga to monitor the temperatures of the walk-in freezer and walk-in refrigerator at the remote manufacturing facility and warehouse. Icinga sent email alerts when monitored services or environmental readings indicated a problem. I used monitoring data to identify issues, investigate performance changes, and plan upgrades.
 
 Request Tracker provided a centralized workflow for recording, assigning, and following technical issues. It also created a history that could be used for troubleshooting and operational planning.
-
+IMG_6515 (1)
 ## Automated Cross-Platform Backups
 
 I designed and automated a backup workflow for Linux systems and the Windows machines that remained in service. Bash scripts used rsync to collect and stage data from remote systems, with Cygwin providing the required tools on Windows. Cron scheduled the synchronization jobs, and Bacula managed the centralized backups.
@@ -83,5 +84,4 @@ I began work on Moodle as a possible employee training platform and sought help 
 
 I configured TimeTrex to authenticate through LDAP as a possible timesheet system, but it did not progress to official organizational use.
 
-Across this work, I was responsible for infrastructure design, implementation, administration, troubleshooting, documentation, access control, monitoring, automation, and recovery testing.
-
+Across this work, I was responsible for infrastructure desihttps://andygraybeal.com/portfolio/open_source_coop/gn, implementation, administration, troubleshooting, documentation, access control, monitoring, automation, and recovery testing.
