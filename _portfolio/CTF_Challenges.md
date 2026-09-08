@@ -1,5 +1,5 @@
 ---
-title: "National Cyber League Competition Results"
+title: "National Cyber League CTF Competition Results"
 excerpt: "Four individual and team CTF events, including an 83rd-percentile Standard-bracket finish and a team ranking of 435 out of 4,214." 
 collection: portfolio
 ---
