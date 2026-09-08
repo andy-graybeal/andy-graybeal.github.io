@@ -3,6 +3,8 @@ title: "Open Source Infrastructure and Network Security"
 excerpt: "Design and administration of segmented networks, pfSense firewalls, encrypted VPNs, Linux systems, centralized IAM, virtualization, monitoring, and backups."
 collection: portfolio
 ---
+I designed and administered a Linux-based environment supporting approximately 90 users and 20 workstations, with segmented networks, pfSense firewalls, site-to-site OpenVPN connectivity, centralized authentication, KVM virtualization, proactive monitoring, and automated cross-platform backups.
+
 
 **Network Infrastructure:** I secured and modernized the organization's network by designing and implementing structured cabling and segmented wired and wireless access. To reduce attack surface and improve traffic management, I introduced VLANs and deployed a pfSense-based firewall solution. I extended secure connectivity to remote offices by configuring site-to-site VPNs using OpenVPN and Tomato firmware-based routers, replacing unreliable and unsecured remote access with a stable, encrypted architecture. I documented the network architecture using Dia, maintaining up-to-date diagrams to support troubleshooting, planning, and infrastructure visibility.
 
