@@ -59,7 +59,7 @@ I deployed and administered GNU Mailman as a central communication service for i
 I deployed Nagios/Icinga and SNMP monitoring to track network devices, servers, service availability, and system health. Each computer was supported by an uninterruptible power supply (UPS), and I used the temperature readings reported by those units to record conditions in rooms throughout the facilities. I also used Icinga to monitor the temperatures of the walk-in freezer and walk-in refrigerator at the remote manufacturing facility and warehouse. Icinga sent email alerts when monitored services or environmental readings indicated a problem. I used monitoring data to identify issues, investigate performance changes, and plan upgrades.
 
 Request Tracker provided a centralized workflow for recording, assigning, and following technical issues. It also created a history that could be used for troubleshooting and operational planning.
-IMG_6515 (1)
+
 ## Automated Cross-Platform Backups
 
 I designed and automated a backup workflow for Linux systems and the Windows machines that remained in service. Bash scripts used rsync to collect and stage data from remote systems, with Cygwin providing the required tools on Windows. Cron scheduled the synchronization jobs, and Bacula managed the centralized backups.
