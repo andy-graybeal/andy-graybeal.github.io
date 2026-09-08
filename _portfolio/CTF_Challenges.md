@@ -1,6 +1,6 @@
 ---
-title: "Capture the Flag Challenge Rankings"
-excerpt: "Rankings I've gotten at CTFs" 
+title: "National Cyber League Competition Results"
+excerpt: "Four individual and team CTF events, including an 83rd-percentile Standard-bracket finish and a team ranking of 435 out of 4,214." 
 collection: portfolio
 ---
 
