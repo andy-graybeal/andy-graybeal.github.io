@@ -1,5 +1,5 @@
 ---
-title: "Made the news in the Hocking College Press"
+title: "Hocking College Press Covers Cyber Hawks’ NCL Performance"
 excerpt: "Hocking College Cyber Hawks finish in top 10% of teams in National Cyber League competition"
 collection: portfolio
 ---
