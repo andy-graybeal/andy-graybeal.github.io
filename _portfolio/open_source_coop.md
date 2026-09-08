@@ -1,5 +1,5 @@
 ---
-title: "Open Source Infrastructure and Network Security at the Worker Owned Restaurant Corporation"
+title: "Open-Source Infrastructure, Network Security, and Digital Operations"
 excerpt: "Design and administration of segmented networks, pfSense firewalls, encrypted VPNs, Linux systems, centralized IAM, virtualization, monitoring, and backups."
 collection: portfolio
 ---
