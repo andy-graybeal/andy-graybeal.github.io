@@ -16,7 +16,9 @@ I redesigned the physical and logical network with structured cabling and a mana
 
 I initially administered the firewall directly with OpenBSD/PF and later migrated firewall operations to pfSense. The web interface made routine rule management and troubleshooting easier while retaining PF as the underlying firewall technology. I used Nmap to verify that systems exposed only the intended services and ports.
 
-For remote offices and home-based users, I configured encrypted site-to-site connectivity with OpenVPN and Tomato-based routers. I documented the network in Dia and updated the diagrams as the environment changed.
+For remote offices I configured encrypted site-to-site connectivity with OpenVPN and Tomato-based routers.
+
+I documented the network in Dia and updated the diagrams as the environment changed.
 
 ## Windows to Linux Migration
 
