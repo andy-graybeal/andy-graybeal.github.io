@@ -25,7 +25,8 @@ I am a systems and network administrator with extensive hands-on experience supp
   * **Linux Migration:** Led an organization-wide migration from Windows to Linux, implementing LTSP to centrally manage approximately 20 workstations supporting 90 users, improving system stability, reducing vulnerabilities, and eliminating software licensing costs.
   * **Identity & Access Management:** Implemented centralized identity and access management (IAM) using Zentyal (OpenLDAP, Samba, and Kerberos), enabling Single Sign-On (SSO) across multiple applications and integration with Google Workspace using OAuth.
   * **Virtualized Infrastructure:** Deployed and administered an on-premises KVM/libvirt virtualized server environment hosting core business and development services, replacing standalone physical systems with centralized open-source infrastructure.
-  * **Monitoring and Operations:** Implemented and maintained infrastructure monitoring using Icinga/Nagios and SNMP, administered backups with Bacula, proactively identified performance issues, and supported capacity planning and operational visibility.
+  * **Monitoring and Operations:** Implemented and maintained infrastructure monitoring with Icinga/Nagios and SNMP, proactively identifying performance issues and supporting capacity planning and operational visibility.
+  * **Backup and Recovery:** Designed and automated a cross-platform backup workflow using Bash, rsync, Cygwin on remaining Windows systems, cron scheduling, and Bacula. Configured SSH public-key authentication, host-key validation, and restricted backup accounts, and tested restores to verify recoverability.
   * **Web & Business Systems:** Developed and maintained a WordPress-based website and e-commerce platform integrating event promotion, product sales, and social media while supporting PCI-compliant payment processing.
 
 ## Tech Support Analyst
