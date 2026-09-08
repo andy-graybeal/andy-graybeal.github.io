@@ -83,5 +83,5 @@ I began work on Moodle as a possible employee training platform and sought help 
 
 I configured TimeTrex to authenticate through LDAP as a possible timesheet system, but it did not progress to official organizational use.
 
-Across this work, I was responsible for infrastructure desihttps://andygraybeal.com/portfolio/open_source_coop/gn, implementation, administration, troubleshooting, documentation, access control, monitoring, automation, and recovery testing.
+Across this work, I was responsible for infrastructure design, implementation, administration, troubleshooting, documentation, access control, monitoring, automation, and recovery testing.
 
