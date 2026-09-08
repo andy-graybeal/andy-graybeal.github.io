@@ -37,7 +37,7 @@ Many of the organization’s administrative and operational workflows originally
 
 I deployed and administered an on-premises KVM/libvirt environment to consolidate services that had previously depended on separate physical systems. The virtualized environment hosted directory services, file and print services, monitoring, backup infrastructure, web applications, and other internal services.
 
-The primary hardware was an IBM server with hot-swappable SCSI drives. I configured its Linux storage using mdadm and LVM, providing software-managed disk arrays and flexible allocation of storage to the hosted services.
+The primary hardware was a refurbished IBM X-series server with hot-swappable SCSI drives. I configured its Linux storage using mdadm and LVM, providing software-managed disk arrays and flexible allocation of storage to the hosted services.
 
 Virtualization made it easier to manage workloads centrally and use available hardware more efficiently. Monitoring and utilization data also supported capacity planning, hardware lifecycle decisions, and budgeting.
 
