@@ -1,6 +1,6 @@
 ---
-title: "Building Open-Source On-Premise Infrastructure"
-excerpt: "Open-Source Puzzle Piecing"
+title: "Open Source Infrastructure and Network Security
+excerpt: "Design and administration of segmented networks, pfSense firewalls, encrypted VPNs, Linux systems, centralized IAM, virtualization, monitoring, and backups."
 collection: portfolio
 ---
 
