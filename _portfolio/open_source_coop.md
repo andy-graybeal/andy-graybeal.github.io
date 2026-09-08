@@ -22,13 +22,13 @@ I documented the network in Dia and updated the diagrams as the environment chan
 
 ## Windows to Linux Migration
 
-I led the organization’s transition from Windows to Linux for most desktop systems. Linux Terminal Server Project infrastructure centralized workstation administration for approximately 20 workstations used by 90 people. This improved consistency and reduced desktop software licensing costs.
+I led the organization’s transition from Windows to Linux.  Linux Terminal Server Project infrastructure centralized workstation administration for approximately 20 workstations used by 90 people. This improved consistency and reduced desktop software licensing costs.
 
 As part of the Linux platform’s lifecycle, I upgraded the Ubuntu environment from version 8.04 to 10.04.
 
 I also maintained a pool of approximately 10 IBM/Lenovo ThinkPad T-series laptops running Linux for staff to take home. Staff used X2Go from these laptops to connect remotely to the organization’s systems.
 
-A limited number of Windows systems remained in service when application or operational requirements prevented their conversion. I used Cygwin to integrate those systems with Linux-based administrative and backup workflows.
+Seven computers remained on Windows because of application requirements: two ran QuickBooks, while five supported the organization’s legacy point-of-sale system. I used Cygwin to integrate these systems with Linux-based administrative and backup workflows and wrote Bash scripts to detect system or application failures. I also installed Icinga agents to monitor their health.
 
 ## Implementation and User Adoption
 
