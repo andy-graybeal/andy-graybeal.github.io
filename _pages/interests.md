@@ -28,11 +28,15 @@ author_profile: true
 - North by Northwest
 - Clockwork Orange
 - They Live
+- 12 Monkeys
   
 ---
 
 # Television
 - Mr. Robot
+- Max Headroom
+- I.T. Crowd
+- West World
 
 ---
 
@@ -64,6 +68,7 @@ author_profile: true
 - David Tudor
 - Steve Reich
 - Brian Eno
+- David Bowie
 
 ---
 
