@@ -86,7 +86,7 @@ I am a systems and network administrator with extensive hands-on experience supp
 
 **Systems Administration:** KVM/libvirt · LTSP (Linux Terminal Server Project) · LAMP · JBoss · Apache Tomcat · AWS EC2 · Google Workspace administration, migration, and integration
 
-**Email Infrastructure & Security:** Postfix · Dovecot · GNU Mailman · ClamAV · SpamAssassin · Amavis · SPF · DKIM · DMARC · DNS blocklists · MX/PTR record configuration
+**Email Infrastructure & Security:** Postfix · Dovecot · GNU Mailman · ClamAV · SpamAssassin · Amavis · SPF · DKIM · DNS blocklists · MX/PTR record configuration
 
 **Scripting:** Bash (basic) · Python (basic)
 
