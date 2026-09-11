@@ -83,11 +83,17 @@ I am a systems and network administrator with extensive hands-on experience supp
 
 **Networking:** TCP/IP · VLANs · WLANs · DNS · DHCP · pfSense · OpenVPN · Structured cabling · SNMP
 
-**Systems Administration:** KVM/libvirt · LTSP · LAMP · WordPress · AWS EC2 · Google Workspace
+**Systems Administration:** KVM/libvirt · LTSP · LAMP · WordPress · JBoss · Apache Tomcat · AWS EC2 · Google Workspace
+
+**Scripting:** Bash (basic) · Python (basic)
 
 **Identity & Access Management:** OpenLDAP · Samba · Kerberos · SSO · OAuth
 
-**Monitoring & Operations:** Icinga (Nagios) · Bacula · GNU Mailman
+**Monitoring & Operations:** Icinga/Nagios · Bacula · Legato Networker · GNU Mailman
 
-**Security:** Network segmentation · Firewall administration · PCI compliance · Wireshark  · CTF participation
+**Security Tools:** Metasploit · Nmap · Burp Suite · Nessus · Wireshark
+
+**Security Frameworks & Methodologies:** OWASP · PTES · NIST SP 800-115 · MITRE ATT&CK
+
+**Security Practices:** Network segmentation · Firewall administration · PCI compliance · CTF participation
 
