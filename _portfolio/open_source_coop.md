@@ -4,7 +4,6 @@ excerpt: "Design and administration of segmented networks, pfSense firewalls, en
 collection: portfolio
 ---
 
-# Open-Source Infrastructure and Network Security at Worker-Owned Restaurant Corporation
 
 From 2004 through 2013, I served as co-owner and the sole systems and network administrator for Worker-Owned Restaurant Corporation in Athens, Ohio. IT was not a full-time position; I divided my time between technology responsibilities and restaurant operations, including work as a prep cook. I designed and administered an open-source environment that supported approximately 90 people across a restaurant, bakery, bar, nightclub, manufacturing facility, catering operation, and festival and farmers market activities. The environment included approximately 20 centrally managed workstations, segmented networks, firewall and VPN administration, Linux desktop management, virtualized servers, centralized authentication, monitoring, and automated backups.
 
