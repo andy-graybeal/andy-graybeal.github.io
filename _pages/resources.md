@@ -7,7 +7,6 @@ redirect_from:
   - 
 ---
 
-{% include base_path %}
 # Cybersecurity Resources
 
 A curated collection of cybersecurity learning resources, practice environments, challenges, and analysis tools.
@@ -29,10 +28,38 @@ A curated collection of cybersecurity learning resources, practice environments,
 
 ### Guided Learning
 
+#### AWS Skill Builder
+
+- [AWS Skill Builder](https://aws.amazon.com/training/digital/) — Official self-paced training for AWS cloud, security, architecture, operations, artificial intelligence, and certification preparation; hundreds of resources are available free.
+  - [AWS Cloud Practitioner Learning](https://aws.amazon.com/training/learn-about/cloud-practitioner/) — Beginner learning plan covering cloud concepts, core AWS services, pricing, and security.
+  - [AWS Security Learning Plan](https://aws.amazon.com/training/learn-about/security/) — Courses and guided training covering AWS security processes, services, and best practices.
+  - [AWS Training by Role or Solution](https://aws.amazon.com/training/learn-about/) — Learning paths for cloud practitioners, architects, developers, operations, networking, security, and other specialties.
+
+#### Burp Suite
+
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security) — Free learning material and interactive web-application security labs.
   - [Getting Started with Burp Suite](https://portswigger.net/burp/documentation/desktop/getting-started) — Official interactive tutorial covering Burp Proxy, scope, Repeater, and basic scanning.
   - [PortSwigger — YouTube](https://www.youtube.com/c/PortSwiggerTV/videos) — Official Burp Suite demonstrations, web-security research, and tutorials.
 - [TryHackMe Burp Suite Training](https://tryhackme.com/module/learn-burp-suite) — Guided lessons covering Burp Suite basics, Repeater, Intruder, extensions, and other tools; some content may require paid access.
+
+#### Tenable Nessus
+
+- [Tenable Nessus Learning Resources](https://www.tenable.com/education?id=3) — Official training for installing, configuring, and using Nessus for vulnerability assessment.
+  - [Getting Started with Nessus — Video](https://videos.tenable.com/watch/AH1Yc9j9qtS6VuAZYeci2u?chapter=1)
+  - [Getting Started with Nessus — User Guide](https://docs.tenable.com/nessus/Content/GetStarted.htm)
+  - [Nessus for Education](https://www.tenable.com/tenable-nessus-for-education) — Verified students and instructors can request a free one-year Nessus Essentials Plus license.
+  - [Nessus Fundamentals Course](https://www.tenable.com/education/courses/nessus-fundamentals) — Paid course with more than 60 targeted videos and demonstrations.
+
+#### Greenbone Community Edition / OpenVAS
+
+- [Greenbone Community Edition / OpenVAS Learning Resources](https://community.greenbone.net/getting-started/) — Official starting point for the open-source vulnerability-management platform built around the OpenVAS scanner.
+  - [Greenbone Community Edition Documentation](https://greenbone.github.io/docs/latest/) — Maintained installation, architecture, administration, and troubleshooting documentation.
+  - [Install with Greenbone Community Containers](https://greenbone.github.io/docs/latest/22.4/container/) — Guided installation using Docker or Podman containers.
+  - [Install on Kali Linux](https://greenbone.github.io/docs/latest/22.4/kali/index.html) — Distribution-specific installation and setup guide.
+  - [Perform Your First OpenVAS Scan](https://community.greenbone.net/blog/open-source-greenbone-vulnerability-scanner-first-scan/) — Community video walkthrough covering login, the scan wizard, and basic report results.
+
+#### Malware Traffic Analysis
+
 - [Brad Duncan — Malware-Traffic-Analysis.net](https://www.malware-traffic-analysis.net/) — Packet captures, tutorials, workshops, and exercises for investigating malicious network traffic.
 
 ### Educators and Video Channels
@@ -107,6 +134,12 @@ A curated collection of cybersecurity learning resources, practice environments,
 
 ## Tools and Reference Sites
 
+### OSINT and Network Intelligence
+
+- [Malfrat’s OSINT Map](https://map.malfrats.industries/) — Maintained visual directory of tools and resources for open-source intelligence investigations.
+- [OSINT Framework](https://osintframework.com/) — Influential visual directory of OSINT resources; reportedly no longer actively maintained, but retained here for reference and comparison.
+- [Robtex](https://www.robtex.com/) — DNS, IP address, autonomous system, WHOIS, passive DNS, and network-infrastructure research tools.
+
 ### Encoding, Ciphers, and Analysis
 
 - [Rumkin Cipher Tools](https://rumkin.com/) — Classical cipher, encoding, and puzzle-solving tools.
@@ -119,68 +152,6 @@ A curated collection of cybersecurity learning resources, practice environments,
 - [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) — Toolkit for analyzing weak RSA keys in authorized CTF and research environments.
 - [Cryptii Caesar Cipher](https://cryptii.com/pipes/caesar-cipher/) — Interactive Caesar-cipher encoder and decoder.
 - [Omniglot](https://omniglot.com/) — Reference for writing systems, alphabets, and languages.
-# Cybersecurity Resources
-
-## Vulnerable Machines and Practice Environments
-
-- [VulnHub](https://www.vulnhub.com/) — Downloadable, intentionally vulnerable virtual machines for hands-on practice.
-- [HackMyVM](https://hackmyvm.eu/) — Boot-to-root virtual machines and online labs.
-- [Exploit Education](http://exploit.education/) — Vulnerable virtual machines for learning memory corruption, exploitation, and debugging.
-- [Pwn Adventure 3](http://pwnadventure.com/) — Intentionally vulnerable multiplayer game designed for security experimentation.
-- [HPAndro Android CTF](http://ctf.hpandro.raviramesh.info/) — Beginner-oriented Android security challenges.
-
-## Network Traffic Analysis
-
-- [Malware-Traffic-Analysis.net](https://www.malware-traffic-analysis.net/) — Packet captures and exercises for investigating malicious network traffic.
-
-## Web and Application Security
-
-- [PortSwigger Web Security Academy](https://portswigger.net/web-security) — Free learning material and interactive web-security labs.
-- [Defend the Web](https://defendtheweb.net/) — Interactive web-security challenges and learning material.
-- [Webhacking.kr](https://webhacking.kr/) — Web-exploitation challenges.
-- [Lord of SQLInjection](https://los.rubiya.kr/) — Challenges focused on SQL injection techniques.
-- [XSS Game](http://www.xssgame.com/) — Cross-site scripting challenges.
-- [Google XSS Game](https://xss-game.appspot.com/) — Interactive lessons and challenges covering cross-site scripting.
-- [PromptRiddle](https://promptriddle.com/) — Prompt-based security puzzles and challenges.
-
-## Binary Exploitation and Reverse Engineering
-
-- [pwnable.kr](https://pwnable.kr/) — Binary-exploitation wargames presented with playful themes.
-- [pwnable.tw](https://pwnable.tw/) — Advanced binary-exploitation challenges.
-- [pwnable.xyz](https://pwnable.xyz/) — Binary-exploitation wargames.
-- [Smash the Stack](http://www.smashthestack.org/) — Wargames focused on exploitation and low-level security concepts.
-- [Microcorruption](https://microcorruption.com/) — Embedded-security challenges involving assembly, debugging, and lock firmware.
-- [Reversing.kr](http://reversing.kr/) — Reverse-engineering challenges.
-- [Crackmes.one](https://crackmes.one/) — Community collection of programs created for reverse-engineering practice.
-
-## Cryptography Challenges
-
-- [CryptoHack](https://cryptohack.org/) — Interactive cryptography courses and challenges.
-- [Cryptopals](https://cryptopals.com/) — Practical programming challenges based on real-world cryptographic weaknesses.
-- [id0-rsa](https://id0-rsa.pub/) — Cryptography challenges with an emphasis on RSA.
-- [TryToDecrypt](https://www.trytodecrypt.com/index.php) — Online cryptography puzzles and challenges.
-
-## Command-Line Practice
-
-- [UnderTheWire](https://underthewire.tech/) — PowerShell-focused wargames.
-- [CMD Challenge](https://cmdchallenge.com/) — Short command-line exercises for practicing shell skills.
-
-## Hash Identification and Password Auditing
-
-- [HashMob](https://hashmob.net/) — Community platform for authorized hash research and password recovery.
-- [Hashes.com](https://hashes.com/en/decrypt/hash) — Hash identification and lookup tools.
-- [MD5Decrypt](https://md5decrypt.net/en/) — Lookup and educational reference for common hash formats.
-- [dCode MD5 Tool](https://www.dcode.fr/md5-hash) — MD5 hashing, identification, and reference tool.
-- [PasswordRecovery.io SHA-1 Tool](https://passwordrecovery.io/sha1/) — SHA-1 lookup and password-recovery utility.
-- [Rainbow Tables](http://rainbowtables.it64.com/) — Legacy reference and lookup resource for rainbow-table-based password recovery.
-
-## Videos and Playlists
-
-- [John Strand and Black Hills Information Security — YouTube](https://www.youtube.com/@BlackHillsInformationSecurity) — Educational webcasts, security news, demonstrations, and practical guidance from John Strand and other working cybersecurity professionals at BHIS.
-- [Chris Greer of Packet Pioneer — YouTube](https://www.youtube.com/@ChrisGreer) — Wireshark instruction, packet analysis, protocol fundamentals, and practical network troubleshooting.
-- [Hocking Playlist](https://www.youtube.com/playlist?list=PL5Xwf2uhCEVwGGL-COkCuvOTeaXgw5ab-)
-- [Can You Handle a Cyber Attack? TryHackMe SOC Simulator — John Hammond](https://www.youtube.com/watch?v=dIu0bvtGbmU)
-- [Burp Suite Proxy Browser and App Interception — David Bombal](https://www.youtube.com/watch?v=0CIpMDJmPpc)
 
 ### Hash Identification and Password Auditing
 
