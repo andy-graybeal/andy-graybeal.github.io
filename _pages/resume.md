@@ -21,9 +21,10 @@ I am a systems and network administrator with extensive hands-on experience supp
 
 ## Systems & Network Administrator
 ### Worker-Owned Restaurant Corporation \| *Athens, Ohio* \| 2004–2013
-  * **Network Infrastructure:** Designed and implemented the organization's network infrastructure, including structured cabling, WLANs, VLAN segmentation, and deployment and administration of a pfSense firewall. Extended secure connectivity to remote offices and home-based users through encrypted site-to-site VPNs using OpenVPN. 
+  * **Network Infrastructure:** Designed and implemented the organization's network infrastructure, including structured cabling, WLANs, VLAN segmentation, and deployment and administration of a pfSense firewall. Extended secure connectivity to remote offices and home-based users through encrypted site-to-site VPNs using OpenVPN. Enforced organization-wide DNS filtering through OpenDNS (now Cisco Umbrella) to block access to known malicious and phishing domains.
   * **Linux Migration:** Led an organization-wide migration from Windows to Linux, implementing LTSP to centrally manage approximately 20 workstations supporting 90 users, improving system stability, reducing vulnerabilities, and eliminating software licensing costs.
-  * **Identity & Access Management:** Implemented centralized identity and access management (IAM) using Zentyal (OpenLDAP, Samba, and Kerberos), enabling Single Sign-On (SSO) across multiple applications and integration with Google Workspace using OAuth.
+  * **Identity & Access Management:** Implemented centralized identity and access management through Zentyal using OpenLDAP, Samba, Kerberos, and PAM, enabling Single Sign-On (SSO) across Linux workstations and internal applications and supporting Google Apps integration through OAuth.
+  * Email & Collaboration Systems:** Administered Zentyal-based email infrastructure using Postfix and Dovecot with ClamAV, SpamAssassin, and Amavis, alongside GNU Mailman mailing lists. Managed SPF, DKIM, DNS blocklists, and MX/PTR records before migrating organizational email to Google Apps and mailing lists to Google Groups (now part of Google Workspace).
   * **Virtualized Infrastructure:** Deployed and administered an on-premises KVM/libvirt virtualized server environment hosting core business and development services, replacing standalone physical systems with centralized open-source infrastructure.
   * **Monitoring and Operations:** Implemented and maintained infrastructure monitoring with Icinga/Nagios and SNMP, proactively identifying performance issues and supporting capacity planning and operational visibility.
   * **Backup and Recovery:** Designed and automated a cross-platform backup workflow using Bash, rsync, Cygwin on remaining Windows systems, cron scheduling, and Bacula. Configured SSH public-key authentication, host-key validation, and restricted backup accounts, and tested restores to verify recoverability.
@@ -83,7 +84,7 @@ I am a systems and network administrator with extensive hands-on experience supp
 
 **Networking:** TCP/IP · VLANs · WLANs · DNS · DHCP · pfSense · OpenVPN · Structured cabling · SNMP
 
-**Systems Administration:** KVM/libvirt · LTSP (Linux Terminal Server Project) · LAMP · JBoss · Apache Tomcat · AWS EC2 · Google Workspace
+**Systems Administration:** KVM/libvirt · LTSP (Linux Terminal Server Project) · LAMP · JBoss · Apache Tomcat · AWS EC2 · Google Workspace administration, migration, and integration
 
 **Email Infrastructure & Security:** Postfix · Dovecot · GNU Mailman · ClamAV · SpamAssassin · Amavis · SPF · DKIM · DMARC · DNS blocklists · MX/PTR record configuration
 
