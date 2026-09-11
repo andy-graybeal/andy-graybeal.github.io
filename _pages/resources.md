@@ -17,13 +17,68 @@ A curated collection of cybersecurity learning resources, practice environments,
 
 ### Certification Preparation
 
+The paths below branch by career direction. They are suggested progressions, not checklists; certifications at the same stage are often alternatives rather than requirements.
+
+#### Certification Roadmap
+
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) — Visual guide to cybersecurity certifications by domain and experience level.
+
+#### Foundation: Core IT and Security
+
+*Suggested progression: A+ → Network+ → Security+*
+
 - [Professor Messer](https://www.professormesser.com/) — Free video training and study resources for CompTIA certifications.
   - [Professor Messer — YouTube](https://www.youtube.com/@professormesser)
   - [CompTIA A+ Core 1 (220-1201)](https://www.professormesser.com/free-a-plus-training/220-1201/220-1201-video/220-1201-training-course/)
   - [CompTIA A+ Core 2 (220-1202)](https://www.professormesser.com/free-a-plus-training/220-1202/220-1202-video/220-1202-training-course/)
   - [CompTIA Network+ (N10-009)](https://www.professormesser.com/network-plus/n10-009/n10-009-video/n10-009-training-course/)
   - [CompTIA Security+ (SY0-701)](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/)
+
+#### Defensive Security Analysis
+
+*Suggested progression: Security+ → CySA+ → BTL1 → CISSP after gaining qualifying experience*
+
+- [CompTIA CySA+](https://www.comptia.org/en-us/certifications/cybersecurity-analyst/) — Analyst-focused certification covering security operations, vulnerability management, incident response, reporting, and communication.
+  - [Pluralsight — CompTIA CySA+ (CS0-004)](https://www.pluralsight.com/paths/comptia-cysa-cs0-004) — Current-version video courses and exam-preparation material; subscription required after any trial period.
+  - [LinkedIn Learning — CompTIA CySA+ (CS0-004) Cert Prep](https://www.linkedin.com/learning/comptia-cybersecurity-analyst-cysa-plus-cs0-004-cert-prep) — Current-version video course covering all four examination domains; subscription or eligible library access may be required.
+- [Blue Team Level 1 (BTL1)](https://www.centri.org/certifications/blue-team-level-1) — Practical junior-level defensive certification covering incident response, SIEM investigations, digital forensics, phishing analysis, threat intelligence, and network-traffic analysis.
+
+#### Systems and Security Operations
+
+*Suggested progression: Security+ → SSCP → CISSP after gaining qualifying experience*
+
+- [ISC2 Systems Security Certified Practitioner (SSCP)](https://www.isc2.org/certifications/sscp) — Security-administration and operations certification focused on implementing, monitoring, and maintaining secure infrastructure.
+  - [Current SSCP Exam Outline](https://www.isc2.org/certifications/sscp/sscp-certification-exam-outline) — Official examination domains, objectives, weights, and experience requirements.
+  - [SSCP Self-Study Resources](https://www.isc2.org/certifications/sscp/sscp-self-study-resources) — Official training links, flash cards, study tools, and preparation guidance.
+
+#### Offensive Security and Penetration Testing
+
+*Suggested progression: Security+ → PenTest+ or eJPT → PNPT or CPTS → OSCP+*
+
+- [CompTIA PenTest+](https://www.comptia.org/en-us/certifications/pentest/) — Vendor-neutral penetration-testing certification covering engagement management, reconnaissance, vulnerability discovery, exploitation, post-exploitation, and reporting. Study for the current PT0-003 exam.
+- [INE Junior Penetration Tester (eJPT)](https://security.ine.com/certifications/ejpt-certification/) — Hands-on, entry-level alternative to PenTest+ covering assessment methodology, network and host testing, exploitation, and web-application testing.
+- [TCM Security Practical Network Penetration Tester (PNPT)](https://certifications.tcm-sec.com/pnpt/) — Practical professional-level examination involving OSINT, network and Active Directory testing, a written report, and a live findings presentation.
+- [HTB Certified Penetration Testing Specialist (CPTS)](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) — Practical penetration-testing certification supported by Hack The Box Academy’s Penetration Tester path.
+- [Hack The Box Academy — Penetration Tester Path](https://academy.hackthebox.com/path/preview/penetration-tester) — Hands-on curriculum covering the complete penetration-testing process and preparation for CPTS.
+
+- [OffSec OSCP+ Preparation](https://www.offsec.com/courses/pen-200/) — PEN-200: Penetration Testing with Kali Linux is OffSec’s official, hands-on training course for the OSCP+ certification.
+  - [PEN-200 Course Syllabus](https://manage.offsec.com/app/uploads/2026/03/PEN-200_Syllabus.pdf) — Current topics, modules, exercises, and learning objectives.
+  - [PEN-200 Learner Onboarding Guide](https://help.offsec.com/hc/en-us/articles/4406841351316-PEN-200-Onboarding-A-Learner-Introduction-Guide-to-the-OSCP) — Official guidance for approaching the course and labs.
+  - [PEN-200 24-Week Learning Plan](https://help.offsec.com/hc/en-us/article_attachments/19289813086612) — A structured study schedule from OffSec.
+  - [OffSec Proving Grounds](https://www.offsec.com/products/proving-grounds/) — Practice environments including free Linux machines and paid labs designed to supplement OSCP+ preparation.
+
+#### Advanced Security Leadership
+
+*Long-term destination for experienced security practitioners; not an immediate follow-up examination for most students.*
+
+- [ISC2 CISSP Preparation](https://www.isc2.org/certifications/cissp/cissp-self-study-resources) — Official study resources for the Certified Information Systems Security Professional examination.
+  - [Current CISSP Exam Outline](https://www.isc2.org/certifications/cissp/cissp-certification-exam-outline) — Official domains, objectives, weights, and examination details.
+  - [ISC2TV — YouTube](https://www.youtube.com/@ISC2TV) — ISC2’s official cybersecurity and certification channel.
+  - [Pete Zerger’s CISSP Exam Cram 2026 — YouTube Playlist](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_XPK_qmYMqfiBjbtHJRWigD) — Free review material covering all eight CISSP domains and current exam updates.
+  - [Destination Certification CISSP MindMaps — YouTube Playlist](https://www.youtube.com/playlist?list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu) — Visual, domain-by-domain CISSP concept reviews.
+
+#### API Security
+
 - [APIsec University](https://au.apisec.ai/) — Free courses focused on API security and secure development.
 
 ### Guided Learning
