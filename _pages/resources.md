@@ -8,53 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-[Malware Traffic Analysis](https://www.malware-traffic-analysis.net/training-exercises.html) - maintained by security researcher Brad Duncan.
-
 # Cybersecurity Resources
-
-A curated collection of cybersecurity learning platforms, practice labs, reference material, and analysis tools.
-
-> Use security-testing and password-auditing resources only with systems, accounts, and data you own or have explicit permission to test.
-
-## Certification and Training
-
-- [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) — Visual guide to cybersecurity certifications by domain and experience level.
-- [APIsec University](https://au.apisec.ai/) — Free courses focused on API security and secure development.
-
-## Encoding, Ciphers, and Analysis Tools
-
-- [Rumkin Cipher Tools](https://rumkin.com/) — Classical cipher, encoding, and puzzle-solving tools.
-- [Ciphey](https://github.com/bee-san/Ciphey) — Automated decoding and decryption tool for common encodings and classical ciphers.
-- [CyberChef](https://gchq.github.io/CyberChef/) — Browser-based toolkit for encoding, decoding, encryption, compression, and data analysis.
-- [Base64 Decode](https://www.base64decode.org/) — Online Base64 encoder and decoder.
-- [quipqiup](https://quipqiup.com/) — Automated solver for simple substitution ciphers.
-- [Boxentriq Cryptogram Solver](https://www.boxentriq.com/ciphers/cryptogram) — Interactive cryptogram and substitution-cipher solver.
-- [dCode](https://www.dcode.fr/) — Collection of cipher, mathematics, encoding, and puzzle-solving tools.
-- [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) — Toolkit for analyzing weak RSA keys in authorized CTF and research environments.
-- [Cryptii Caesar Cipher](https://cryptii.com/pipes/caesar-cipher/) — Interactive Caesar-cipher encoder and decoder.
-- [Omniglot](https://omniglot.com/) — Reference for writing systems, alphabets, and languages.
-
-## General Labs and CTF Platforms
-
-- [Hack The Box](https://www.hackthebox.com/) — Hands-on cybersecurity labs, machines, challenges, and learning paths.
-- [TryHackMe](https://tryhackme.com/) — Guided, browser-based cybersecurity training and practice labs.
-- [picoCTF](https://picoctf.org/) — Beginner-friendly cybersecurity education and jeopardy-style challenges.
-- [OverTheWire](https://overthewire.org/wargames/) — Security wargames; Bandit is a good starting point for Linux fundamentals.
-- [Root Me](https://www.root-me.org/?lang=en) — Challenges and virtual environments covering a broad range of security topics.
-- [RingZer0 CTF](https://ringzer0ctf.com/) — Jeopardy-style challenges across multiple cybersecurity categories.
-- [Net-Force Challenges](https://www.net-force.nl/challenges/) — Security challenges covering cryptography, programming, networking, and related topics.
-- [CSAW](https://csaw.io/) — Student-focused cybersecurity competitions, challenges, and educational events.
-- [CTFlearn](https://ctflearn.com/) — Community-driven jeopardy-style cybersecurity challenges.
-- [Hacking-Lab](https://hacking-lab.com/) — Cybersecurity exercises, competitions, and training environments.
-- [AttackDefense Labs](https://attackdefense.com/) — Browser-accessible, hands-on cybersecurity labs.
-- [W3Challs](https://w3challs.com/) — Jeopardy-style security challenges with beginner material.
-- [echoCTF](https://echoctf.red/) — Online platform for practicing offensive and defensive security skills.
-- [Hack This Site](https://www.hackthissite.org/) — Security missions and challenges for learning web and application security.
-- [HBH](https://hbh.sh/home) — Community-based cybersecurity challenges and learning material.
-- [Hacker Gateway](https://www.hackergateway.com/) — Jeopardy-style security challenges.
-- [Suninatas](http://suninatas.com/) — Korean jeopardy-style security challenge platform.
-- [BlockCTF](https://blockctf.com/) — Capture-the-flag competitio# Cybersecurity Resources
 
 A curated collection of cybersecurity learning platforms, practice labs, reference material, and analysis tools.
 
@@ -157,7 +111,50 @@ A curated collection of cybersecurity learning platforms, practice labs, referen
 - [Hocking Playlist](https://www.youtube.com/playlist?list=PL5Xwf2uhCEVwGGL-COkCuvOTeaXgw5ab-)
 - [Can You Handle a Cyber Attack? TryHackMe SOC Simulator — John Hammond](https://www.youtube.com/watch?v=dIu0bvtGbmU)
 - [Burp Suite Proxy Browser and App Interception — David Bombal](https://www.youtube.com/watch?v=0CIpMDJmPpc)
-n and challenge platform formerly hosted as Square CTF.
+# Cybersecurity Resources
+
+A curated collection of cybersecurity learning platforms, practice labs, reference material, and analysis tools.
+
+> Use security-testing and password-auditing resources only with systems, accounts, and data you own or have explicit permission to test.
+
+## Certification and Training
+
+- [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) — Visual guide to cybersecurity certifications by domain and experience level.
+- [APIsec University](https://au.apisec.ai/) — Free courses focused on API security and secure development.
+
+## Encoding, Ciphers, and Analysis Tools
+
+- [Rumkin Cipher Tools](https://rumkin.com/) — Classical cipher, encoding, and puzzle-solving tools.
+- [Ciphey](https://github.com/bee-san/Ciphey) — Automated decoding and decryption tool for common encodings and classical ciphers.
+- [CyberChef](https://gchq.github.io/CyberChef/) — Browser-based toolkit for encoding, decoding, encryption, compression, and data analysis.
+- [Base64 Decode](https://www.base64decode.org/) — Online Base64 encoder and decoder.
+- [quipqiup](https://quipqiup.com/) — Automated solver for simple substitution ciphers.
+- [Boxentriq Cryptogram Solver](https://www.boxentriq.com/ciphers/cryptogram) — Interactive cryptogram and substitution-cipher solver.
+- [dCode](https://www.dcode.fr/) — Collection of cipher, mathematics, encoding, and puzzle-solving tools.
+- [RsaCtfTool](https://github.com/RsaCtfTool/RsaCtfTool) — Toolkit for analyzing weak RSA keys in authorized CTF and research environments.
+- [Cryptii Caesar Cipher](https://cryptii.com/pipes/caesar-cipher/) — Interactive Caesar-cipher encoder and decoder.
+- [Omniglot](https://omniglot.com/) — Reference for writing systems, alphabets, and languages.
+
+## General Labs and CTF Platforms
+
+- [Hack The Box](https://www.hackthebox.com/) — Hands-on cybersecurity labs, machines, challenges, and learning paths.
+- [TryHackMe](https://tryhackme.com/) — Guided, browser-based cybersecurity training and practice labs.
+- [picoCTF](https://picoctf.org/) — Beginner-friendly cybersecurity education and jeopardy-style challenges.
+- [OverTheWire](https://overthewire.org/wargames/) — Security wargames; Bandit is a good starting point for Linux fundamentals.
+- [Root Me](https://www.root-me.org/?lang=en) — Challenges and virtual environments covering a broad range of security topics.
+- [RingZer0 CTF](https://ringzer0ctf.com/) — Jeopardy-style challenges across multiple cybersecurity categories.
+- [Net-Force Challenges](https://www.net-force.nl/challenges/) — Security challenges covering cryptography, programming, networking, and related topics.
+- [CSAW](https://csaw.io/) — Student-focused cybersecurity competitions, challenges, and educational events.
+- [CTFlearn](https://ctflearn.com/) — Community-driven jeopardy-style cybersecurity challenges.
+- [Hacking-Lab](https://hacking-lab.com/) — Cybersecurity exercises, competitions, and training environments.
+- [AttackDefense Labs](https://attackdefense.com/) — Browser-accessible, hands-on cybersecurity labs.
+- [W3Challs](https://w3challs.com/) — Jeopardy-style security challenges with beginner material.
+- [echoCTF](https://echoctf.red/) — Online platform for practicing offensive and defensive security skills.
+- [Hack This Site](https://www.hackthissite.org/) — Security missions and challenges for learning web and application security.
+- [HBH](https://hbh.sh/home) — Community-based cybersecurity challenges and learning material.
+- [Hacker Gateway](https://www.hackergateway.com/) — Jeopardy-style security challenges.
+- [Suninatas](http://suninatas.com/) — Korean jeopardy-style security challenge platform.
+- [BlockCTF](https://blockctf.com/) — Capture-the-flag competition and challenge platform formerly hosted as Square CTF.
 
 ## Vulnerable Machines and Practice Environments
 
