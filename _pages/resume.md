@@ -15,13 +15,13 @@ I am a systems and network administrator with extensive hands-on experience supp
 
 ---
 
-# Work experience
+# Relevant Technology Experience
 
 ---
 
-## Systems & Network Administrator
+## Co-Owner / Systems & Network Administrator
 ### Worker-Owned Restaurant Corporation \| *Athens, Ohio* \| 2004–2013
-  * **Network Infrastructure:** Designed and implemented the organization's network infrastructure, including structured cabling, WLANs, VLAN segmentation, and deployment and administration of a pfSense firewall. Extended secure connectivity to remote offices and home-based users through encrypted site-to-site VPNs using OpenVPN. Enforced organization-wide DNS filtering through OpenDNS (now Cisco Umbrella) to block access to known malicious and phishing domains.
+  * **Network Infrastructure:** Designed and implemented the organization's network infrastructure, including structured cabling, WLANs, VLAN segmentation, and deployment and administration of a pfSense firewall. Extended secure connectivity to remote offices using OpenVPN. Enforced organization-wide DNS filtering through OpenDNS (now Cisco Umbrella) to block access to known malicious and phishing domains.
   * **Linux Migration:** Led an organization-wide migration from Windows to Linux, implementing LTSP (Linux Terminal Server Project) to centrally manage approximately 20 workstations supporting 90 users, improving system stability, reducing vulnerabilities, and eliminating software licensing costs.
   * **Identity & Access Management:** Implemented centralized identity and access management through Zentyal using OpenLDAP, Samba, Kerberos, and PAM, enabling Single Sign-On (SSO) across Linux workstations and internal applications and supporting Google Apps integration through OAuth.
   * **Email & Collaboration Systems:** Deployed and administered Zentyal-based email infrastructure using Postfix and Dovecot with Amavisd-new, ClamAV, and SpamAssassin, alongside GNU Mailman mailing lists. Managed SPF, DKIM, DNS blocklists, and MX/PTR records before migrating organizational email to Google Apps and mailing lists to Google Groups (now part of Google Workspace).
@@ -38,7 +38,7 @@ I am a systems and network administrator with extensive hands-on experience supp
     *   The university's online learning platform, WebCBT.
     *   Ten departmental servers providing database, file, print, primary and secondary domain services supporting administrative operations.
     *   Managed server backups for supported systems using the Legato NetWorker client, ensuring reliable data protection and recovery.
-  * **Enterprise Client Support:** Installed, configured, and supported a myriad of applications including enterprise application clients such as ERP systems (PeopleSoft, Banner) and business intelligence (BI) tools (Business Objects/Crystal Reports), ensuring proper database connectivity and readiness for end users and development staff.
+  * **Enterprise Client Support:** Installed, configured, and supported a range of applications including enterprise application clients such as ERP systems (PeopleSoft, Banner) and business intelligence (BI) tools (Business Objects/Crystal Reports), ensuring proper database connectivity and readiness for end users and development staff.
   * **Training Lab Administration:** Managed and maintained two computer labs for the Human Resources department, each housing approximately 40 workstations, ensuring availability and readiness for staff training and departmental operations.
   * **Operations & Support:** Diagnosed and resolved network connectivity and system anomalies impacting availability and security. Managed support requests within a ticketed workflow, maintaining SLA compliance across multiple departments and adapting communication style for faculty, staff, and students.
 
@@ -49,8 +49,8 @@ I am a systems and network administrator with extensive hands-on experience supp
   * **Business Analytics:** Analyzed customer feedback and sales data to refine product offerings and improve customer retention. 
 
 ## Tech Support Specialist
-###  Ohio Department of Rehabilitation and Corrections \| *Columbus, Ohio* \| 1999 
-  * **Regional Technical Support:** Began on the central IT Help Desk before transitioning to field technical support, providiing workstation and network support across eight facilities including correctional institutions, a pre-release center, and the parole authority throughout Southeastern Ohio and the Columbus area—including SCI, PCI, CRC, HCI, RCI, CCI, Franklin Pre-Release Center, and the Athens Parole Authority.
+###  Ohio Department of Rehabilitation and Correction \| *Columbus, Ohio* \| 1999 
+  * **Regional Technical Support:** Began on the central IT Help Desk before transitioning to field technical support, providing workstation and network support across eight facilities including correctional institutions, a pre-release center, and the parole authority throughout Southeastern Ohio and the Columbus area—including SCI, PCI, CRC, HCI, RCI, CCI, Franklin Pre-Release Center, and the Athens Parole Authority.
   * **System Deployment & Networking:** Performed system imaging, deployment, and network troubleshooting as part of a centralized IT operation supporting the regional corrections infrastructure.
 
 ## IT Support Technician
@@ -60,6 +60,8 @@ I am a systems and network administrator with extensive hands-on experience supp
  * **Internet Connectivity:** Integrated Windows NT Internet gateway and proxy server solutions into Novell NetWare business networks, enabling secure shared Internet access for commercial clients.
  *  **ISP Technical Support:** Delivered outsourced telephone technical support for Fairfield Internet, a regional Internet service provider (ISP), assisting customers with dial-up connectivity, modem configuration, web browser and email client configuration, and Internet access issues.
  *  **Desktop Support:** Provided on-site, in-house, and telephone technical support for commercial and residential clients. Built, upgraded, and repaired desktop systems, including hardware installation, operating system installation, and system configuration.
+
+# Additional Experience
 
 ## Machine Operator
 ### Athens Mold and Machine \| *Athens, Ohio* \| 2022–2025
@@ -84,15 +86,15 @@ I am a systems and network administrator with extensive hands-on experience supp
 
 **Networking:** TCP/IP · VLANs · WLANs · DNS · DHCP · pfSense · OpenVPN · Structured cabling · SNMP
 
-**Systems Administration:** KVM/libvirt · LTSP (Linux Terminal Server Project) · LAMP · JBoss · Apache Tomcat · AWS EC2 · Google Workspace administration, migration, and integration
+**Systems Administration:** KVM/libvirt · LTSP (Linux Terminal Server Project) · LAMP · JBoss Application Server · Apache Tomcat · AWS EC2 · Google Workspace administration, migration, and integration
 
 **Email Infrastructure & Security:** Postfix · Dovecot · GNU Mailman · ClamAV · SpamAssassin · Amavis · SPF · DKIM · DNS blocklists · MX/PTR record configuration
 
-**Scripting:** Bash (basic) · Python (basic)
+**Scripting:** Bash · Python (basic)
 
-**Identity & Access Management:** OpenLDAP · Samba · Kerberos · SSO · OAuth
+**Identity & Access Management:** OpenLDAP · Samba · Kerberos · PAM · SSO · OAuth
 
-**Monitoring & Operations:** Icinga/Nagios · Bacula · Legato Networker
+**Monitoring & Backup:** Icinga · Nagios · Bacula · Legato NetWorker
 
 **Content Management Systems:** WordPress · Drupal · Joomla · Tiki Wiki
 
@@ -100,7 +102,7 @@ I am a systems and network administrator with extensive hands-on experience supp
 
 **Security Tools:** Metasploit · Nmap · Burp Suite · Nessus · Wireshark
 
-**Security Frameworks & Methodologies:** OWASP · PTES · NIST SP 800-115 · MITRE ATT&CK · Lockheed Martin Cyber Kill Chain
+**Security Frameworks, Standards & Methodologies:** OWASP · PTES · NIST SP 800-115 · MITRE ATT&CK · Lockheed Martin Cyber Kill Chain
 
-**Security Practices:** Network segmentation · Firewall administration · PCI compliance · CTF participation
+**Security Practices:** Network segmentation · Firewall administration · PCI DSS compliance · CTF participation
 
