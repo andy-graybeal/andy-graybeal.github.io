@@ -123,6 +123,10 @@ The paths below branch by career direction. They are suggested progressions, not
 - [Chris Greer of Packet Pioneer — YouTube](https://www.youtube.com/@ChrisGreer) — Wireshark instruction, packet analysis, protocol fundamentals, and practical network troubleshooting.
 - [John Hammond — YouTube](https://www.youtube.com/@_JohnHammond) — Malware analysis, CTF walkthroughs, ethical hacking, threat research, and practical cybersecurity demonstrations.
 - [David Bombal — YouTube](https://www.youtube.com/@davidbombal) — Cybersecurity, networking, Linux, automation, technical interviews, and ethical-hacking demonstrations.
+- [IppSec — YouTube](https://www.youtube.com/@ippsec) — Detailed Hack The Box walkthroughs emphasizing enumeration, penetration-testing methodology, problem-solving, and alternative attack paths.
+- [LiveOverflow — YouTube](https://www.youtube.com/@LiveOverflow) — Carefully explained videos about vulnerability research, binary exploitation, web security, CTFs, and the underlying mechanics of attacks.
+- [Heath Adams and The Cyber Mentor — YouTube](https://www.youtube.com/@TCMSecurityAcademy) — Practical ethical-hacking, penetration-testing, Linux, networking, privilege-escalation, and career-development instruction from the founder of TCM Security.
+- [OALabs — YouTube](https://www.youtube.com/@OALABS) — Malware analysis, reverse engineering, debugging, unpacking, and practical investigation techniques.
 - [Hocking Playlist](https://www.youtube.com/playlist?list=PL5Xwf2uhCEVwGGL-COkCuvOTeaXgw5ab-)
 
 ## Hands-On Labs and CTF Practice
@@ -189,6 +193,114 @@ The paths below branch by career direction. They are suggested progressions, not
 
 ## Tools and Reference Sites
 
+### Reconnaissance and Security Assessment
+
+#### [Nmap](https://nmap.org/)
+
+Open-source network discovery, port scanning, service identification, operating-system detection, and security-auditing tool.
+
+- [Official Nmap Network Scanning Guide](https://nmap.org/book/) — Authoritative guide covering introductory through advanced Nmap usage; approximately half is available free online.
+- [Quick Port Scanning Tutorial](https://nmap.org/book/port-scanning-tutorial.html) — Official walkthrough of common scans and how to interpret their results.
+
+#### [Greenbone Community Edition / OpenVAS](https://greenbone.github.io/docs/latest/)
+
+Open-source vulnerability-management platform and scanner. Installation and first-scan tutorials are also listed under Guided Learning above.
+
+#### [Nuclei](https://github.com/projectdiscovery/nuclei)
+
+Fast, template-based scanner for finding known vulnerabilities, exposures, and configuration problems across authorized targets.
+
+- [ProjectDiscovery Quick Start](https://docs.projectdiscovery.io/quickstart) — Official introduction to asset discovery and vulnerability scanning with ProjectDiscovery tools.
+- [Running Nuclei](https://docs.projectdiscovery.io/opensource/nuclei/running) — Official usage examples, inputs, templates, output formats, and scanning options.
+
+#### [Nikto](https://github.com/sullo/nikto)
+
+Open-source web-server scanner for dangerous files, outdated components, and configuration problems.
+
+- [Nikto Documentation](https://github.com/sullo/nikto/wiki) — Official installation, usage, tuning, and reporting reference.
+- [Nikto Basic Testing](https://github.com/sullo/nikto/wiki/Basic-Testing) — Introductory examples for scanning hosts, ports, HTTPS services, and lists of targets.
+
+#### [Lynis](https://cisofy.com/lynis/)
+
+Open-source security-auditing and hardening tool for Linux, BSD, macOS, and other UNIX-like systems.
+
+- [Getting Started with Lynis](https://cisofy.com/documentation/lynis/get-started/) — Official installation and first-audit tutorial.
+- [Lynis Documentation](https://cisofy.com/documentation/lynis/) — Commands, options, reports, profiles, automation, and configuration guidance.
+
+### Web Application Security Testing
+
+#### [OWASP ZAP](https://www.zaproxy.org/)
+
+Free, open-source intercepting proxy and web-application vulnerability scanner.
+
+- [ZAP Getting Started Guide](https://www.zaproxy.org/getting-started/) — Beginner-oriented introduction to proxying, crawling, passive analysis, and authorized active scanning.
+- [Official ZAP Videos](https://www.zaproxy.org/videos/) — Demonstrations and tutorials maintained by the ZAP project.
+
+#### [ffuf](https://github.com/ffuf/ffuf)
+
+Fast web fuzzer for discovering content, virtual hosts, parameters, and other hidden attack surface.
+
+- [ffuf Documentation and Examples](https://github.com/ffuf/ffuf/blob/master/README.md) — Installation and practical examples for content, virtual-host, parameter, and POST-data fuzzing.
+- [ffufme Local Practice Environment](https://github.com/adamtlangley/ffufme) — Purpose-built Docker targets for practicing ffuf legally on a local system.
+
+#### [Gobuster](https://github.com/OJ/gobuster)
+
+Command-line tool for discovering directories, files, DNS names, virtual hosts, and cloud-storage names.
+
+- [Gobuster Quick Start](https://github.com/OJ/gobuster#-quick-start) — Official installation and introductory examples for its principal operating modes.
+
+#### [sqlmap](https://sqlmap.org/)
+
+Open-source tool that automates detection and validation of SQL-injection vulnerabilities.
+
+- [Official sqlmap Usage Guide](https://github.com/sqlmapproject/sqlmap/wiki/Usage) — Comprehensive option reference and practical usage examples.
+- [sqlmap FAQ](https://github.com/sqlmapproject/sqlmap/wiki/FAQ) — Introduction, installation guidance, terminology, and common troubleshooting questions.
+
+### Network Monitoring and Detection
+
+#### [Wireshark](https://www.wireshark.org/)
+
+Packet capture and protocol-analysis platform for troubleshooting, traffic analysis, and security investigations.
+
+- [Wireshark User’s Guide](https://www.wireshark.org/docs/wsug_html_chunked/) — Official installation, capture, filtering, analysis, and troubleshooting documentation.
+- [Chris Greer — YouTube](https://www.youtube.com/@ChrisGreer) — Practical Wireshark instruction and packet-analysis demonstrations.
+
+#### [Zeek](https://zeek.org/)
+
+Network-security monitoring platform that converts traffic into detailed, searchable logs and events.
+
+- [Zeek Quick Start](https://docs.zeek.org/en/current/quickstart.html) — Analyze a supplied packet capture, examine the resulting logs, and begin using Zeek scripts.
+- [Interactive Zeek Tutorial](https://docs.zeek.org/en/current/tutorial/index.html) — Guided setup, deployment, log analysis, packages, and scripting.
+
+#### [Suricata](https://suricata.io/)
+
+Open-source intrusion-detection, intrusion-prevention, and network-security monitoring engine.
+
+- [Suricata Quick Start](https://docs.suricata.io/en/latest/quickstart.html) — Official introduction to installation, configuration, rules, alerts, and EVE JSON output.
+- [Suricata User Guide](https://docs.suricata.io/en/latest/) — Complete official documentation.
+
+### Password Auditing Tools
+
+#### [Hashcat](https://hashcat.net/hashcat/)
+
+High-performance password-recovery and auditing tool supporting CPUs, GPUs, numerous hash formats, and multiple attack modes.
+
+- [Official Hashcat Wiki](https://hashcat.net/wiki/) — Documentation covering hash identification, attack modes, masks, rules, examples, and frequently asked questions.
+- [Example Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) — Reference mapping Hashcat modes to supported hash formats and safe example values.
+
+#### [John the Ripper](https://www.openwall.com/john/)
+
+Open-source password-security auditing and recovery tool with broad support for hashes, encrypted archives, keys, and documents.
+
+- [John the Ripper Documentation](https://www.openwall.com/john/doc/) — Official installation, options, cracking modes, rules, and configuration reference.
+- [John the Ripper Usage Examples](https://www.openwall.com/john/doc/EXAMPLES.shtml) — Practical examples covering wordlists, rules, sessions, restoration, and result review.
+
+#### [THC Hydra](https://github.com/vanhauser-thc/thc-hydra)
+
+Online credential-auditing tool for testing authentication against authorized network services.
+
+- [Hydra Documentation and Examples](https://github.com/vanhauser-thc/thc-hydra#readme) — Official installation, command syntax, supported protocols, and usage examples.
+
 ### OSINT and Network Intelligence
 
 - [Malfrat’s OSINT Map](https://map.malfrats.industries/) — Maintained visual directory of tools and resources for open-source intelligence investigations.
@@ -208,7 +320,7 @@ The paths below branch by career direction. They are suggested progressions, not
 - [Cryptii Caesar Cipher](https://cryptii.com/pipes/caesar-cipher/) — Interactive Caesar-cipher encoder and decoder.
 - [Omniglot](https://omniglot.com/) — Reference for writing systems, alphabets, and languages.
 
-### Hash Identification and Password Auditing
+### Hash Identification and Lookup Services
 
 - [HashMob](https://hashmob.net/) — Community platform for authorized hash research and password recovery.
 - [Hashes.com](https://hashes.com/en/decrypt/hash) — Hash identification and lookup tools.
