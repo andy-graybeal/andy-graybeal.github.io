@@ -13,6 +13,39 @@ A curated collection of cybersecurity learning resources, practice environments,
 
 > Use security-testing and password-auditing resources only with systems, accounts, and data you own or have explicit permission to test. Some resources provide real malware samples; treat all downloaded files as potentially dangerous and handle them only in an appropriately isolated environment.
 
+## Ethics, Law, Privacy, and Governance
+
+These resources provide useful professional and educational references; they are not a substitute for legal advice.
+
+### Professional Codes of Ethics
+
+- [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics) — Ethical principles and professional responsibilities for computing practitioners, educators, students, and technology leaders.
+- [ISC2 Code of Ethics](https://www.isc2.org/ethics) — Mandatory ethical canons and professional-conduct guidance for ISC2 members and certification holders.
+- [ISACA Code of Professional Ethics](https://www.isaca.org/code-of-professional-ethics) — Professional expectations concerning governance, audit, control, security, risk management, privacy, and competent service.
+- [IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html) — Ethical commitments for engineers and technology professionals concerning public welfare, honesty, competence, fairness, and responsible conduct.
+
+### Cyberlaw and Responsible Disclosure
+
+- [DOJ — Computer Fraud and Abuse Act Guidance (Justice Manual 9-48.000)](https://www.justice.gov/jm/jm-9-48000-computer-fraud) — Department of Justice charging and prosecution guidance for the CFAA, including considerations for good-faith security research.
+- [DOJ — Electronic Communications Privacy Act of 1986](https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285) — Overview of the federal law governing interception of communications and access to stored electronic communications.
+- [Stored Communications Act: Overview of Governmental Action](https://www.congress.gov/crs-product/LSB10801) — Congressional Research Service overview of governmental access to stored communications under the SCA.
+- [CISA Vulnerability Disclosure Policy Template](https://www.cisa.gov/vulnerability-disclosure-policy-template) — Template for defining authorized security research, reporting procedures, scope, expectations, and safe-harbor commitments.
+
+### NIST Frameworks and Technical Guidance
+
+- [NIST SP 800-86 — Guide to Integrating Forensic Techniques into Incident Response](https://csrc.nist.gov/pubs/sp/800/86/final) — Guidance for incorporating computer and network forensics into incident-response processes.
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework) — Voluntary framework for managing risks to individuals, organizations, and society arising from artificial-intelligence systems.
+  - [NIST AI RMF 1.0 Explainer Video](https://www.nist.gov/video/introduction-nist-ai-risk-management-framework-ai-rmf-10-explainer-video) — Official introduction to the purpose and structure of the AI RMF.
+- [NIST Cybersecurity Framework 2.0](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf) — Risk-management framework organized around the Govern, Identify, Protect, Detect, Respond, and Recover functions.
+- [NIST Privacy Framework](https://www.nist.gov/privacy-framework) — Voluntary framework for identifying and managing privacy risk through enterprise risk-management processes.
+- [NIST SP 800-63-4 — Digital Identity Guidelines](https://csrc.nist.gov/pubs/sp/800/63/4/final) — Requirements and recommendations for identity proofing, authentication, federation, security, and privacy.
+- [NIST Face Technology Evaluations (FRTE/FATE; formerly FRVT)](https://www.nist.gov/programs-projects/face-technology-evaluations-frtefate) — Independent evaluations of face-recognition and face-analysis technologies, including accuracy and demographic-performance research.
+
+### Privacy and Education
+
+- [FTC Privacy and Security Resources](https://www.ftc.gov/business-guidance/privacy-security) — Business guidance concerning data security, privacy practices, breach response, and compliance with consumer-protection law.
+- [FERPA Overview](https://studentprivacy.ed.gov/ferpa) — U.S. Department of Education overview of student and parent rights under the Family Educational Rights and Privacy Act.
+
 ## Learning, Training, and Educators
 
 ### Certification Preparation
