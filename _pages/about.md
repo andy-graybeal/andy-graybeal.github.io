@@ -57,7 +57,7 @@ redirect_from:
 
 ---
 
-I enjoy solving technical problems with a practical, open-source approach.
+I enjoy solving technical problems with practical, open-source solutions.
 
 ---
 ## Systems and Network Administrator
