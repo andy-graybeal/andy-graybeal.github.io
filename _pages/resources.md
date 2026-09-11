@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[Malware Traffic Analysis](https://www.malware-traffic-analysis.net/training-exercises.html)
+[Malware Traffic Analysis](https://www.malware-traffic-analysis.net/training-exercises.html) - maintained by security researcher Brad Duncan.
 
