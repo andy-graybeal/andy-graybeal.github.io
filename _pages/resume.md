@@ -62,7 +62,11 @@ Systems and network administrator with more than 15 years of hands-on experience
  *  **ISP Technical Support:** Delivered outsourced telephone technical support for Fairfield Internet, a regional Internet service provider (ISP), assisting customers with dial-up connectivity, modem configuration, web browser and email client configuration, and Internet access issues.
  *  **Desktop Support:** Provided on-site, in-house, and telephone technical support for commercial and residential clients. Built, upgraded, and repaired desktop systems, including hardware installation, operating system installation, and system configuration.
 
+---
+
 # Additional Experience
+
+---
 
 ## Machine Operator
 ### Athens Mold and Machine \| *Athens, Ohio* \| 2022–2025
