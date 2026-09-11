@@ -1,5 +1,5 @@
 ---
-title: "Open-Source Infrastructure at a Restaurant and Manufacturing Business."
+title: "Open-Source Infrastructure at a Restaurant and Manufacturing Business"
 excerpt: "Design and administration of segmented networks, pfSense firewalls, encrypted VPNs, Linux systems, centralized IAM, virtualization, monitoring, and backups."
 collection: portfolio
 ---
