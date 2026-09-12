@@ -9,7 +9,7 @@ redirect_from:
 
 # Cybersecurity Resources
 
-A curated collection of cybersecurity learning resources, practice environments, challenges, and analysis tools.
+A curated collection of cybersecurity ethics, law, privacy, and governance references; certification and guided-learning materials; educators and video channels; security and analysis tools; and hands-on labs, practice environments, and CTF challenges.
 
 > Use security-testing and password-auditing resources only with systems, accounts, and data you own or have explicit permission to test. Some resources provide real malware samples; treat all downloaded files as potentially dangerous and handle them only in an appropriately isolated environment.
 
