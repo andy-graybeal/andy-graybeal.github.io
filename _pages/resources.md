@@ -126,7 +126,7 @@ The paths below branch by career direction. They are suggested progressions, not
   - [PEN-200 24-Week Learning Plan](https://help.offsec.com/hc/en-us/article_attachments/19289813086612) — A structured study schedule from OffSec.
   - [OffSec Proving Grounds](https://www.offsec.com/products/proving-grounds/) — Practice environments including free Linux machines and paid labs designed to supplement OSCP+ preparation.
 
-#### Advanced Security Leadership
+#### Advanced Security Practice and Architecture
 
 *Long-term destination for experienced security practitioners; not an immediate follow-up examination for most students.*
 
