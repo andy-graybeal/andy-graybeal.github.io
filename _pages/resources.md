@@ -9,7 +9,7 @@ redirect_from:
 
 # Cybersecurity Resources
 
-A curated collection of cybersecurity ethics, law, privacy, compliance, and governance references; certification and guided-learning materials; educators and video channels; security and analysis tools; and hands-on labs, practice environments, and CTF challenges.
+A curated collection of cybersecurity ethics, law, privacy, compliance, and governance references; certification and guided-learning materials; educators and video channels; security and analysis tools—including mobile, wireless, radio, embedded, and automotive security—and hands-on labs, practice environments, and CTF challenges.
 
 > Use security-testing and password-auditing resources only with systems, accounts, and data you own or have explicit permission to test. Some resources provide real malware samples; treat all downloaded files as potentially dangerous and handle them only in an appropriately isolated environment.
 
@@ -141,6 +141,49 @@ The paths below branch by career direction. They are suggested progressions, not
 #### API Security
 
 - [APIsec University](https://au.apisec.ai/) — Free courses focused on API security and secure development.
+
+#### Mobile Application Security
+
+- [OWASP Mobile Application Security Verification Standard (MASVS)](https://mas.owasp.org/MASVS/) — Security requirements for mobile applications covering storage, cryptography, authentication, network communications, platform interaction, code quality, resilience, and privacy.
+- [OWASP Mobile Application Security Testing Guide (MASTG)](https://mas.owasp.org/MASTG/) — Comprehensive testing and reverse-engineering guidance for Android and iOS applications, mapped to the MASVS and OWASP Mobile Application Security Weakness Enumeration.
+
+#### Wireless and Software-Defined Radio
+
+- [GNU Radio Tutorials](https://wiki.gnuradio.org/index.php/Tutorials) — Official beginner through advanced tutorials covering flowgraphs, signal processing, modulation, demodulation, SDR hardware, and custom blocks.
+- [Software Defined Radio with HackRF — Michael Ossmann](https://greatscottgadgets.com/sdr/) — Free course from Great Scott Gadgets teaching SDR and digital-signal-processing fundamentals through GNU Radio and practical exercises.
+
+#### Amateur Radio Licensing and RF Fundamentals
+
+For learners in the United States, the Technician license is the entry point into amateur radio. It provides a structured foundation in radio theory, electronics, antennas, operating practices, RF exposure safety, and FCC regulations that complements software-defined-radio study.
+
+- [ARRL — Getting Licensed Step by Step](https://www.arrl.org/getting-licensed-step-by-step) — Overview of the three U.S. amateur-radio license classes, registration, study, examination, and application process. The entry-level Technician examination contains 35 questions.
+- [ARRL — Studying for a Technician License](https://www.arrl.org/studying-for-a-technician-license/) — Official ARRL Technician study materials, manuals, classes, and examination-preparation resources.
+- [HamStudy.org](https://ham.study/) — Free adaptive study mode, explanations, flash cards, and practice examinations using the current public question pools.
+  - [HamStudy — Find an Exam Session](https://ham.study/sessions) — Search for available in-person and remote examination sessions.
+  - [HamStudy License Manuals — GitHub](https://github.com/HamStudy/hamstudy-hambook) — Open-source project containing beginner-oriented amateur-radio license learning material.
+- [NCVEC 2026–2030 Technician Question Pool](https://ncvec.org/index.php/2026-2030-technician-question-pool) — Current public Technician examination pool, syllabus, diagrams, and errata from the National Conference of Volunteer Examiner Coordinators.
+- [ARRL — Find an Amateur Radio License Exam](https://www.arrl.org/find-an-amateur-radio-license-exam-session) — Search for in-person and remote Volunteer Examiner sessions and review examination-day requirements.
+- [FCC Amateur Radio Service Rules — 47 CFR Part 97](https://www.ecfr.gov/current/title-47/chapter-I/subchapter-D/part-97) — Current federal rules governing U.S. amateur-radio licensing, station operation, permitted communications, technical standards, and prohibited transmissions.
+
+An amateur-radio license grants specific transmitting privileges within the amateur service; it does not authorize jamming, unauthorized interception, access to other systems, or security testing without the system owner's permission.
+
+#### LoRa and Resilient Mesh Networking
+
+LoRa is a long-range, low-power radio modulation rather than a complete networking system. Several distinct protocols and software ecosystems can operate over LoRa, but they are not automatically interoperable. LoRaWAN typically connects low-power devices through gateways to network servers; Meshtastic and MeshCore provide their own off-grid mesh systems; Reticulum is a broader, hardware-independent networking stack that can use LoRa through an RNode interface.
+
+- [Semtech — LoRa and LoRaWAN Technical Overview](https://lora-developers.semtech.com/uploads/documents/files/LoRa_and_LoRaWAN-A_Tech_Overview-Downloadable.pdf) — Technical introduction to LoRa modulation, LoRa radios, LoRaWAN architecture, device classes, security, and common IoT deployments.
+- [LoRaWAN for Developers](https://lora-alliance.org/lorawan-for-developers/) — LoRa Alliance overview of the standardized LoRaWAN link layer, network architecture, regional parameters, backend interfaces, and certification ecosystem.
+- [Reticulum Network Stack Manual](https://reticulum.network/manual/) — Authoritative guide to Reticulum concepts, installation, interfaces, routing, network construction, cryptography, utilities, and application development.
+  - [Reticulum — Getting Started Fast](https://markqvist.github.io/Reticulum/manual/gettingstartedfast.html) — Practical introduction to installing Reticulum, trying an application, configuring interfaces, and joining or building a network.
+- [Meshtastic — Getting Started](https://meshtastic.org/docs/getting-started/) — Official guide to building an off-grid LoRa mesh and connecting supported radios to a phone or computer.
+- [MeshCore Documentation](https://docs.meshcore.io/) — Guides and protocol references for MeshCore's lightweight, multi-hop packet-radio network.
+
+Reticulum uses encryption by default. In the United States, ordinary encrypted Reticulum or LXMF traffic should not be transmitted under amateur-radio Part 97 privileges because [47 CFR § 97.113](https://www.ecfr.gov/current/title-47/section-97.113) generally prohibits messages encoded to obscure their meaning, apart from limited exceptions. Operation on license-exempt spectrum must instead comply with the applicable equipment, frequency, power, bandwidth, and duty-cycle rules; requirements differ by country and region.
+
+#### Automotive and CAN Bus Security
+
+- [The Car Hacker's Handbook — Craig Smith](https://nostarch.com/carhacking) — Practical introduction to vehicle architecture, CAN bus analysis, ECU testing, diagnostic systems, and automotive penetration testing.
+- [Car Hacking Village](https://www.carhackingvillage.com/) — Community providing automotive-security education, conference presentations, hands-on activities, and CTF events.
 
 #### AWS Skill Builder
 
@@ -277,6 +320,16 @@ Open-source passive wireless detector, packet-capture platform, wardriving tool,
 - [Kismet Documentation](https://www.kismetwireless.net/docs/) — Official installation, data-source, capture, logging, alerting, wardriving, and web-interface guidance.
 - [Kismet — GitHub](https://github.com/kismetwireless/kismet) — Official GitHub mirror of the project source.
 
+#### [WiGLE WiFi Wardriving FOSS](https://github.com/wiglenet/wigle-wifi-wardriving)
+
+Open-source Android application for geolocated discovery and logging of Wi-Fi, Bluetooth, and cellular signals. WiGLE supports wireless-network mapping, observation exports, route tracking, and Wi-Fi site surveys; it identifies the surrounding wireless landscape but does not provide access to networks.
+
+**Alignment:** PTES — Intelligence Gathering · NIST SP 800-115 — Wireless Scanning · Cyber Kill Chain — Reconnaissance
+
+- [WiGLE](https://wigle.net/) — Collaborative wireless-network mapping and visualization service.
+- [WiGLE WiFi Wardriving FOSS — F-Droid](https://f-droid.org/packages/net.wigle.wigleandroid/) — Free and open-source Android build distributed through F-Droid.
+- [WiGLE WiFi Wardriving — GitHub](https://github.com/wiglenet/wigle-wifi-wardriving) — Official source, feature documentation, releases, and issue tracker.
+
 #### [hcxdumptool and hcxtools](https://github.com/ZerBea/hcxdumptool)
 
 Linux tools for capturing and processing authorized WPA/WPA2/WPA3 assessment data. `hcxdumptool` writes modern `.pcapng` captures, while utilities such as `hcxpcapngtool` can prepare supported material for analysis with tools including Hashcat.
@@ -294,6 +347,172 @@ Open-source network reconnaissance and assessment framework supporting Wi-Fi, Bl
 
 - [bettercap Wi-Fi Documentation](https://www.bettercap.org/modules/wifi/) — Official wireless module commands, configuration options, requirements, and output formats.
 - [bettercap — GitHub](https://github.com/bettercap/bettercap) — Official source, releases, installation guidance, modules, and issue tracker.
+
+### Technical Assessment: Mobile Application Security
+
+Mobile application testing examines client-side storage, authentication, platform interaction, network communication, APIs, code, and resistance to tampering. Test only applications and accounts you own or are explicitly authorized to assess.
+
+#### [Mobile Security Framework (MobSF)](https://mobsf.github.io/Mobile-Security-Framework-MobSF/)
+
+Open-source mobile security research platform for automated static and dynamic analysis of Android, iOS, and Windows mobile applications. It supports application-security assessment, malware analysis, privacy analysis, and integration with development workflows.
+
+**Alignment:** OWASP MASVS and MASTG · PTES — Vulnerability Analysis · NIST SP 800-115 — Application Security Testing
+
+- [MobSF — GitHub](https://github.com/MobSF/Mobile-Security-Framework-MobSF) — Official source, installation instructions, releases, documentation, and issue tracker.
+
+#### [Frida](https://frida.re/)
+
+Open-source dynamic instrumentation toolkit used to inspect and modify application behavior at runtime. It supports Android, iOS, Linux, macOS, Windows, and other platforms and is widely used for authorized mobile testing and reverse engineering.
+
+**Alignment:** OWASP MASTG — Dynamic Analysis and Reverse Engineering · PTES — Vulnerability Analysis and Exploitation
+
+- [Frida Documentation](https://frida.re/docs/home/) — Official installation, quick-start, operating-mode, API, and example guidance.
+- [Frida — GitHub](https://github.com/frida/frida) — Official source and build information.
+
+#### [JADX](https://github.com/skylot/jadx)
+
+Open-source command-line and graphical decompiler for producing readable Java source from Android APK and DEX files. It also decodes application manifests and resources and includes code search, deobfuscation, and debugging features.
+
+**Alignment:** OWASP MASTG — Static Analysis and Reverse Engineering · PTES — Vulnerability Analysis
+
+- [JADX — GitHub](https://github.com/skylot/jadx) — Official source, releases, installation instructions, usage reference, and troubleshooting guidance.
+
+#### [Apktool](https://apktool.org/)
+
+Open-source tool for decoding and rebuilding Android application packages, including resources, manifests, and smali code. It complements JADX when examining an application's packaged structure and lower-level bytecode representation.
+
+**Alignment:** OWASP MASTG — Static Analysis and Reverse Engineering · PTES — Vulnerability Analysis
+
+- [Apktool Documentation](https://apktool.org/docs/) — Official installation, command, build, and troubleshooting guidance.
+- [Apktool — GitHub](https://github.com/iBotPeaches/Apktool) — Official source, releases, and issue tracker.
+
+Burp Suite and OWASP ZAP, listed under Web Application Security, can also inspect authorized mobile applications' HTTP and API traffic when the test environment is configured appropriately.
+
+### Technical Assessment: Software-Defined Radio and RFID/NFC
+
+Radio work spans receive-only spectrum observation, digital-signal processing, and authorized testing of wireless protocols. Transmitting, replaying, or intercepting signals may be regulated and must be limited to lawful laboratory conditions and explicitly authorized systems.
+
+#### [GNU Radio](https://www.gnuradio.org/)
+
+Open-source software-defined-radio toolkit for constructing signal-processing flowgraphs and learning how radio signals are received, filtered, decoded, generated, and analyzed.
+
+- [GNU Radio Tutorials](https://wiki.gnuradio.org/index.php/Tutorials) — Official beginner, intermediate, and advanced learning material.
+- [GNU Radio — GitHub](https://github.com/gnuradio/gnuradio) — Official source, releases, documentation, and issue tracker.
+
+#### [HackRF](https://greatscottgadgets.com/hackrf/)
+
+Open-source SDR hardware and software platform from Great Scott Gadgets. Unlike inexpensive receive-only SDR devices, HackRF hardware can both receive and transmit, so transmission exercises require particular care and compliance with applicable radio regulations.
+
+- [HackRF Documentation](https://hackrf.readthedocs.io/en/latest/) — Official installation, hardware, software, firmware, and usage documentation.
+- [HackRF — GitHub](https://github.com/greatscottgadgets/hackrf) — Official software, firmware, hardware designs, releases, and issue tracker.
+- [Software Defined Radio with HackRF](https://greatscottgadgets.com/sdr/) — Michael Ossmann's free SDR and GNU Radio course.
+
+#### [RTL-SDR](https://osmocom.org/projects/rtl-sdr/wiki)
+
+Open-source software that repurposes compatible RTL2832-based USB television tuners as inexpensive, receive-only software-defined radios. It provides a comparatively safe and affordable entry point for observing and learning about radio signals without transmitting.
+
+- [Osmocom rtl-sdr — GitHub Mirror](https://github.com/osmocom/rtl-sdr) — Source code and build information for the RTL-SDR library and command-line utilities.
+
+#### [Proxmark3](https://github.com/RfidResearchGroup/proxmark3)
+
+Open-source hardware, firmware, and client software for authorized RFID and NFC research across low- and high-frequency technologies. It supports tag identification, protocol analysis, reading, emulation, and security testing in controlled environments.
+
+- [Proxmark3 Iceman Repository](https://github.com/RfidResearchGroup/proxmark3) — Actively developed community firmware, client, installation documentation, command references, scripts, and research notes.
+
+### Resilient Mesh Networking: LoRa and Reticulum
+
+The projects below illustrate several different layers and approaches to low-bandwidth networking. LoRa supplies the radio modulation; LoRaWAN, Reticulum, Meshtastic, and MeshCore define different higher-level networking systems. LXMF and LXST are application protocols built on Reticulum. They should not be treated as interchangeable or assumed to communicate with one another without a purpose-built bridge.
+
+#### [LoRa and LoRaWAN](https://lora-alliance.org/lorawan-for-developers/)
+
+LoRa is a long-range, low-power radio modulation developed by Semtech. LoRaWAN is a standardized low-power wide-area networking architecture maintained by the LoRa Alliance, commonly used to connect battery-powered IoT devices through gateways to network servers. LoRaWAN is normally a star-of-stars network rather than a peer-to-peer mesh.
+
+- [Semtech — LoRa and LoRaWAN Technical Overview](https://lora-developers.semtech.com/uploads/documents/files/LoRa_and_LoRaWAN-A_Tech_Overview-Downloadable.pdf) — Physical-layer, architecture, device-class, security, and deployment overview.
+- [LoRaWAN for Developers](https://lora-alliance.org/lorawan-for-developers/) — Official standards overview and links to link-layer, backend-interface, regional-parameter, and certification documents.
+- [LoRaWAN 1.0.4 Specification Package](https://lora-alliance.org/resource_hub/lorawan-104-specification-package/) — LoRa Alliance link-layer specification, certification protocol, requirements, and reference material.
+
+#### [Reticulum Network Stack](https://reticulum.network/)
+
+Open-source, cryptography-based networking stack created and maintained by Mark Qvist for building decentralized networks across LoRa, packet radio, serial links, Wi-Fi, Ethernet, the Internet, and other media. Reticulum is designed for high-latency and very-low-bandwidth links, uses cryptographic identities and destinations instead of conventional IP addresses, and does not require every node to know the complete route to a destination.
+
+Reticulum's reference LoRa setup uses RNode and a custom link layer over plain LoRa modulation. It does **not** use the LoRaWAN protocol.
+
+- [Reticulum Manual](https://reticulum.network/manual/) — Authoritative architecture, installation, configuration, interface, routing, cryptography, utility, and development documentation.
+- [Getting Started Fast](https://markqvist.github.io/Reticulum/manual/gettingstartedfast.html) — Installation and first-network walkthrough.
+- [Building Networks with Reticulum](https://markqvist.github.io/Reticulum/manual/networks.html) — Guidance for nodes, transport instances, paths, interfaces, and network design.
+- [Reticulum API Reference](https://markqvist.github.io/Reticulum/manual/reference.html) — Python API for creating Reticulum-aware applications.
+- [Reticulum — GitHub](https://github.com/markqvist/Reticulum) — Public source mirror, utilities, examples, releases, and issue tracker.
+
+#### [RNode](https://github.com/markqvist/RNode_Firmware)
+
+Open hardware and firmware ecosystem providing a LoRa radio interface for Reticulum. An RNode handles the radio and link-layer functions while a connected computer, phone, or embedded host runs Reticulum and its applications.
+
+- [RNode Firmware — GitHub](https://github.com/markqvist/RNode_Firmware) — Stable upstream reference, firmware, supported-board information, build files, and hardware documentation.
+- [RNode Firmware Community Edition — GitHub](https://github.com/liberatedsystems/RNode_Firmware_CE) — Actively developed community edition with expanded hardware support, maintained by Liberated Embedded Systems.
+
+#### [LXMF — Lightweight Extensible Message Format](https://github.com/markqvist/LXMF)
+
+Distributed messaging format and delivery protocol built on Reticulum. LXMF provides signed, end-to-end encrypted, store-and-forward-capable messaging that can operate over extremely low-bandwidth links including LoRa and packet radio.
+
+- [LXMF — GitHub](https://github.com/markqvist/LXMF) — Reference implementation, protocol structure, delivery modes, examples, and compatible-client links.
+
+#### [LXST — Lightweight Extensible Signal Transport](https://github.com/markqvist/LXST)
+
+Experimental real-time streaming and signaling protocol built on Reticulum. LXST is intended for applications such as encrypted voice calls, two-way radio systems, telephony, and low-bandwidth audio. The project describes itself as early alpha software, so its interfaces should not yet be considered stable.
+
+- [LXST — GitHub](https://github.com/markqvist/LXST) — Reference implementation, supported codecs, installation guidance, and current project status.
+
+#### [Sideband](https://github.com/markqvist/Sideband)
+
+Graphical Reticulum client for Android, Linux, macOS, and Windows. Sideband uses LXMF for messaging and LXST for supported voice communication and also provides file transfer, telemetry, offline mapping, and situation-awareness features across LoRa and other Reticulum interfaces.
+
+- [Sideband — GitHub](https://github.com/markqvist/Sideband) — Public source mirror, downloads, documentation, features, and compatible-system information.
+
+#### [Nomad Network](https://github.com/markqvist/NomadNet)
+
+Terminal-based Reticulum and LXMF client for messaging, information pages, file resources, and node-hosted services. Nomad Network can also operate an LXMF propagation node for store-and-forward message delivery.
+
+- [Nomad Network — GitHub](https://github.com/markqvist/NomadNet) — Source, installation instructions, configuration, operation, and node-hosting documentation.
+
+#### [Meshtastic](https://meshtastic.org/)
+
+Open-source off-grid communication platform that creates a decentralized mesh using supported LoRa radios. Phones and computers connect to nodes through Bluetooth, Wi-Fi, or USB for text messaging, position sharing, telemetry, and related applications without cellular service or Internet access.
+
+- [Meshtastic Documentation](https://meshtastic.org/docs/) — Official hardware, installation, configuration, radio, channel, application, and developer guidance.
+- [Meshtastic — GitHub](https://github.com/meshtastic) — Firmware, applications, libraries, protobuf definitions, documentation, and supporting projects.
+
+#### [MeshCore](https://github.com/meshcore-dev/MeshCore)
+
+Open-source lightweight multi-hop packet-routing system for LoRa and other packet radios. MeshCore emphasizes embedded operation and supports companion-radio, repeater, room-server, sensor, and developer-oriented use cases.
+
+- [MeshCore Documentation](https://docs.meshcore.io/) — Getting-started material, CLI commands, packet and payload formats, companion protocol, KISS modem protocol, and implementation details.
+- [MeshCore — GitHub](https://github.com/meshcore-dev/MeshCore) — Firmware, supported hardware, example applications, protocol source, releases, and development guidance.
+
+### Technical Assessment: Automotive and CAN Bus Security
+
+Automotive security extends beyond CAN bus to CAN FD, OBD-II, UDS diagnostics, ECUs, infotainment, telematics, keyless-entry radio, Bluetooth, cellular connectivity, firmware, and automotive Ethernet. Begin with a virtual CAN interface and simulator rather than a live vehicle; transmitting untested frames on a real vehicle can affect safety-critical systems.
+
+#### [SocketCAN](https://docs.kernel.org/networking/can.html) and [can-utils](https://github.com/linux-can/can-utils)
+
+SocketCAN is the Linux kernel networking framework for CAN protocols. The accompanying open-source `can-utils` suite provides tools for capturing, displaying, generating, filtering, replaying, and analyzing CAN, CAN FD, ISO-TP, and J1939 traffic.
+
+**Alignment:** PTES — Intelligence Gathering and Vulnerability Analysis · NIST SP 800-115 — Network Discovery, Network Sniffing, and Penetration Testing
+
+- [Linux Kernel SocketCAN Documentation](https://docs.kernel.org/networking/can.html) — Official overview of the SocketCAN architecture, protocols, interfaces, and programming model.
+- [can-utils — GitHub](https://github.com/linux-can/can-utils) — Official user-space utilities, source, command documentation, and releases.
+
+#### [SavvyCAN](https://savvycan.com/)
+
+Free and open-source graphical CAN bus analysis and reverse-engineering tool. It supports capture visualization, filtering, graphing, frame comparison, DBC signal definitions, scripting, and UDS scanning and decoding.
+
+- [SavvyCAN — GitHub](https://github.com/collin80/SavvyCAN) — Official source, releases, documentation, and community discussions maintained by Collin Kidder.
+
+#### [comma.ai Panda](https://github.com/commaai/panda) and [OpenDBC](https://github.com/commaai/opendbc)
+
+Panda is open-source hardware and firmware for interfacing with CAN and CAN FD networks, with safety controls designed for vehicle research. OpenDBC provides an open Python API, CAN definitions, safety models, and supporting tools for understanding vehicle messages.
+
+- [Panda — GitHub](https://github.com/commaai/panda) — Official firmware, Python interface, examples, tests, and hardware information.
+- [OpenDBC — GitHub](https://github.com/commaai/opendbc) — Official vehicle definitions, Python tools, safety code, documentation, and research resources.
 
 ### Technical Assessment: Identity, Authentication, and File Services
 
@@ -321,75 +540,7 @@ The MIT Kerberos client and administrative tools include `kinit` for obtaining a
 
 The Samba suite includes `smbclient` for accessing and testing SMB shares, `rpcclient`, `nmblookup`, and `net` for service and identity operations, `samba-tool` for administration, and `testparm` for validating `smb.conf` configuration.
 
-**Alignment:** PTES — Intelligence Gathering and Vulnerability Analysis · NIST SP 800-115 — Network Discovery and Configuration Review · MITRE ATT&CK — Network Service Discovery and Remote Services analysis# Cybersecurity Resources
-- [Hashes.com](https://hashes.com/en/decrypt/hash) — Hash identification and lookup tools.
-- [MD5Decrypt](https://md5decrypt.net/en/) — Lookup and educational reference for common hash formats.
-- [dCode MD5 Tool](https://www.dcode.fr/md5-hash) — MD5 hashing, identification, and reference tool.
-- [PasswordRecovery.io SHA-1 Tool](https://passwordrecovery.io/sha1/) — SHA-1 lookup and password-recovery utility.
-- [Rainbow Tables](http://rainbowtables.it64.com/) — Legacy reference and lookup resource for rainbow-table-based password recovery.
-
-## Hands-On Labs and CTF Practice
-
-### General Platforms
-
-- [Hack The Box](https://www.hackthebox.com/) — Hands-on cybersecurity labs, machines, challenges, and learning paths.
-- [TryHackMe](https://tryhackme.com/) — Guided, browser-based cybersecurity training and practice labs.
-- [picoCTF](https://picoctf.org/) — Beginner-friendly cybersecurity education and jeopardy-style challenges.
-- [OverTheWire](https://overthewire.org/wargames/) — Security wargames; Bandit is a good starting point for Linux fundamentals.
-- [Root Me](https://www.root-me.org/?lang=en) — Challenges and virtual environments covering a broad range of security topics.
-- [RingZer0 CTF](https://ringzer0ctf.com/) — Jeopardy-style challenges across multiple cybersecurity categories.
-- [Net-Force Challenges](https://www.net-force.nl/challenges/) — Security challenges covering cryptography, programming, networking, and related topics.
-- [CSAW](https://csaw.io/) — Student-focused cybersecurity competitions, challenges, and educational events.
-- [CTFlearn](https://ctflearn.com/) — Community-driven jeopardy-style cybersecurity challenges.
-- [Hacking-Lab](https://hacking-lab.com/) — Cybersecurity exercises, competitions, and training environments.
-- [AttackDefense Labs](https://attackdefense.com/) — Browser-accessible, hands-on cybersecurity labs.
-- [W3Challs](https://w3challs.com/) — Jeopardy-style security challenges with beginner material.
-- [echoCTF](https://echoctf.red/) — Online platform for practicing offensive and defensive security skills.
-- [Hack This Site](https://www.hackthissite.org/) — Security missions and challenges for learning web and application security.
-- [HBH](https://hbh.sh/home) — Community-based cybersecurity challenges and learning material.
-- [Hacker Gateway](https://www.hackergateway.com/) — Jeopardy-style security challenges.
-- [Suninatas](http://suninatas.com/) — Korean jeopardy-style security challenge platform.
-- [BlockCTF](https://blockctf.com/) — Capture-the-flag competition and challenge platform formerly hosted as Square CTF.
-
-### Vulnerable Machines and Practice Environments
-
-- [VulnHub](https://www.vulnhub.com/) — Downloadable, intentionally vulnerable virtual machines for hands-on practice.
-- [HackMyVM](https://hackmyvm.eu/) — Boot-to-root virtual machines and online labs.
-- [Exploit Education](http://exploit.education/) — Vulnerable virtual machines for learning memory corruption, exploitation, and debugging.
-- [Pwn Adventure 3](http://pwnadventure.com/) — Intentionally vulnerable multiplayer game designed for security experimentation.
-- [HPAndro Android CTF](http://ctf.hpandro.raviramesh.info/) — Beginner-oriented Android security challenges.
-
-### Web and Application Security Challenges
-
-- [Defend the Web](https://defendtheweb.net/) — Interactive web-security challenges and learning material.
-- [Webhacking.kr](https://webhacking.kr/) — Web-exploitation challenges.
-- [Lord of SQLInjection](https://los.rubiya.kr/) — Challenges focused on SQL injection techniques.
-- [XSS Game](http://www.xssgame.com/) — Cross-site scripting challenges.
-- [Google XSS Game](https://xss-game.appspot.com/) — Interactive lessons and challenges covering cross-site scripting.
-- [PromptRiddle](https://promptriddle.com/) — Prompt-based security puzzles and challenges.
-
-### Binary Exploitation and Reverse Engineering
-
-- [pwnable.kr](https://pwnable.kr/) — Binary-exploitation wargames presented with playful themes.
-- [pwnable.tw](https://pwnable.tw/) — Advanced binary-exploitation challenges.
-- [pwnable.xyz](https://pwnable.xyz/) — Binary-exploitation wargames.
-- [Smash the Stack](http://www.smashthestack.org/) — Wargames focused on exploitation and low-level security concepts.
-- [Microcorruption](https://microcorruption.com/) — Embedded-security challenges involving assembly, debugging, and lock firmware.
-- [Reversing.kr](http://reversing.kr/) — Reverse-engineering challenges.
-- [Crackmes.one](https://crackmes.one/) — Community collection of programs created for reverse-engineering practice.
-
-### Cryptography Challenges
-
-- [CryptoHack](https://cryptohack.org/) — Interactive cryptography courses and challenges.
-- [Cryptopals](https://cryptopals.com/) — Practical programming challenges based on real-world cryptographic weaknesses.
-- [id0-rsa](https://id0-rsa.pub/) — Cryptography challenges with an emphasis on RSA.
-- [TryToDecrypt](https://www.trytodecrypt.com/index.php) — Online cryptography puzzles and challenges.
-
-### Command-Line Practice
-
-- [UnderTheWire](https://underthewire.tech/) — PowerShell-focused wargames.
-- [CMD Challenge](https://cmdchallenge.com/) — Short command-line exercises for practicing shell skills.
-
+**Alignment:** PTES — Intelligence Gathering and Vulnerability Analysis · NIST SP 800-115 — Network Discovery and Configuration Review · MITRE ATT&CK — Network Service Discovery and Remote Services analysis
 
 - [smbclient Manual](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) — Official command and option reference for connecting to SMB/CIFS services.
 - [samba-tool Manual](https://www.samba.org/samba/docs/current/man-html/samba-tool.8.html) — Official reference for Samba identity, domain, DNS, group, user, policy, and service administration.
@@ -431,75 +582,7 @@ High-performance password-recovery and auditing tool supporting CPUs, GPUs, nume
 
 - [Hashcat Source — GitHub](https://github.com/hashcat/hashcat) — Official source repository, releases, issue tracker, and contribution history.
 - [Official Hashcat Wiki](https://hashcat.net/wiki/) — Documentation covering hash identification, attack modes, masks, rules, examples, and frequently asked questions.
-- [Example Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) — Reference mapping Ha# Cybersecurity Resources
-- [Hashes.com](https://hashes.com/en/decrypt/hash) — Hash identification and lookup tools.
-- [MD5Decrypt](https://md5decrypt.net/en/) — Lookup and educational reference for common hash formats.
-- [dCode MD5 Tool](https://www.dcode.fr/md5-hash) — MD5 hashing, identification, and reference tool.
-- [PasswordRecovery.io SHA-1 Tool](https://passwordrecovery.io/sha1/) — SHA-1 lookup and password-recovery utility.
-- [Rainbow Tables](http://rainbowtables.it64.com/) — Legacy reference and lookup resource for rainbow-table-based password recovery.
-
-## Hands-On Labs and CTF Practice
-
-### General Platforms
-
-- [Hack The Box](https://www.hackthebox.com/) — Hands-on cybersecurity labs, machines, challenges, and learning paths.
-- [TryHackMe](https://tryhackme.com/) — Guided, browser-based cybersecurity training and practice labs.
-- [picoCTF](https://picoctf.org/) — Beginner-friendly cybersecurity education and jeopardy-style challenges.
-- [OverTheWire](https://overthewire.org/wargames/) — Security wargames; Bandit is a good starting point for Linux fundamentals.
-- [Root Me](https://www.root-me.org/?lang=en) — Challenges and virtual environments covering a broad range of security topics.
-- [RingZer0 CTF](https://ringzer0ctf.com/) — Jeopardy-style challenges across multiple cybersecurity categories.
-- [Net-Force Challenges](https://www.net-force.nl/challenges/) — Security challenges covering cryptography, programming, networking, and related topics.
-- [CSAW](https://csaw.io/) — Student-focused cybersecurity competitions, challenges, and educational events.
-- [CTFlearn](https://ctflearn.com/) — Community-driven jeopardy-style cybersecurity challenges.
-- [Hacking-Lab](https://hacking-lab.com/) — Cybersecurity exercises, competitions, and training environments.
-- [AttackDefense Labs](https://attackdefense.com/) — Browser-accessible, hands-on cybersecurity labs.
-- [W3Challs](https://w3challs.com/) — Jeopardy-style security challenges with beginner material.
-- [echoCTF](https://echoctf.red/) — Online platform for practicing offensive and defensive security skills.
-- [Hack This Site](https://www.hackthissite.org/) — Security missions and challenges for learning web and application security.
-- [HBH](https://hbh.sh/home) — Community-based cybersecurity challenges and learning material.
-- [Hacker Gateway](https://www.hackergateway.com/) — Jeopardy-style security challenges.
-- [Suninatas](http://suninatas.com/) — Korean jeopardy-style security challenge platform.
-- [BlockCTF](https://blockctf.com/) — Capture-the-flag competition and challenge platform formerly hosted as Square CTF.
-
-### Vulnerable Machines and Practice Environments
-
-- [VulnHub](https://www.vulnhub.com/) — Downloadable, intentionally vulnerable virtual machines for hands-on practice.
-- [HackMyVM](https://hackmyvm.eu/) — Boot-to-root virtual machines and online labs.
-- [Exploit Education](http://exploit.education/) — Vulnerable virtual machines for learning memory corruption, exploitation, and debugging.
-- [Pwn Adventure 3](http://pwnadventure.com/) — Intentionally vulnerable multiplayer game designed for security experimentation.
-- [HPAndro Android CTF](http://ctf.hpandro.raviramesh.info/) — Beginner-oriented Android security challenges.
-
-### Web and Application Security Challenges
-
-- [Defend the Web](https://defendtheweb.net/) — Interactive web-security challenges and learning material.
-- [Webhacking.kr](https://webhacking.kr/) — Web-exploitation challenges.
-- [Lord of SQLInjection](https://los.rubiya.kr/) — Challenges focused on SQL injection techniques.
-- [XSS Game](http://www.xssgame.com/) — Cross-site scripting challenges.
-- [Google XSS Game](https://xss-game.appspot.com/) — Interactive lessons and challenges covering cross-site scripting.
-- [PromptRiddle](https://promptriddle.com/) — Prompt-based security puzzles and challenges.
-
-### Binary Exploitation and Reverse Engineering
-
-- [pwnable.kr](https://pwnable.kr/) — Binary-exploitation wargames presented with playful themes.
-- [pwnable.tw](https://pwnable.tw/) — Advanced binary-exploitation challenges.
-- [pwnable.xyz](https://pwnable.xyz/) — Binary-exploitation wargames.
-- [Smash the Stack](http://www.smashthestack.org/) — Wargames focused on exploitation and low-level security concepts.
-- [Microcorruption](https://microcorruption.com/) — Embedded-security challenges involving assembly, debugging, and lock firmware.
-- [Reversing.kr](http://reversing.kr/) — Reverse-engineering challenges.
-- [Crackmes.one](https://crackmes.one/) — Community collection of programs created for reverse-engineering practice.
-
-### Cryptography Challenges
-
-- [CryptoHack](https://cryptohack.org/) — Interactive cryptography courses and challenges.
-- [Cryptopals](https://cryptopals.com/) — Practical programming challenges based on real-world cryptographic weaknesses.
-- [id0-rsa](https://id0-rsa.pub/) — Cryptography challenges with an emphasis on RSA.
-- [TryToDecrypt](https://www.trytodecrypt.com/index.php) — Online cryptography puzzles and challenges.
-
-### Command-Line Practice
-
-- [UnderTheWire](https://underthewire.tech/) — PowerShell-focused wargames.
-- [CMD Challenge](https://cmdchallenge.com/) — Short command-line exercises for practicing shell skills.
-shcat modes to supported hash formats and safe example values.
+- [Example Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) — Reference mapping Hashcat modes to supported hash formats and safe example values.
 
 #### [John the Ripper](https://www.openwall.com/john/)
 
@@ -799,7 +882,79 @@ Cross-platform metadata reader and writer by Phil Harvey. It is useful for exami
 - [Pwn Adventure 3](http://pwnadventure.com/) — Intentionally vulnerable multiplayer game designed for security experimentation.
 - [HPAndro Android CTF](http://ctf.hpandro.raviramesh.info/) — Beginner-oriented Android security challenges.
 
+### Mobile Application Security Practice
+
+- [OWASP MAS Crackmes](https://mas.owasp.org/crackmes/) — Intentionally vulnerable Android and iOS applications designed for practicing OWASP MASTG testing and reverse-engineering techniques.
+- [Damn Insecure and Vulnerable App (DIVA)](https://github.com/payatu/diva-android) — Intentionally insecure Android application for practicing common mobile application vulnerabilities in an authorized lab.
+- [InsecureShop](https://github.com/optiv/InsecureShop) — Intentionally vulnerable Android application for learning mobile testing, reverse engineering, and exploitation techniques.
+
+### Automotive and CAN Bus Practice
+
+- [ICSim — Instrument Cluster Simulator](https://github.com/zombieCraig/ICSim) — Open-source simulated vehicle instrument cluster for safely learning CAN bus capture, replay, filtering, and signal identification through SocketCAN.
+- [ICSim++](https://github.com/AUCyberLab/ICSimPlusPlus) — Expanded Linux-based CAN bus simulator from the University of Adelaide Cyber Security Lab, supporting multiple virtual CAN interfaces and additional instrument-cluster exercises.
+- [Car Hacking Village](https://www.carhackingvillage.com/) — Automotive-security community offering educational material, conference activities, and hands-on CTF events.
+
 ### Web and Application Security Challenges
+# Cybersecurity Resources
+- [AttackDefense Labs](https://attackdefense.com/) — Browser-accessible, hands-on cybersecurity labs.
+- [W3Challs](https://w3challs.com/) — Jeopardy-style security challenges with beginner material.
+- [echoCTF](https://echoctf.red/) — Online platform for practicing offensive and defensive security skills.
+- [Hack This Site](https://www.hackthissite.org/) — Security missions and challenges for learning web and application security.
+- [HBH](https://hbh.sh/home) — Community-based cybersecurity challenges and learning material.
+- [Hacker Gateway](https://www.hackergateway.com/) — Jeopardy-style security challenges.
+- [Suninatas](http://suninatas.com/) — Korean jeopardy-style security challenge platform.
+- [BlockCTF](https://blockctf.com/) — Capture-the-flag competition and challenge platform formerly hosted as Square CTF.
+
+### Vulnerable Machines and Practice Environments
+
+- [VulnHub](https://www.vulnhub.com/) — Downloadable, intentionally vulnerable virtual machines for hands-on practice.
+- [HackMyVM](https://hackmyvm.eu/) — Boot-to-root virtual machines and online labs.
+- [Exploit Education](http://exploit.education/) — Vulnerable virtual machines for learning memory corruption, exploitation, and debugging.
+- [Pwn Adventure 3](http://pwnadventure.com/) — Intentionally vulnerable multiplayer game designed for security experimentation.
+- [HPAndro Android CTF](http://ctf.hpandro.raviramesh.info/) — Beginner-oriented Android security challenges.
+
+### Mobile Application Security Practice
+
+- [OWASP MAS Crackmes](https://mas.owasp.org/crackmes/) — Intentionally vulnerable Android and iOS applications designed for practicing OWASP MASTG testing and reverse-engineering techniques.
+- [Damn Insecure and Vulnerable App (DIVA)](https://github.com/payatu/diva-android) — Intentionally insecure Android application for practicing common mobile application vulnerabilities in an authorized lab.
+- [InsecureShop](https://github.com/optiv/InsecureShop) — Intentionally vulnerable Android application for learning mobile testing, reverse engineering, and exploitation techniques.
+
+### Automotive and CAN Bus Practice
+
+- [ICSim — Instrument Cluster Simulator](https://github.com/zombieCraig/ICSim) — Open-source simulated vehicle instrument cluster for safely learning CAN bus capture, replay, filtering, and signal identification through SocketCAN.
+- [ICSim++](https://github.com/AUCyberLab/ICSimPlusPlus) — Expanded Linux-based CAN bus simulator from the University of Adelaide Cyber Security Lab, supporting multiple virtual CAN interfaces and additional instrument-cluster exercises.
+- [Car Hacking Village](https://www.carhackingvillage.com/) — Automotive-security community offering educational material, conference activities, and hands-on CTF events.
+
+### Web and Application Security Challenges
+
+- [Defend the Web](https://defendtheweb.net/) — Interactive web-security challenges and learning material.
+- [Webhacking.kr](https://webhacking.kr/) — Web-exploitation challenges.
+- [Lord of SQLInjection](https://los.rubiya.kr/) — Challenges focused on SQL injection techniques.
+- [XSS Game](http://www.xssgame.com/) — Cross-site scripting challenges.
+- [Google XSS Game](https://xss-game.appspot.com/) — Interactive lessons and challenges covering cross-site scripting.
+- [PromptRiddle](https://promptriddle.com/) — Prompt-based security puzzles and challenges.
+
+### Binary Exploitation and Reverse Engineering
+
+- [pwnable.kr](https://pwnable.kr/) — Binary-exploitation wargames presented with playful themes.
+- [pwnable.tw](https://pwnable.tw/) — Advanced binary-exploitation challenges.
+- [pwnable.xyz](https://pwnable.xyz/) — Binary-exploitation wargames.
+- [Smash the Stack](http://www.smashthestack.org/) — Wargames focused on exploitation and low-level security concepts.
+- [Microcorruption](https://microcorruption.com/) — Embedded-security challenges involving assembly, debugging, and lock firmware.
+- [Reversing.kr](http://reversing.kr/) — Reverse-engineering challenges.
+- [Crackmes.one](https://crackmes.one/) — Community collection of programs created for reverse-engineering practice.
+
+### Cryptography Challenges
+
+- [CryptoHack](https://cryptohack.org/) — Interactive cryptography courses and challenges.
+- [Cryptopals](https://cryptopals.com/) — Practical programming challenges based on real-world cryptographic weaknesses.
+- [id0-rsa](https://id0-rsa.pub/) — Cryptography challenges with an emphasis on RSA.
+- [TryToDecrypt](https://www.trytodecrypt.com/index.php) — Online cryptography puzzles and challenges.
+
+### Command-Line Practice
+
+- [UnderTheWire](https://underthewire.tech/) — PowerShell-focused wargames.
+- [CMD Challenge](https://cmdchallenge.com/) — Short command-line exercises for practicing shell skills.
 
 - [Defend the Web](https://defendtheweb.net/) — Interactive web-security challenges and learning material.
 - [Webhacking.kr](https://webhacking.kr/) — Web-exploitation challenges.
