@@ -9,7 +9,7 @@ redirect_from:
 
 # Cybersecurity Resources
 
-A curated collection of cybersecurity ethics, law, privacy, and governance references; certification and guided-learning materials; educators and video channels; security and analysis tools; and hands-on labs, practice environments, and CTF challenges.
+A curated collection of cybersecurity ethics, law, privacy, compliance, and governance references; certification and guided-learning materials; educators and video channels; security and analysis tools; and hands-on labs, practice environments, and CTF challenges.
 
 > Use security-testing and password-auditing resources only with systems, accounts, and data you own or have explicit permission to test. Some resources provide real malware samples; treat all downloaded files as potentially dangerous and handle them only in an appropriately isolated environment.
 
@@ -49,10 +49,28 @@ These resources provide useful professional and educational references; they are
 - [MITRE ATT&CK](https://attack.mitre.org/) — Knowledge base of adversary tactics, techniques, procedures, software, groups, mitigations, and defensive data sources.
 - [Lockheed Martin Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) — Model describing seven stages of a targeted intrusion, from reconnaissance through actions on objectives.
 
-### Privacy and Education
+### Privacy and Consumer Protection
 
 - [FTC Privacy and Security Resources](https://www.ftc.gov/business-guidance/privacy-security) — Business guidance concerning data security, privacy practices, breach response, and compliance with consumer-protection law.
-- [FERPA Overview](https://studentprivacy.ed.gov/ferpa) — U.S. Department of Education overview of student and parent rights under the Family Educational Rights and Privacy Act.
+
+### Compliance and Regulatory References
+
+Applicability depends on an organization’s industry, location, services, customers, and the data it handles. PCI DSS and the legal requirements below are not interchangeable with voluntary security frameworks such as the NIST Cybersecurity Framework.
+
+#### Regulatory and Industry Requirements
+
+- [PCI Data Security Standard (PCI DSS)](https://www.pcisecuritystandards.org/standards/pci-dss/) — Global payment-card industry standard establishing technical and operational requirements for entities that store, process, transmit, or can affect the security of cardholder data. The [PCI SSC Document Library](https://www.pcisecuritystandards.org/document_library/) provides the current PCI DSS v4.0.1 standard, supporting guidance, and assessment documents. PCI DSS is an industry standard enforced contractually through the payment-card ecosystem rather than a statute.
+- [General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng) — Official text of European Union Regulation 2016/679 governing the processing of personal data and the rights of individuals whose data is processed.
+- [Family Educational Rights and Privacy Act (FERPA)](https://studentprivacy.ed.gov/ferpa) — U.S. federal law protecting the privacy of student education records and providing eligible students and parents with defined access and amendment rights.
+- [HIPAA Security Rule](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html) — U.S. requirements for covered entities and business associates to protect electronic protected health information through administrative, physical, and technical safeguards.
+- [Gramm-Leach-Bliley Act (GLBA) Safeguards Rule](https://www.ftc.gov/legal-library/browse/rules/safeguards-rule) — FTC requirements for covered financial institutions to develop, implement, and maintain safeguards for customer information and oversee relevant service providers.
+- [California Consumer Privacy Act (CCPA), as amended by the CPRA](https://cppa.ca.gov/regulations/) — California privacy law and implementing regulations governing covered businesses, consumer privacy rights, data practices, risk assessments, and cybersecurity obligations. The CPRA amended the CCPA rather than creating a separate privacy law.
+- [Children’s Online Privacy Protection Act (COPPA) Rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) — U.S. requirements for covered websites and online services—including some applications and Internet of Things devices—that collect personal information from children under 13.
+
+#### Assurance and Information-Security Management Standards
+
+- [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) — International requirements standard for establishing, implementing, maintaining, and continually improving an information security management system (ISMS). Organizations may implement it with or without pursuing accredited certification; the complete standard generally requires purchase.
+- [AICPA System and Organization Controls (SOC), including SOC 2](https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services) — Independent CPA assurance reporting for service organizations. SOC 2 examinations address controls relevant to security, availability, processing integrity, confidentiality, or privacy; SOC 2 is an attestation report, not a government regulation or conventional product certification.
 
 ## Learning, Training, and Educators
 
@@ -303,7 +321,75 @@ The MIT Kerberos client and administrative tools include `kinit` for obtaining a
 
 The Samba suite includes `smbclient` for accessing and testing SMB shares, `rpcclient`, `nmblookup`, and `net` for service and identity operations, `samba-tool` for administration, and `testparm` for validating `smb.conf` configuration.
 
-**Alignment:** PTES — Intelligence Gathering and Vulnerability Analysis · NIST SP 800-115 — Network Discovery and Configuration Review · MITRE ATT&CK — Network Service Discovery and Remote Services analysis
+**Alignment:** PTES — Intelligence Gathering and Vulnerability Analysis · NIST SP 800-115 — Network Discovery and Configuration Review · MITRE ATT&CK — Network Service Discovery and Remote Services analysis# Cybersecurity Resources
+- [Hashes.com](https://hashes.com/en/decrypt/hash) — Hash identification and lookup tools.
+- [MD5Decrypt](https://md5decrypt.net/en/) — Lookup and educational reference for common hash formats.
+- [dCode MD5 Tool](https://www.dcode.fr/md5-hash) — MD5 hashing, identification, and reference tool.
+- [PasswordRecovery.io SHA-1 Tool](https://passwordrecovery.io/sha1/) — SHA-1 lookup and password-recovery utility.
+- [Rainbow Tables](http://rainbowtables.it64.com/) — Legacy reference and lookup resource for rainbow-table-based password recovery.
+
+## Hands-On Labs and CTF Practice
+
+### General Platforms
+
+- [Hack The Box](https://www.hackthebox.com/) — Hands-on cybersecurity labs, machines, challenges, and learning paths.
+- [TryHackMe](https://tryhackme.com/) — Guided, browser-based cybersecurity training and practice labs.
+- [picoCTF](https://picoctf.org/) — Beginner-friendly cybersecurity education and jeopardy-style challenges.
+- [OverTheWire](https://overthewire.org/wargames/) — Security wargames; Bandit is a good starting point for Linux fundamentals.
+- [Root Me](https://www.root-me.org/?lang=en) — Challenges and virtual environments covering a broad range of security topics.
+- [RingZer0 CTF](https://ringzer0ctf.com/) — Jeopardy-style challenges across multiple cybersecurity categories.
+- [Net-Force Challenges](https://www.net-force.nl/challenges/) — Security challenges covering cryptography, programming, networking, and related topics.
+- [CSAW](https://csaw.io/) — Student-focused cybersecurity competitions, challenges, and educational events.
+- [CTFlearn](https://ctflearn.com/) — Community-driven jeopardy-style cybersecurity challenges.
+- [Hacking-Lab](https://hacking-lab.com/) — Cybersecurity exercises, competitions, and training environments.
+- [AttackDefense Labs](https://attackdefense.com/) — Browser-accessible, hands-on cybersecurity labs.
+- [W3Challs](https://w3challs.com/) — Jeopardy-style security challenges with beginner material.
+- [echoCTF](https://echoctf.red/) — Online platform for practicing offensive and defensive security skills.
+- [Hack This Site](https://www.hackthissite.org/) — Security missions and challenges for learning web and application security.
+- [HBH](https://hbh.sh/home) — Community-based cybersecurity challenges and learning material.
+- [Hacker Gateway](https://www.hackergateway.com/) — Jeopardy-style security challenges.
+- [Suninatas](http://suninatas.com/) — Korean jeopardy-style security challenge platform.
+- [BlockCTF](https://blockctf.com/) — Capture-the-flag competition and challenge platform formerly hosted as Square CTF.
+
+### Vulnerable Machines and Practice Environments
+
+- [VulnHub](https://www.vulnhub.com/) — Downloadable, intentionally vulnerable virtual machines for hands-on practice.
+- [HackMyVM](https://hackmyvm.eu/) — Boot-to-root virtual machines and online labs.
+- [Exploit Education](http://exploit.education/) — Vulnerable virtual machines for learning memory corruption, exploitation, and debugging.
+- [Pwn Adventure 3](http://pwnadventure.com/) — Intentionally vulnerable multiplayer game designed for security experimentation.
+- [HPAndro Android CTF](http://ctf.hpandro.raviramesh.info/) — Beginner-oriented Android security challenges.
+
+### Web and Application Security Challenges
+
+- [Defend the Web](https://defendtheweb.net/) — Interactive web-security challenges and learning material.
+- [Webhacking.kr](https://webhacking.kr/) — Web-exploitation challenges.
+- [Lord of SQLInjection](https://los.rubiya.kr/) — Challenges focused on SQL injection techniques.
+- [XSS Game](http://www.xssgame.com/) — Cross-site scripting challenges.
+- [Google XSS Game](https://xss-game.appspot.com/) — Interactive lessons and challenges covering cross-site scripting.
+- [PromptRiddle](https://promptriddle.com/) — Prompt-based security puzzles and challenges.
+
+### Binary Exploitation and Reverse Engineering
+
+- [pwnable.kr](https://pwnable.kr/) — Binary-exploitation wargames presented with playful themes.
+- [pwnable.tw](https://pwnable.tw/) — Advanced binary-exploitation challenges.
+- [pwnable.xyz](https://pwnable.xyz/) — Binary-exploitation wargames.
+- [Smash the Stack](http://www.smashthestack.org/) — Wargames focused on exploitation and low-level security concepts.
+- [Microcorruption](https://microcorruption.com/) — Embedded-security challenges involving assembly, debugging, and lock firmware.
+- [Reversing.kr](http://reversing.kr/) — Reverse-engineering challenges.
+- [Crackmes.one](https://crackmes.one/) — Community collection of programs created for reverse-engineering practice.
+
+### Cryptography Challenges
+
+- [CryptoHack](https://cryptohack.org/) — Interactive cryptography courses and challenges.
+- [Cryptopals](https://cryptopals.com/) — Practical programming challenges based on real-world cryptographic weaknesses.
+- [id0-rsa](https://id0-rsa.pub/) — Cryptography challenges with an emphasis on RSA.
+- [TryToDecrypt](https://www.trytodecrypt.com/index.php) — Online cryptography puzzles and challenges.
+
+### Command-Line Practice
+
+- [UnderTheWire](https://underthewire.tech/) — PowerShell-focused wargames.
+- [CMD Challenge](https://cmdchallenge.com/) — Short command-line exercises for practicing shell skills.
+
 
 - [smbclient Manual](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) — Official command and option reference for connecting to SMB/CIFS services.
 - [samba-tool Manual](https://www.samba.org/samba/docs/current/man-html/samba-tool.8.html) — Official reference for Samba identity, domain, DNS, group, user, policy, and service administration.
@@ -345,7 +431,75 @@ High-performance password-recovery and auditing tool supporting CPUs, GPUs, nume
 
 - [Hashcat Source — GitHub](https://github.com/hashcat/hashcat) — Official source repository, releases, issue tracker, and contribution history.
 - [Official Hashcat Wiki](https://hashcat.net/wiki/) — Documentation covering hash identification, attack modes, masks, rules, examples, and frequently asked questions.
-- [Example Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) — Reference mapping Hashcat modes to supported hash formats and safe example values.
+- [Example Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes) — Reference mapping Ha# Cybersecurity Resources
+- [Hashes.com](https://hashes.com/en/decrypt/hash) — Hash identification and lookup tools.
+- [MD5Decrypt](https://md5decrypt.net/en/) — Lookup and educational reference for common hash formats.
+- [dCode MD5 Tool](https://www.dcode.fr/md5-hash) — MD5 hashing, identification, and reference tool.
+- [PasswordRecovery.io SHA-1 Tool](https://passwordrecovery.io/sha1/) — SHA-1 lookup and password-recovery utility.
+- [Rainbow Tables](http://rainbowtables.it64.com/) — Legacy reference and lookup resource for rainbow-table-based password recovery.
+
+## Hands-On Labs and CTF Practice
+
+### General Platforms
+
+- [Hack The Box](https://www.hackthebox.com/) — Hands-on cybersecurity labs, machines, challenges, and learning paths.
+- [TryHackMe](https://tryhackme.com/) — Guided, browser-based cybersecurity training and practice labs.
+- [picoCTF](https://picoctf.org/) — Beginner-friendly cybersecurity education and jeopardy-style challenges.
+- [OverTheWire](https://overthewire.org/wargames/) — Security wargames; Bandit is a good starting point for Linux fundamentals.
+- [Root Me](https://www.root-me.org/?lang=en) — Challenges and virtual environments covering a broad range of security topics.
+- [RingZer0 CTF](https://ringzer0ctf.com/) — Jeopardy-style challenges across multiple cybersecurity categories.
+- [Net-Force Challenges](https://www.net-force.nl/challenges/) — Security challenges covering cryptography, programming, networking, and related topics.
+- [CSAW](https://csaw.io/) — Student-focused cybersecurity competitions, challenges, and educational events.
+- [CTFlearn](https://ctflearn.com/) — Community-driven jeopardy-style cybersecurity challenges.
+- [Hacking-Lab](https://hacking-lab.com/) — Cybersecurity exercises, competitions, and training environments.
+- [AttackDefense Labs](https://attackdefense.com/) — Browser-accessible, hands-on cybersecurity labs.
+- [W3Challs](https://w3challs.com/) — Jeopardy-style security challenges with beginner material.
+- [echoCTF](https://echoctf.red/) — Online platform for practicing offensive and defensive security skills.
+- [Hack This Site](https://www.hackthissite.org/) — Security missions and challenges for learning web and application security.
+- [HBH](https://hbh.sh/home) — Community-based cybersecurity challenges and learning material.
+- [Hacker Gateway](https://www.hackergateway.com/) — Jeopardy-style security challenges.
+- [Suninatas](http://suninatas.com/) — Korean jeopardy-style security challenge platform.
+- [BlockCTF](https://blockctf.com/) — Capture-the-flag competition and challenge platform formerly hosted as Square CTF.
+
+### Vulnerable Machines and Practice Environments
+
+- [VulnHub](https://www.vulnhub.com/) — Downloadable, intentionally vulnerable virtual machines for hands-on practice.
+- [HackMyVM](https://hackmyvm.eu/) — Boot-to-root virtual machines and online labs.
+- [Exploit Education](http://exploit.education/) — Vulnerable virtual machines for learning memory corruption, exploitation, and debugging.
+- [Pwn Adventure 3](http://pwnadventure.com/) — Intentionally vulnerable multiplayer game designed for security experimentation.
+- [HPAndro Android CTF](http://ctf.hpandro.raviramesh.info/) — Beginner-oriented Android security challenges.
+
+### Web and Application Security Challenges
+
+- [Defend the Web](https://defendtheweb.net/) — Interactive web-security challenges and learning material.
+- [Webhacking.kr](https://webhacking.kr/) — Web-exploitation challenges.
+- [Lord of SQLInjection](https://los.rubiya.kr/) — Challenges focused on SQL injection techniques.
+- [XSS Game](http://www.xssgame.com/) — Cross-site scripting challenges.
+- [Google XSS Game](https://xss-game.appspot.com/) — Interactive lessons and challenges covering cross-site scripting.
+- [PromptRiddle](https://promptriddle.com/) — Prompt-based security puzzles and challenges.
+
+### Binary Exploitation and Reverse Engineering
+
+- [pwnable.kr](https://pwnable.kr/) — Binary-exploitation wargames presented with playful themes.
+- [pwnable.tw](https://pwnable.tw/) — Advanced binary-exploitation challenges.
+- [pwnable.xyz](https://pwnable.xyz/) — Binary-exploitation wargames.
+- [Smash the Stack](http://www.smashthestack.org/) — Wargames focused on exploitation and low-level security concepts.
+- [Microcorruption](https://microcorruption.com/) — Embedded-security challenges involving assembly, debugging, and lock firmware.
+- [Reversing.kr](http://reversing.kr/) — Reverse-engineering challenges.
+- [Crackmes.one](https://crackmes.one/) — Community collection of programs created for reverse-engineering practice.
+
+### Cryptography Challenges
+
+- [CryptoHack](https://cryptohack.org/) — Interactive cryptography courses and challenges.
+- [Cryptopals](https://cryptopals.com/) — Practical programming challenges based on real-world cryptographic weaknesses.
+- [id0-rsa](https://id0-rsa.pub/) — Cryptography challenges with an emphasis on RSA.
+- [TryToDecrypt](https://www.trytodecrypt.com/index.php) — Online cryptography puzzles and challenges.
+
+### Command-Line Practice
+
+- [UnderTheWire](https://underthewire.tech/) — PowerShell-focused wargames.
+- [CMD Challenge](https://cmdchallenge.com/) — Short command-line exercises for practicing shell skills.
+shcat modes to supported hash formats and safe example values.
 
 #### [John the Ripper](https://www.openwall.com/john/)
 
