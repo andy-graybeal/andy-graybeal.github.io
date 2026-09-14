@@ -8,11 +8,6 @@ author_profile: true
 ---
 ---
 
-# Interests: recommended URLs and descriptions
-
-Prepared from the lists on [Andy Graybeal’s Interests page](https://andygraybeal.com/interests/) on September 14, 2026.
-
-The links below favor official sites, publishers, archives, museums, and project pages. When no durable official page was available, a well-maintained reference page was used. A few labels from the original page are normalized for accuracy and searchability.
 
 ## Books
 
@@ -252,14 +247,4 @@ Dried maize treated with alkali through nixtamalization, which softens the kerne
 
 A traditional Mexican soup or stew built around nixtamalized hominy, usually with meat or vegetables and garnishes such as cabbage, radish, onion, chile, and lime. Major regional styles include red, green, and white pozole.
 
-## Editorial notes
 
-- “Clockwork Orange” is more accurately styled *A Clockwork Orange*.
-- “I.T. Crowd” is officially *The IT Crowd*.
-- “West World” is assumed to mean HBO’s television series *Westworld*, based on its placement under Television.
-- “Phillip K Dick” should be *Philip K. Dick*.
-- “Wendy Williams” is interpreted as electronic composer and synthesist *Wendy Carlos*.
-- “4ad” is officially styled *4AD*.
-- “Sun” is interpreted as *Sun Microsystems*.
-- “Computer I, II, III” refers to the FCC’s *Computer Inquiries I, II, and III*.
-- “OM-3 5-axis mill” is identified as the *Sundstrand OM-3 Omnimill*.
