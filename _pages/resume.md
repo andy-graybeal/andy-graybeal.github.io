@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-Systems and network administrator with more than 15 years of hands-on experience designing, securing, and supporting Linux, Windows, and network infrastructure across higher education, government, and small-business environments. Currently completing the second year of an Associate of Applied Science in Cybersecurity and Network Systems and planning to continue toward a bachelor’s degree. Professional interests include Linux and open-source security, identity and access management, infrastructure defense, privacy and digital rights, and the security implications of IoT and emerging technologies. Seeking a cybersecurity internship where I can contribute my existing infrastructure experience while deepening my practical skills in security monitoring, vulnerability management, threat detection, and incident response.
+Systems and network administrator with years of hands-on experience designing, securing, and supporting Linux, Windows, and network infrastructure across higher education, government, and small-business environments. Currently completing the second year of an Associate of Applied Science in Cybersecurity and Network Systems and planning to continue toward a bachelor’s degree. Professional interests include Linux and open-source security, identity and access management, infrastructure defense, privacy and digital rights, and the security implications of IoT and emerging technologies. Seeking a cybersecurity internship where I can contribute my existing infrastructure experience while deepening my practical skills in security monitoring, vulnerability management, threat detection, and incident response.
 
 ---
 
