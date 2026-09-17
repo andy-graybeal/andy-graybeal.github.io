@@ -65,6 +65,8 @@ John Carpenter’s 1988 science-fiction satire follows a drifter who discovers t
 
 Terry Gilliam’s 1995 time-travel thriller follows a prisoner sent into the past to investigate a civilization-ending pandemic. Inspired by Chris Marker’s *La Jetée*, it circles around memory, fate, trauma, and uncertainty.
 
+- Blade Runner
+
 ## Television
 
 ### [Mr. Robot](https://www.usanetwork.com/usa-insider/why-people-love-mr-robot-will-there-be-more)
@@ -150,6 +152,8 @@ An English musician, producer, visual artist, and theorist whose work helped def
 ### [David Bowie](https://www.davidbowie.com/about)
 
 An English singer, songwriter, actor, and visual innovator known for repeatedly reinventing his sound and public identity. His career moved through glam rock, soul, electronic experimentation, art rock, pop, and late-career avant-garde work.
+
+- Vangelis
 
 ## Authors / writers
 
