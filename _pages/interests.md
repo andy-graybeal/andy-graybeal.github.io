@@ -65,7 +65,13 @@ John Carpenter’s 1988 science-fiction satire follows a drifter who discovers t
 
 Terry Gilliam’s 1995 time-travel thriller follows a prisoner sent into the past to investigate a civilization-ending pandemic. Inspired by Chris Marker’s *La Jetée*, it circles around memory, fate, trauma, and uncertainty.
 
-- Blade Runner
+### Blade Runner
+
+### Brainstorm
+
+### Silent Running
+
+### Dark Star
 
 ## Television
 
