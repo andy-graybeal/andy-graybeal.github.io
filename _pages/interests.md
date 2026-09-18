@@ -35,6 +35,8 @@ Stoll’s first-person account of tracing a 75-cent accounting discrepancy to an
 
 A nonfiction history of New York hacker culture and the conflict between the Masters of Deception and Legion of Doom. It follows teenage hackers, telephone networks, law enforcement, and the early social world of cyberspace.
 
+---
+
 ## Movies
 
 ### [Metropolis](https://www.bfi.org.uk/film/bda6ff8a-ed7e-5942-980d-c2910c0120ec/metropolis)
@@ -73,6 +75,8 @@ Terry Gilliam’s 1995 time-travel thriller follows a prisoner sent into the pas
 
 ### Dark Star
 
+---
+
 ## Television
 
 ### [Mr. Robot](https://www.usanetwork.com/usa-insider/why-people-love-mr-robot-will-there-be-more)
@@ -91,6 +95,8 @@ A British workplace sitcom about technicians Roy and Moss and their nontechnical
 
 HBO’s science-fiction drama begins in a technologically advanced theme park populated by lifelike android “hosts.” As the hosts diverge from their scripts, the series explores consciousness, exploitation, memory, free will, and the ethics of artificial life.
 
+---
+
 ## Software
 
 ### [Pure Data](https://puredata.info/)
@@ -105,6 +111,8 @@ A terminal multiplexer that lets users create, organize, detach, and later reatt
 
 An open-source suite and library for creating, converting, inspecting, and transforming raster images. Its `magick` command supports resizing, cropping, compositing, drawing, filtering, format conversion, and batch automation.
 
+---
+
 ## Hardware / software projects
 
 ### [BatAndCat Sound Labs](https://batandcat.com/index.html)
@@ -115,6 +123,9 @@ A Palo Alto hearing-technology research company working on modern hearing aids a
 
 The Open Master Hearing Aid is an AGPL-licensed platform for real-time, low-latency audio processing and hearing-aid research. Its modular framework and plugins let researchers implement, evaluate, and reproduce hearing algorithms on standard hardware.
 
+
+---
+
 ## Graphic design
 
 ### [Peter Saville](https://designmuseum.org/designers/peter-saville)
@@ -124,6 +135,8 @@ An English graphic designer and art director closely associated with Factory Rec
 ### [deFharo](https://defharo.com/)
 
 The independent foundry and studio of Spanish designer Fernando Haro. deFharo creates retail and custom typefaces alongside identity, editorial, packaging, and web-design work.
+
+---
 
 ## Musicians / composers
 
@@ -160,6 +173,8 @@ An English musician, producer, visual artist, and theorist whose work helped def
 An English singer, songwriter, actor, and visual innovator known for repeatedly reinventing his sound and public identity. His career moved through glam rock, soul, electronic experimentation, art rock, pop, and late-career avant-garde work.
 
 - Vangelis
+
+---
 
 ## Authors / writers
 
@@ -199,6 +214,9 @@ An American writer and futurist known for *Future Shock*, *The Third Wave*, and 
 
 A theoretical physicist and philosopher whose work included plasma physics, the Aharonov–Bohm effect, and a causal interpretation of quantum mechanics. His later writing explored wholeness, consciousness, creativity, and dialogue.
 
+
+---
+
 ## Filmmakers
 
 ### [Iara Lee](https://www.ntticc.or.jp/en/Biography/Iara_l/index.html)
@@ -209,11 +227,15 @@ A Brazilian-born filmmaker, producer, activist, and founder of the Cultures of R
 
 An American-born British filmmaker, animator, and member of Monty Python. His visually extravagant, darkly comic films—including *Brazil*, *Time Bandits*, *The Fisher King*, and *12 Monkeys*—often pit imagination against bureaucracy and control.
 
+---
+
 ## Record labels
 
 ### [4AD](https://shop.4ad.com/about)
 
 A British independent label founded in 1980 by Ivo Watts-Russell and Peter Kent. Its adventurous roster and the distinctive graphic identity created by Vaughan Oliver made 4AD a defining home for post-punk, dream pop, alternative rock, and experimental music.
+
+---
 
 ## Corporations and industrial technology
 
@@ -241,11 +263,15 @@ A Rockford, Illinois manufacturer of machine tools and later aerospace and indus
 
 An early numerically controlled milling machine designed to cut complex surfaces along five axes. The first OM-3 shipped to Douglas Aircraft in 1957, and Sundstrand demonstrated a continuously controlled five-axis version in 1959—an important step in modern aerospace machining.
 
+---
+
 ## Laws / regulations
 
 ### [FCC Computer Inquiries I, II, and III](https://en.wikipedia.org/wiki/FCC_Computer_Inquiries)
 
 A series of U.S. Federal Communications Commission proceedings that drew and revised the boundary between regulated communications services and comparatively unregulated data-processing or “enhanced” services. Their framework helped shape competition, network access, and later internet policy.
+
+---
 
 ## Food
 
