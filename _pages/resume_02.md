@@ -13,7 +13,7 @@ redirect_from:
 
 ## Professional Summary
 
-Linux systems and network administrator with more than 15 years of hands-on IT experience designing, securing, and supporting infrastructure across higher education, government, and small-business environments. Experienced in Linux administration, centralized identity and authentication, KVM virtualization, mdadm and LVM storage management, VLANs, firewalls, VPNs, monitoring, backup and recovery, and Bash-based automation. Designed and supported multi-user environments using OpenLDAP, Kerberos, PAM, Samba, LTSP, pfSense, OpenVPN, Nagios/Icinga, Bacula, and other open-source technologies. Currently completing an Associate of Applied Science in Cybersecurity and Network Systems while updating and expanding existing infrastructure and cybersecurity skills.
+Systems and network administrator with years of hands-on IT experience designing, securing, and supporting infrastructure across higher education, government, and small-business environments. Experienced in Linux administration, centralized identity and authentication, KVM virtualization, mdadm and LVM storage management, VLANs, firewalls, VPNs, monitoring, backup and recovery, and Bash-based automation. Designed and supported multi-user environments using OpenLDAP, Kerberos, PAM, Samba, LTSP, pfSense, OpenVPN, Nagios/Icinga, Bacula, and other open-source technologies. Currently completing an Associate of Applied Science in Cybersecurity and Network Systems while updating and expanding existing infrastructure and cybersecurity skills.
 
 ## Core Qualifications
 
