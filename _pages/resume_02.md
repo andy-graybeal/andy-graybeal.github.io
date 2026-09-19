@@ -120,7 +120,7 @@ Designed, administered, secured, and supported the organization’s Linux-based 
 
 **Systems Administration and Virtualization:** KVM/libvirt · LTSP · LAMP · Apache · MySQL · JBoss Application Server · Apache Tomcat · AWS EC2
 
-**Storage, Backup, and Recovery:** mdadm software RAID · LVM · Linux filesystems · Network file shares · Disk provisioning · Bacula · Legato NetWorker · rsync · Backup automation · Restore testing
+**Storage, Backup, and Recovery:** mdadm software RAID · LVM · Linux filesystems · Network file shares · Disk provisioning · Bacula · Legato NetWorker · Backup automation · Restore testing
 
 **Identity and Access Management:** OpenLDAP · Samba · Kerberos · PAM · Single Sign-On (SSO) · OAuth · Group-based access control
 
@@ -128,7 +128,7 @@ Designed, administered, secured, and supported the organization’s Linux-based 
 
 **Monitoring and Operations:** Icinga · Nagios · SNMP · Infrastructure monitoring · Operational alerting · Capacity planning
 
-**Scripting and Automation:** Bash · Shell scripting · cron · rsync · Python fundamentals
+**Scripting and Automation:** Bash · Shell scripting · cron · Python fundamentals
 
 **Email Infrastructure and Security:** Postfix · Dovecot · GNU Mailman · ClamAV · SpamAssassin · Amavisd-new · SPF · DKIM · DNS blocklists · MX/PTR record configuration
 
