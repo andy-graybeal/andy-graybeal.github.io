@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-Systems and network administrator with years of hands-on experience designing, securing, and supporting Linux, Windows, and network infrastructure across higher education, government, and small-business environments. Currently completing the second year of an Associate of Applied Science in Cybersecurity and Network Systems and planning to continue toward a bachelor’s degree. Professional interests include Linux and open-source security, identity and access management, infrastructure defense, privacy and digital rights, and the security implications of IoT and emerging technologies. Seeking a cybersecurity internship where I can contribute my existing infrastructure experience while deepening my practical skills in security monitoring, vulnerability management, threat detection, and incident response.
+Linux systems and network administrator with years of hands-on IT experience supporting infrastructure in higher education, government, and small-business environments. Experienced in Linux administration, centralized identity and authentication, KVM virtualization, mdadm/LVM storage management, VLANs, firewalls, VPNs, monitoring, backup and recovery, and Bash-based automation. Designed and supported multi-user Linux environments using OpenLDAP, Kerberos, PAM, Samba, LTSP, pfSense, OpenVPN, Nagios/Icinga, and Bacula. Currently completing an Associate of Applied Science in Cybersecurity and Network Systems.
 
 ---
 
@@ -99,13 +99,13 @@ Systems and network administrator with years of hands-on experience designing, s
 
 **Identity & Access Management:** OpenLDAP · Samba · Kerberos · PAM · SSO · OAuth
 
-**Monitoring & Backup:** Icinga · Nagios · Bacula · Legato NetWorker
+**Storage, Monitoring, and Recovery:** mdadm software RAID · LVM · Linux filesystems · Network file shares · Disk provisioning · Storage monitoring · Bacula · Legato NetWorker · Backup automation · Restore testing · Icinga · Nagios · SNMP
 
 **Content Management Systems:** WordPress · Drupal · Joomla · Tiki Wiki
 
 **Help Desk & Ticketing Systems:** Request Tracker (RT) · GLPI · osTicket · FreeScout
 
-**Security Tools:** Metasploit · Nmap · Burp Suite · Nessus · Wireshark
+**Security Tools:** Nmap · Wireshark
 
 **Security Frameworks, Standards & Methodologies:** OWASP · PTES · NIST SP 800-115 · MITRE ATT&CK · Lockheed Martin Cyber Kill Chain
 
