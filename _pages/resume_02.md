@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Linux Infrastructure Administrator"
+permalink: /resume_02/
+author_profile: true
+redirect_from:
+  - 
+---
+
+{% include base_path %} 
+
 # LINUX INFRASTRUCTURE ADMINISTRATOR
 
 ## Professional Summary
