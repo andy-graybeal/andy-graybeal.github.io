@@ -58,7 +58,7 @@ Designed, administered, secured, and supported the organization’s Linux-based 
 
 ### University of California, Santa Cruz | Santa Cruz, California | 1999–2004
 
-* **Career Progression:** Advanced from Tier I help desk support for a campus of approximately 18,000 students, faculty, and staff to Tier II support, and then into workstation support and server administration for approximately 300 clients.
+* **Career Progression:** Advanced from Tier I to Tier II help desk support for a campus of approximately 18,000 students, faculty, and staff before moving into workstation support and server administration for approximately 300 clients.
 * **Departmental Support:** Supported departments including Information Technology, Human Resources, Police, Physical Plant, Receiving, Business Services, and the Chancellor’s Office.
 * **Server Administration:** Administered and maintained ten departmental servers providing database, file, print, and primary and secondary domain services supporting university administrative operations.
 * **Emergency Systems:** Administered the campus-wide emergency alerting system integrated with telephone services for mass notification during public-safety events.
