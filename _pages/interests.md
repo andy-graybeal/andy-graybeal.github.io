@@ -95,6 +95,10 @@ Terry Gilliam’s 1995 time-travel thriller follows a prisoner sent into the pas
 
 ### Jean de Florette / Manon des Sources
 
+### Lawn Mower Man
+
+### Running Man
+
 
 ---
 
