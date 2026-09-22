@@ -67,6 +67,8 @@ John Carpenter’s 1988 science-fiction satire follows a drifter who discovers t
 
 Terry Gilliam’s 1995 time-travel thriller follows a prisoner sent into the past to investigate a civilization-ending pandemic. Inspired by Chris Marker’s *La Jetée*, it circles around memory, fate, trauma, and uncertainty.
 
+### San Soleil
+
 ### Blade Runner
 
 ### Brainstorm
@@ -74,6 +76,25 @@ Terry Gilliam’s 1995 time-travel thriller follows a prisoner sent into the pas
 ### Silent Running
 
 ### Dark Star
+
+### Minority Report
+
+### Screamers
+
+### Solarus
+
+### The good, the bad, and the ugly
+
+### Fistful More
+
+### Django (1966)
+
+### THX-1138
+
+### Brazil
+
+### Jean de Florette / Manon des Sources
+
 
 ---
 
@@ -94,6 +115,8 @@ A British workplace sitcom about technicians Roy and Moss and their nontechnical
 ### [Westworld](https://www.hbo.com/westworld)
 
 HBO’s science-fiction drama begins in a technologically advanced theme park populated by lifelike android “hosts.” As the hosts diverge from their scripts, the series explores consciousness, exploitation, memory, free will, and the ethics of artificial life.
+
+### The Devs
 
 ---
 
@@ -226,6 +249,10 @@ A Brazilian-born filmmaker, producer, activist, and founder of the Cultures of R
 ### [Terry Gilliam](https://www.bfi.org.uk/interviews/terry-gilliam-his-50-year-directing-career)
 
 An American-born British filmmaker, animator, and member of Monty Python. His visually extravagant, darkly comic films—including *Brazil*, *Time Bandits*, *The Fisher King*, and *12 Monkeys*—often pit imagination against bureaucracy and control.
+
+### Michael Snow
+
+### John Carpenter
 
 ---
 
