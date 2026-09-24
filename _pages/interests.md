@@ -83,9 +83,7 @@ Terry Gilliam’s 1995 time-travel thriller follows a prisoner sent into the pas
 
 ### Solarus
 
-### The good, the bad, and the ugly
-
-### Fistful More
+### Dollars Trilogy
 
 ### Django (1966)
 
@@ -100,6 +98,12 @@ Terry Gilliam’s 1995 time-travel thriller follows a prisoner sent into the pas
 ### Running Man
 
 ### Short Circuit
+
+### The Fifth Element
+
+### Repo Man
+
+
 
 
 ---
@@ -269,6 +273,29 @@ An American-born British filmmaker, animator, and member of Monty Python. His vi
 ### Michael Snow
 
 ### John Carpenter
+
+### Alex Cox
+
+### Sergio Leone
+
+### Stephen Chow
+
+---
+
+## Actors
+
+### Harry Dean Stanton
+
+### Arnold Schwarzenegger
+
+### Rachel House
+
+### Clint Eastwood
+
+### Lee Van Cleef
+
+### Jackie Chan
+
 
 ---
 
