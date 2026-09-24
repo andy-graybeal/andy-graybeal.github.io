@@ -124,6 +124,12 @@ HBO’s science-fiction drama begins in a technologically advanced theme park po
 
 ### The Devs
 
+### Severance
+
+### Tales from the Loop
+
+
+
 ---
 
 ## Software
@@ -155,7 +161,7 @@ The Open Master Hearing Aid is an AGPL-licensed platform for real-time, low-late
 
 ---
 
-## Graphic design
+## Graphic design / Visual Artists
 
 ### [Peter Saville](https://designmuseum.org/designers/peter-saville)
 
@@ -164,6 +170,10 @@ An English graphic designer and art director closely associated with Factory Rec
 ### [deFharo](https://defharo.com/)
 
 The independent foundry and studio of Spanish designer Fernando Haro. deFharo creates retail and custom typefaces alongside identity, editorial, packaging, and web-design work.
+
+### Jakub Różalski
+
+### simon stålenhag
 
 ---
 
