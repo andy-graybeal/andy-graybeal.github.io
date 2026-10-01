@@ -111,6 +111,17 @@ Terry Gilliam’s 1995 time-travel thriller follows a prisoner sent into the pas
 
 ### Idiocracy
 
+### Stranger than Fiction
+
+### Amelie
+
+### Delicatesson
+
+### The City of the Lost Children
+
+
+
+
 
 
 
@@ -287,6 +298,9 @@ An American-born British filmmaker, animator, and member of Monty Python. His vi
 ### Sergio Leone
 
 ### Stephen Chow
+
+### Jean-Pierre Jeunet
+
 
 ---
 
