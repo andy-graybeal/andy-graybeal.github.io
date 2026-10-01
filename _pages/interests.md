@@ -151,6 +151,10 @@ HBO’s science-fiction drama begins in a technologically advanced theme park po
 
 ### Tales from the Loop
 
+### Steven Spielberg's Amazing Stories - The Mission (Season 1, Episode 5)
+
+### The Twilight Zone (1985-1989) - To See the Invisible Man (Season 1, Episode 16)
+
 
 
 ---
