@@ -190,6 +190,9 @@ A terminal multiplexer that lets users create, organize, detach, and later reatt
 
 An open-source suite and library for creating, converting, inspecting, and transforming raster images. Its `magick` command supports resizing, cropping, compositing, drawing, filtering, format conversion, and batch automation.
 
+
+### VNC - Olivetti & Oracle Research Labs -  My dad brought me home the very first VNC to mess with.
+
 ---
 
 ## Hardware / software projects
