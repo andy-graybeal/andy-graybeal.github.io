@@ -304,6 +304,8 @@ An American writer and futurist known for *Future Shock*, *The Third Wave*, and 
 
 A theoretical physicist and philosopher whose work included plasma physics, the Aharonov–Bohm effect, and a causal interpretation of quantum mechanics. His later writing explored wholeness, consciousness, creativity, and dialogue.
 
+### Richard Dawkins
+
 
 ---
 
