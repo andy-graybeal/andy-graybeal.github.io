@@ -200,6 +200,10 @@ An open-source suite and library for creating, converting, inspecting, and trans
 
 ### Edlin
 
+### Obsidian 
+
+### hyprland
+
 ---
 
 ## Hardware / software projects
