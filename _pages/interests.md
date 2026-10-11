@@ -1,4 +1,4 @@
----
+o---
 layout: archive
 title: "Some interests of mine"
 permalink: /interests/
@@ -131,6 +131,9 @@ Terry Gilliam’s 1995 time-travel thriller follows a prisoner sent into the pas
 
 ### Total Recall
 
+### Raising Cane
+
+### Blowout
 
 
 
