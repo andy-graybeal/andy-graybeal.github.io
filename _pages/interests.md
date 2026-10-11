@@ -1,4 +1,4 @@
-o---
+---
 layout: archive
 title: "Some interests of mine"
 permalink: /interests/
