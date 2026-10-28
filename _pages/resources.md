@@ -41,6 +41,15 @@ These resources provide useful professional and educational references; they are
 - [NIST SP 800-63-4 — Digital Identity Guidelines](https://csrc.nist.gov/pubs/sp/800/63/4/final) — Requirements and recommendations for identity proofing, authentication, federation, security, and privacy.
 - [NIST Face Technology Evaluations (FRTE/FATE; formerly FRVT)](https://www.nist.gov/programs-projects/face-technology-evaluations-frtefate) — Independent evaluations of face-recognition and face-analysis technologies, including accuracy and demographic-performance research.
 
+
+### Security Policy Development and Templates
+
+- [SANS Information Security Policy Templates](https://www.sans.org/information-security-policy) — Free cybersecurity and information security policy templates from SANS and the Cybersecurity Risk Foundation, providing starting points for developing and adapting organizational security policies.
+
+- [Information Security Policy - A Development Guide for Large and Small Companies](https://www.sans.org/white-papers/1331) — Practical guidance for developing information security policies, including policy structure, roles and responsibilities, implementation, and ongoing review.
+
+
+
 ### Security Testing Frameworks and Methodologies
 
 - [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/latest/) — Structured guidance for planning, performing, and reporting web-application security tests.
