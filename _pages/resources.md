@@ -44,9 +44,11 @@ These resources provide useful professional and educational references; they are
 
 ### Security Policy Development and Templates
 
-- [SANS Information Security Policy Templates](https://www.sans.org/information-security-policy) — Free cybersecurity and information security policy templates from SANS and the Cybersecurity Risk Foundation, providing starting points for developing and adapting organizational security policies.
+- [SANS — Information Security Policy Templates](https://www.sans.org/information-security-policy) — Free cybersecurity and information security policy templates from SANS and the Cybersecurity Risk Foundation, providing starting points for developing and adapting organizational security policies.
 
-- [Information Security Policy - A Development Guide for Large and Small Companies](https://www.sans.org/white-papers/1331) — Practical guidance for developing information security policies, including policy structure, roles and responsibilities, implementation, and ongoing review.
+- [SANS — Information Security Policy - A Development Guide for Large and Small Companies](https://www.sans.org/white-papers/1331) (2004) — Practical guidance for developing information security policies, including policy structure, roles and responsibilities, implementation, and ongoing review.
+
+- [SANS — Technical Writing for IT Security Policies in Five Easy Steps](https://www.sans.org/white-papers/492) (2001) — Beginner-friendly guidance for writing clear, understandable IT security policies that communicate effectively with management and employees.
 
 
 
