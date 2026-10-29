@@ -96,6 +96,7 @@ Applicability depends on an organization’s industry, location, services, custo
 
 - [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) — International requirements standard for establishing, implementing, maintaining, and continually improving an information security management system (ISMS). Organizations may implement it with or without pursuing accredited certification; the complete standard generally requires purchase.
 - [AICPA System and Organization Controls (SOC), including SOC 2](https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services) — Independent CPA assurance reporting for service organizations. SOC 2 examinations address controls relevant to security, availability, processing integrity, confidentiality, or privacy; SOC 2 is an attestation report, not a government regulation or conventional product certification.
+- [Cybersecurity Maturity Model Certification (CMMC)](https://dodcio.defense.gov/CMMC/Resources-Documentation/) — U.S. defense cybersecurity assessment program for verifying contractor safeguards protecting Federal Contract Information (FCI) and Controlled Unclassified Information (CUI).
 
 
 
