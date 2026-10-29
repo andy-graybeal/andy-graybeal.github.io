@@ -64,6 +64,11 @@ These resources provide useful professional and educational references; they are
 - [MITRE ATT&CK](https://attack.mitre.org/) — Knowledge base of adversary tactics, techniques, procedures, software, groups, mitigations, and defensive data sources.
 - [Lockheed Martin Cyber Kill Chain](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html) — Model describing seven stages of a targeted intrusion, from reconnaissance through actions on objectives.
 
+### Cloud Security Guidance and Frameworks
+
+- [Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/) — Nonprofit organization providing cloud-security research, best practices, control frameworks, assessment resources, and professional education.
+
+
 ### Privacy and Consumer Protection
 
 - [FTC Privacy and Security Resources](https://www.ftc.gov/business-guidance/privacy-security) — Business guidance concerning data security, privacy practices, breach response, and compliance with consumer-protection law.
@@ -91,6 +96,9 @@ Applicability depends on an organization’s industry, location, services, custo
 
 - [ISO/IEC 27001:2022](https://www.iso.org/standard/27001) — International requirements standard for establishing, implementing, maintaining, and continually improving an information security management system (ISMS). Organizations may implement it with or without pursuing accredited certification; the complete standard generally requires purchase.
 - [AICPA System and Organization Controls (SOC), including SOC 2](https://www.aicpa-cima.com/resources/landing/system-and-organization-controls-soc-suite-of-services) — Independent CPA assurance reporting for service organizations. SOC 2 examinations address controls relevant to security, availability, processing integrity, confidentiality, or privacy; SOC 2 is an attestation report, not a government regulation or conventional product certification.
+
+
+
 
 ## Learning, Training, and Educators
 
