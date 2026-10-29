@@ -9,9 +9,8 @@ redirect_from:
 
 # Cybersecurity Resources
 
-A curated collection of cybersecurity ethics, law, privacy, compliance, and governance references; certification and guided-learning materials; educators and video channels; security and analysis tools—including mobile, wireless, radio, embedded, and automotive security—and hands-on labs, practice environments, and CTF challenges.
+A collection gathered through coursework and curiosity, covering cybersecurity skills, professional responsibilities, and organizational security. Explore ethics, law, privacy, governance, and policy development alongside certification preparation, courses, and instruction from security practitioners. Tools, labs, and CTF challenges support practical learning across networks, applications, devices, security monitoring, digital forensics, and reverse engineering.
 
-> Use security-testing and password-auditing resources only with systems, accounts, and data you own or have explicit permission to test. Some resources provide real malware samples; treat all downloaded files as potentially dangerous and handle them only in an appropriately isolated environment.
 
 ## Ethics, Law, Privacy, and Governance
 
