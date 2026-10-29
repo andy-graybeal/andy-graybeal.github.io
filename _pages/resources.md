@@ -741,6 +741,19 @@ Open-source intrusion-detection, intrusion-prevention, and network-security moni
 - [Suricata Quick Start](https://docs.suricata.io/en/latest/quickstart.html) — Official introduction to installation, configuration, rules, alerts, and EVE JSON output.
 - [Suricata User Guide](https://docs.suricata.io/en/latest/) — Complete official documentation.
 
+#### Splunk
+
+Commercial platform for collecting, searching, analyzing, and visualizing logs and event data to support monitoring, troubleshooting, and security investigations.
+
+- [Getting Started with Splunk Enterprise](https://www.splunk.com/en_us/get-started/enterprise.html) — Official starting point for setup, introductory tutorials, and learning resources.
+- [Splunk Search Tutorial](https://help.splunk.com/en/splunk-enterprise/search/search-tutorial/9.4/introduction/about-the-search-tutorial) — Step-by-step introduction to importing sample data, searching events, and creating reports and dashboards.
+- [Splunk Free Training](https://www.splunk.com/en_us/training/free-courses/overview.html) — Free courses covering Splunk fundamentals, Search Processing Language (SPL), and data analysis.
+
+
+
+
+
+
 ### Detection and Malware Analysis
 
 #### [YARA](https://github.com/VirusTotal/yara)
