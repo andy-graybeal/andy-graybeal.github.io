@@ -40,6 +40,7 @@ These resources provide useful professional and educational references; they are
 - [NIST Privacy Framework](https://www.nist.gov/privacy-framework) — Voluntary framework for identifying and managing privacy risk through enterprise risk-management processes.
 - [NIST SP 800-63-4 — Digital Identity Guidelines](https://csrc.nist.gov/pubs/sp/800/63/4/final) — Requirements and recommendations for identity proofing, authentication, federation, security, and privacy.
 - [NIST Face Technology Evaluations (FRTE/FATE; formerly FRVT)](https://www.nist.gov/programs-projects/face-technology-evaluations-frtefate) — Independent evaluations of face-recognition and face-analysis technologies, including accuracy and demographic-performance research.
+- [NIST — NICE Workforce Framework for Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center) — Reference framework describing cybersecurity work roles, tasks, knowledge, and skills to support career exploration, education, training, and workforce development.
 
 
 ### Security Policy Development and Templates
