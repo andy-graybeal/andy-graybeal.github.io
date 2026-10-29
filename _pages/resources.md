@@ -31,6 +31,14 @@ These resources provide useful professional and educational references; they are
 - [CISA Vulnerability Disclosure Policy Template](https://www.cisa.gov/vulnerability-disclosure-policy-template) — Template for defining authorized security research, reporting procedures, scope, expectations, and safe-harbor commitments.
 - [Freedom of Information Act](https://www.foia.gov/) — U.S. federal law providing public access to federal agency records, subject to exemptions protecting interests such as personal privacy and national security.
 
+### Security Principles and Defense Strategies
+
+- [Defense in Depth — NIST Glossary](https://csrc.nist.gov/glossary/term/defense_in_depth) — Layered security strategy combining people, technology, and operational practices to reduce reliance on any single safeguard.
+- [Zero Trust — NIST SP 800-207: Zero Trust Architecture](https://csrc.nist.gov/pubs/sp/800/207/final) — Guidance for protecting resources through explicit authentication and authorization, without assuming trust based solely on network location or device ownership.
+- [Active Defense — MITRE Engage](https://github.com/mitre/engage) — Framework and planning resources for using deception, denial, and adversary engagement to support defensive operations within authorized environments.
+- [Cyber Resilience — NIST SP 800-160, Volume 2, Revision 1](https://csrc.nist.gov/pubs/sp/800/160/v2/r1/final) — Engineering guidance for developing systems that anticipate, withstand, recover from, and adapt to attacks and other adverse conditions.
+
+
 ### NIST Frameworks and Technical Guidance
 
 - [NIST SP 800-86 — Guide to Integrating Forensic Techniques into Incident Response](https://csrc.nist.gov/pubs/sp/800/86/final) — Guidance for incorporating computer and network forensics into incident-response processes.
