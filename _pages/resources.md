@@ -42,15 +42,18 @@ These resources provide useful professional and educational references; they are
 - [NIST Face Technology Evaluations (FRTE/FATE; formerly FRVT)](https://www.nist.gov/programs-projects/face-technology-evaluations-frtefate) — Independent evaluations of face-recognition and face-analysis technologies, including accuracy and demographic-performance research.
 - [NIST — NICE Workforce Framework for Cybersecurity](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center) — Reference framework describing cybersecurity work roles, tasks, knowledge, and skills to support career exploration, education, training, and workforce development.
 
+### CIS Controls and Secure Configuration Guidance
+
+- [CIS Critical Security Controls](https://www.cisecurity.org/controls) — Prioritized security practices for reducing cybersecurity risk, covering asset inventory, access control, vulnerability management, data protection, incident response, and other organizational safeguards.
+- [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks) — Consensus-based configuration recommendations for securely configuring operating systems, cloud services, applications, network devices, and other technologies.
+- [CIS Control 1 — Inventory and Control of Enterprise Assets](https://www.cisecurity.org/controls/inventory-and-control-of-enterprise-assets) — Guidance for identifying, inventorying, and tracking enterprise devices and infrastructure, including discovering and addressing unauthorized or unmanaged assets.
+
 
 ### Security Policy Development and Templates
 
 - [SANS — Security Policy Project](https://www.sans.org/information-security-policy) — Free cybersecurity and information security policy templates from SANS and the Cybersecurity Risk Foundation, providing starting points for developing and adapting organizational security policies.
-
 - [SANS — Information Security Policy - A Development Guide for Large and Small Companies](https://www.sans.org/white-papers/1331) (2004) — Practical guidance for developing information security policies, including policy structure, roles and responsibilities, implementation, and ongoing review.
-
 - [SANS — Technical Writing for IT Security Policies in Five Easy Steps](https://www.sans.org/white-papers/492) (2001) — Beginner-friendly guidance for writing clear, understandable IT security policies that communicate effectively with management and employees.
-
 
 
 ### Security Testing Frameworks and Methodologies
