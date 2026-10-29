@@ -23,12 +23,13 @@ These resources provide useful professional and educational references; they are
 - [ISACA Code of Professional Ethics](https://www.isaca.org/code-of-professional-ethics) — Professional expectations concerning governance, audit, control, security, risk management, privacy, and competent service.
 - [IEEE Code of Ethics](https://www.ieee.org/about/corporate/governance/p7-8.html) — Ethical commitments for engineers and technology professionals concerning public welfare, honesty, competence, fairness, and responsible conduct.
 
-### Cyberlaw and Responsible Disclosure
+### Law, Public Records and Responsible Disclosure
 
 - [DOJ — Computer Fraud and Abuse Act Guidance (Justice Manual 9-48.000)](https://www.justice.gov/jm/jm-9-48000-computer-fraud) — Department of Justice charging and prosecution guidance for the CFAA, including considerations for good-faith security research.
 - [DOJ — Electronic Communications Privacy Act of 1986](https://bja.ojp.gov/program/it/privacy-civil-liberties/authorities/statutes/1285) — Overview of the federal law governing interception of communications and access to stored electronic communications.
 - [Stored Communications Act: Overview of Governmental Action](https://www.congress.gov/crs-product/LSB10801) — Congressional Research Service overview of governmental access to stored communications under the SCA.
 - [CISA Vulnerability Disclosure Policy Template](https://www.cisa.gov/vulnerability-disclosure-policy-template) — Template for defining authorized security research, reporting procedures, scope, expectations, and safe-harbor commitments.
+- [Freedom of Information Act](https://www.foia.gov/) — U.S. federal law providing public access to federal agency records, subject to exemptions protecting interests such as personal privacy and national security.
 
 ### NIST Frameworks and Technical Guidance
 
@@ -62,6 +63,8 @@ These resources provide useful professional and educational references; they are
 ### Privacy and Consumer Protection
 
 - [FTC Privacy and Security Resources](https://www.ftc.gov/business-guidance/privacy-security) — Business guidance concerning data security, privacy practices, breach response, and compliance with consumer-protection law.
+- [Privacy Act of 1974](https://www.congress.gov/crs-product/R47863) — U.S. federal law governing personal information maintained in federal agency systems of records, including rights to access and request correction of records.
+- [Video Privacy Protection Act (VPPA)](https://en.wikipedia.org/wiki/Video_Privacy_Protection_Act) — U.S. federal law restricting disclosure of personally identifiable information connecting consumers to specific video materials or services, subject to defined exceptions.
 
 ### Compliance and Regulatory References
 
@@ -77,6 +80,8 @@ Applicability depends on an organization’s industry, location, services, custo
 - [Gramm-Leach-Bliley Act (GLBA) Safeguards Rule](https://www.ftc.gov/legal-library/browse/rules/safeguards-rule) — FTC requirements for covered financial institutions to develop, implement, and maintain safeguards for customer information and oversee relevant service providers.
 - [California Consumer Privacy Act (CCPA), as amended by the CPRA](https://cppa.ca.gov/regulations/) — California privacy law and implementing regulations governing covered businesses, consumer privacy rights, data practices, risk assessments, and cybersecurity obligations. The CPRA amended the CCPA rather than creating a separate privacy law.
 - [Children’s Online Privacy Protection Act (COPPA) Rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) — U.S. requirements for covered websites and online services—including some applications and Internet of Things devices—that collect personal information from children under 13.
+- [Children’s Internet Protection Act (CIPA)](https://www.fcc.gov/consumers/guides/childrens-internet-protection-act) — U.S. requirements for schools and libraries receiving specified E-Rate discounts to implement internet safety policies and filtering measures; participating schools must also provide online-safety education.
+- [California SB 1386 — Security Breach Notification](https://www.leginfo.ca.gov/pub/01-02/bill/sen/sb_1351-1400/sb_1386_bill_20020926_chaptered.html) (2002) — Original California legislation requiring notification to affected residents following certain breaches involving personal information; established requirements subsequently amended by later laws.
 
 #### Assurance and Information-Security Management Standards
 
