@@ -725,6 +725,9 @@ Open-source penetration-testing framework for developing, validating, and using 
 - [National Council of ISACs — Member Directory](https://www.nationalisacs.org/members) — Directory of sector-focused Information Sharing and Analysis Centers supporting threat-intelligence sharing, incident coordination, and collective defense.
 - [ISAO Standards Organization — Information Sharing Groups](https://isao.org/information-sharing-groups/) — Searchable directory of ISACs, ISAOs, and other information-sharing communities organized around industries, geographic regions, and special interests.
 
+- [Hybrid Analysis](https://www.hybrid-analysis.com/) — Malware-analysis service providing searchable reports and sandbox analysis to investigate suspicious files, URLs, behaviors, and associated indicators of compromise.
+
+- [PhishTank](https://www.phishtank.org/) — Community database for looking up, reporting, and verifying suspected phishing websites.
 
 ### Detection and Security Monitoring
 
