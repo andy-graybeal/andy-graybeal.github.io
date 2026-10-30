@@ -722,6 +722,8 @@ Open-source penetration-testing framework for developing, validating, and using 
 
 - [LevelBlue — Open Threat Exchange (OTX)](https://otx.alienvault.com/) — Community threat-intelligence platform for researching and sharing indicators of compromise, including malicious IP addresses, domains, URLs, and file hashes.
 - [VirusTotal](https://www.virustotal.com/) — File, URL, domain, and IP-address investigation service combining results from multiple security engines, analysis tools, and community contributions.
+- [National Council of ISACs — Member Directory](https://www.nationalisacs.org/members) — Directory of sector-focused Information Sharing and Analysis Centers supporting threat-intelligence sharing, incident coordination, and collective defense.
+- [ISAO Standards Organization — Information Sharing Groups](https://isao.org/information-sharing-groups/) — Searchable directory of ISACs, ISAOs, and other information-sharing communities organized around industries, geographic regions, and special interests.
 
 
 ### Detection and Security Monitoring
