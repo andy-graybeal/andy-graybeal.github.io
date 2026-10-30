@@ -717,6 +717,13 @@ Open-source penetration-testing framework for developing, validating, and using 
 - [Metasploit Framework — GitHub](https://github.com/rapid7/metasploit-framework) — Official framework source, modules, plugins, documentation, issue tracker, and contribution history.
 - [Metasploit Documentation](https://docs.metasploit.com/) — Official installation, usage, module-development, and API documentation.
 
+
+### Threat Intelligence and Reputation Analysis
+
+- [LevelBlue — Open Threat Exchange (OTX)](https://otx.alienvault.com/) — Community threat-intelligence platform for researching and sharing indicators of compromise, including malicious IP addresses, domains, URLs, and file hashes.
+- [VirusTotal](https://www.virustotal.com/) — File, URL, domain, and IP-address investigation service combining results from multiple security engines, analysis tools, and community contributions.
+
+
 ### Detection and Security Monitoring
 
 #### [Wireshark](https://www.wireshark.org/)
