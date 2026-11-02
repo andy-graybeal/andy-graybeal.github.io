@@ -729,6 +729,10 @@ Open-source penetration-testing framework for developing, validating, and using 
 
 - [PhishTank](https://www.phishtank.org/) — Community database for looking up, reporting, and verifying suspected phishing websites.
 
+- [**MISP — Malware Information Sharing Platform**](https://www.misp-project.org/)
+  - An open-source platform for collecting, organizing, correlating, and sharing threat intelligence.
+  - Helps security analysts connect related indicators of compromise (IOCs), such as malicious IP addresses, domains, and file hashes. [GitHub](https://github.com/MISP/MISP?utm_source=chatgpt.com)
+
 ### Detection and Security Monitoring
 
 #### [Wireshark](https://www.wireshark.org/)
