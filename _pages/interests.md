@@ -63,171 +63,171 @@ John Carpenter’s 1988 science-fiction satire follows a drifter who discovers t
 
 Terry Gilliam’s 1995 time-travel thriller follows a prisoner sent into the past to investigate a civilization-ending pandemic. Inspired by Chris Marker’s *La Jetée*, it circles around memory, fate, trauma, and uncertainty.
 
-### Sans Soleil
+### [Sans Soleil](https://www.criterion.com/films/304-sans-soleil)
 
 Chris Marker’s 1983 essay film weaves travel footage, letters, electronic imagery, and reflections on Japan and Guinea-Bissau into a meditation on memory, time, history, and the ways images shape experience.
 
-### Blade Runner
+### [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner)
 
 Ridley Scott’s 1982 science-fiction noir follows a former police officer hunting artificial humans called replicants through a rain-soaked future Los Angeles. Its questions about memory, mortality, exploitation, and personhood helped define cinematic cyberpunk.
 
-### Brainstorm
+### [Brainstorm](https://en.wikipedia.org/wiki/Brainstorm_(1983_film))
 
 Douglas Trumbull’s 1983 science-fiction film follows researchers who invent a device that records and replays another person’s sensory experiences. Their breakthrough raises questions about privacy, military control, consciousness, and death.
 
-### Silent Running
+### [Silent Running](https://en.wikipedia.org/wiki/Silent_Running)
 
 Douglas Trumbull’s 1972 science-fiction film follows a botanist protecting Earth’s last forests aboard a spacecraft. Its ecological concerns unfold through isolation, moral conflict, and his companionship with three maintenance robots.
 
-### Dark Star
+### [Dark Star](https://en.wikipedia.org/wiki/Dark_Star_(film))
 
 John Carpenter’s 1974 science-fiction comedy follows a bored spaceship crew assigned to destroy unstable planets. Malfunctioning equipment, an unruly alien, and a philosophically inclined bomb turn space exploration into an absurd workplace ordeal.
 
-### Minority Report
+### [Minority Report](https://en.wikipedia.org/wiki/Minority_Report_(film))
 
 Steven Spielberg’s 2002 science-fiction thriller imagines a police unit that arrests people for murders predicted before they occur. Adapted from Philip K. Dick’s story, it explores surveillance, free will, institutional power, and the limits of predictive justice.
 
-### Screamers
+### [Screamers](https://en.wikipedia.org/wiki/Screamers_(1995_film))
 
 Christian Duguay’s 1995 science-fiction horror film follows soldiers on a devastated mining planet where autonomous killing machines begin evolving beyond their original design. Based on Philip K. Dick’s “Second Variety,” it combines military paranoia with fears about uncontrollable technology.
 
-### Solaris
+### [Solaris](https://en.wikipedia.org/wiki/Solaris_(1972_film))
 
 Andrei Tarkovsky’s 1972 adaptation of Stanisław Lem’s novel follows a psychologist investigating strange events aboard a station orbiting an enigmatic planet. Its encounters with embodied memories become a slow meditation on grief, guilt, love, and the limits of human understanding.
 
-### Dollars Trilogy
+### [Dollars Trilogy](https://en.wikipedia.org/wiki/Dollars_Trilogy)
 
 Sergio Leone’s *A Fistful of Dollars*, *For a Few Dollars More*, and *The Good, the Bad and the Ugly* helped define the spaghetti western. Clint Eastwood’s laconic gunfighter, Ennio Morricone’s scores, and Leone’s expansive compositions give these stories of greed and violence their distinctive character.
 
-### Django (1966)
+### [Django (1966)](https://en.wikipedia.org/wiki/Django_(1966_film))
 
 Sergio Corbucci’s spaghetti western stars Franco Nero as a mysterious gunslinger dragging a coffin into a muddy border town. Its brutal violence, political undertones, and bleak atmosphere made it a defining alternative to traditional Hollywood westerns.
 
-### THX 1138
+### [THX 1138](https://en.wikipedia.org/wiki/THX_1138)
 
 George Lucas’s 1971 feature debut depicts an underground society governed by surveillance, compulsory medication, and rigid social control. Its stark design and unsettling soundscape frame a story about forbidden intimacy and resistance to enforced conformity.
 
-### Brazil
+### [Brazil](https://en.wikipedia.org/wiki/Brazil_(1985_film))
 
 Terry Gilliam’s 1985 dystopian satire follows a bureaucrat whose romantic fantasies collide with an oppressive administrative system. Elaborate production design and dark comedy turn paperwork, surveillance, and institutional incompetence into a nightmare.
 
-### Jean de Florette / Manon des Sources
+### [Jean de Florette](https://en.wikipedia.org/wiki/Jean_de_Florette) / [Manon des Sources](https://en.wikipedia.org/wiki/Manon_des_Sources_(1986_film))
 
 Claude Berri’s paired 1986 films tell a multigenerational story of water, land, deception, and revenge in rural Provence. Adapted from Marcel Pagnol, they explore how greed and concealed wrongdoing reshape a family and its community.
 
-### The Lawnmower Man
+### [The Lawnmower Man](https://en.wikipedia.org/wiki/The_Lawnmower_Man_(film))
 
 Brett Leonard’s 1992 science-fiction horror film follows experiments that use virtual reality and drugs to enhance a gardener’s intelligence. Its early computer-generated imagery accompanies a story about technological ambition, manipulation, and the pursuit of power.
 
-### The Running Man
+### [The Running Man](https://en.wikipedia.org/wiki/The_Running_Man_(1987_film))
 
 Paul Michael Glaser’s 1987 dystopian action film stars Arnold Schwarzenegger as a prisoner forced into a televised survival contest. Its spectacle of staged violence satirizes authoritarian politics, manipulated media, and entertainment built around public cruelty.
 
-### Short Circuit
+### [Short Circuit](https://en.wikipedia.org/wiki/Short_Circuit_(1986_film))
 
 John Badham’s 1986 science-fiction comedy follows a military robot that develops self-awareness after being struck by lightning. Its story blends slapstick and friendship with questions about artificial life and the difference between a machine and a person.
 
-### The Fifth Element
+### [The Fifth Element](https://en.wikipedia.org/wiki/The_Fifth_Element)
 
 Luc Besson’s 1997 science-fiction adventure sends a taxi driver and a mysterious young woman on a mission to prevent a cosmic catastrophe. Extravagant costumes, crowded futuristic cityscapes, and eccentric humor give its space-opera story a distinctive visual identity.
 
-### Repo Man
+### [Repo Man](https://en.wikipedia.org/wiki/Repo_Man_(film))
 
 Alex Cox’s 1984 science-fiction punk comedy follows a young Los Angeles repossession agent drawn into the pursuit of a mysterious Chevrolet Malibu. Its deadpan absurdity mixes car culture, conspiracy, consumerism, and outsider politics.
 
-### 2001: A Space Odyssey
+### [2001: A Space Odyssey](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey)
 
 Stanley Kubrick’s 1968 science-fiction film traces humanity’s encounters with mysterious monoliths, from prehistory to a journey toward Jupiter. Its precise imagery, classical music, and HAL 9000 storyline explore evolution, artificial intelligence, and humanity’s place in the universe.
 
-### Die Hard
+### [Die Hard](https://en.wikipedia.org/wiki/Die_Hard)
 
 John McTiernan’s 1988 action thriller traps a New York police officer inside a Los Angeles skyscraper during a Christmas Eve hostage crisis. Its confined setting, resourceful protagonist, and memorable villain helped establish a lasting model for action cinema.
 
-### WALL-E
+### [WALL-E](https://en.wikipedia.org/wiki/WALL-E)
 
 Pixar’s 2008 animated science-fiction film follows a solitary waste-collecting robot on an abandoned Earth and his encounter with a visiting probe. Its largely visual storytelling combines romance with concerns about consumerism, environmental neglect, and dependence on automation.
 
-### Idiocracy
+### [Idiocracy](https://en.wikipedia.org/wiki/Idiocracy)
 
 Mike Judge’s 2006 dystopian comedy sends an ordinary man into a future shaped by anti-intellectualism, commercial saturation, and institutional collapse. Its exaggerated world turns advertising, entertainment, and political incompetence into a broad social satire.
 
-### Stranger than Fiction
+### [Stranger than Fiction](https://en.wikipedia.org/wiki/Stranger_than_Fiction_(2006_film))
 
 Marc Forster’s 2006 comedy-drama follows an IRS auditor who begins hearing a narrator describe his life and impending death. Its literary premise opens into a story about routine, authorship, love, and the value of an ordinary life.
 
-### Amélie
+### [Amélie](https://en.wikipedia.org/wiki/Am%C3%A9lie)
 
 Jean-Pierre Jeunet’s 2001 romantic comedy follows a shy Parisian waitress who secretly improves the lives of people around her. Rich colors, playful visual details, and gentle eccentricity frame its themes of loneliness, imagination, and connection.
 
-### Delicatessen
+### [Delicatessen](https://en.wikipedia.org/wiki/Delicatessen_(1991_film))
 
 Jean-Pierre Jeunet and Marc Caro’s 1991 dark comedy takes place in an apartment building above a butcher shop in a world of severe food shortages. Its grotesque humor, intricate sets, and tender romance give its grim premise an unexpectedly whimsical tone.
 
-### The City of Lost Children
+### [The City of Lost Children](https://en.wikipedia.org/wiki/The_City_of_Lost_Children)
 
 Jean-Pierre Jeunet and Marc Caro’s 1995 science-fantasy film follows a strongman and a young orphan trying to rescue children from a scientist who steals dreams. Its elaborate industrial world combines fairy-tale menace, surreal machinery, and questions about memory and identity.
 
-### The Fly
+### [The Fly](https://en.wikipedia.org/wiki/The_Fly_(1986_film))
 
 David Cronenberg’s 1986 science-fiction horror film stars Jeff Goldblum as a scientist whose teleportation experiment merges his body with a fly. Its disturbing physical transformation becomes a tragic exploration of illness, intimacy, ambition, and bodily vulnerability.
 
-### Ghost in the Shell
+### [Ghost in the Shell](https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film))
 
 Mamoru Oshii’s 1995 animated cyberpunk film follows a cyborg security officer investigating a mysterious hacker known as the Puppet Master. Its networked world raises questions about consciousness, embodiment, identity, and the boundaries between humans and machines.
 
-### Star Trek
+### [Star Trek](https://en.wikipedia.org/wiki/List_of_Star_Trek_films)
 
 A science-fiction film franchise extending the voyages and ideals of the television series into stories about exploration, diplomacy, conflict, and ethical responsibility. Its films combine character-driven adventure with questions about technology, prejudice, sacrifice, and coexistence.
 
-### Star Wars
+### [Star Wars](https://en.wikipedia.org/wiki/Star_Wars)
 
 George Lucas’s space-opera franchise combines mythic storytelling, adventure serials, westerns, and samurai-film influences. Its stories of rebellion, empire, family, and the Force unfold through an expansive universe of distinctive worlds, creatures, and machines.
 
-### Hunt for the Wilderpeople
+### [Hunt for the Wilderpeople](https://en.wikipedia.org/wiki/Hunt_for_the_Wilderpeople)
 
 Taika Waititi’s 2016 adventure comedy follows a rebellious foster child and his reluctant guardian as they become fugitives in the New Zealand bush. Its humor and emotional warmth explore grief, belonging, and an unlikely family bond.
 
-### Total Recall
+### [Total Recall](https://en.wikipedia.org/wiki/Total_Recall_(1990_film))
 
 Paul Verhoeven’s 1990 science-fiction action film follows a construction worker whose implanted vacation memories unravel into a possible conspiracy on Mars. Adapted from Philip K. Dick, it blurs fantasy and reality while exploring identity, manipulation, and corporate domination.
 
-### Raising Cain
+### [Raising Cain](https://en.wikipedia.org/wiki/Raising_Cain)
 
 Brian De Palma’s 1992 psychological thriller follows a child psychologist whose disturbing behavior exposes a history of abuse and experiments involving children. Its shifting perspectives and elaborate suspense sequences play with fractured identity and unreliable appearances.
 
-### Blow Out
+### [Blow Out](https://en.wikipedia.org/wiki/Blow_Out)
 
 Brian De Palma’s 1981 thriller stars John Travolta as a film sound technician who accidentally records evidence of a possible assassination. Its attention to recording, editing, and listening turns a conspiracy story into an examination of truth, obsession, and manipulated evidence.
 
-### Videodrome
+### [Videodrome](https://en.wikipedia.org/wiki/Videodrome)
 
 David Cronenberg’s 1983 science-fiction horror film follows a television programmer drawn toward a mysterious broadcast of extreme violence. Its surreal body horror explores media addiction, technological control, and the unstable boundary between perception and reality.
 
-### Cool Runnings
+### [Cool Runnings](https://en.wikipedia.org/wiki/Cool_Runnings)
 
 Jon Turteltaub’s 1993 sports comedy loosely draws on Jamaica’s debut in Olympic bobsledding at the 1988 Winter Games. Its underdog story centers on teamwork, dignity, persistence, and competing in a setting where others assume you do not belong.
 
-### Galaxy Quest
+### [Galaxy Quest](https://en.wikipedia.org/wiki/Galaxy_Quest)
 
 Dean Parisot’s 1999 science-fiction comedy follows actors from a canceled television series who are mistaken for real space heroes by aliens. Both parody and affectionate tribute, it celebrates fandom, teamwork, and the ideals behind familiar space-adventure stories.
 
-### The Brink’s Job
+### [The Brink’s Job](https://en.wikipedia.org/wiki/The_Brink%27s_Job)
 
 William Friedkin’s 1978 crime comedy dramatizes the planning and execution of the 1950 Brink’s robbery in Boston. Peter Falk leads an ensemble of thieves whose ambitions, mistakes, and uneasy cooperation give the heist its scruffy character.
 
-### Tucker & Dale vs. Evil
+### [Tucker & Dale vs. Evil](https://en.wikipedia.org/wiki/Tucker_%26_Dale_vs._Evil)
 
 Eli Craig’s 2010 horror comedy follows two well-meaning friends whose vacation becomes a series of disastrous misunderstandings with college students. It reverses familiar backwoods-horror stereotypes through slapstick, accidental violence, and a sympathetic central friendship.
 
-### American Bigfoot
+### [American Bigfoot](https://tv.apple.com/us/movie/american-bigfoot/umc.cmc.2yckijgcwbmy23f0o578rnf88)
 
 Also released as *Kampout*, this 2017 creature feature follows a Bigfoot rampaging through southeastern Ohio after its offspring is killed. Its regional setting and independent-horror approach place a familiar cryptid within a story of revenge and pursuit.
 
-### Big Eyes
+### [Big Eyes](https://en.wikipedia.org/wiki/Big_Eyes)
 
 Tim Burton’s 2014 biographical drama tells the story of painter Margaret Keane and her struggle to reclaim credit for artwork sold under her husband’s name. It explores artistic authorship, commercial success, manipulation, and recognition.
 
-### Zardoz
+### [Zardoz](https://en.wikipedia.org/wiki/Zardoz)
 
 John Boorman’s 1974 science-fiction film stars Sean Connery as an outsider who enters an enclosed society of immortal elites. Its strange imagery and philosophical ambitions explore class, mortality, sexuality, and the stagnation of a life without death.
 
@@ -251,39 +251,39 @@ A British workplace sitcom about technicians Roy and Moss and their nontechnical
 
 HBO’s science-fiction drama begins in a technologically advanced theme park populated by lifelike android “hosts.” As the hosts diverge from their scripts, the series explores consciousness, exploitation, memory, free will, and the ethics of artificial life.
 
-### Devs
+### [Devs](https://en.wikipedia.org/wiki/Devs)
 
 Alex Garland’s science-fiction miniseries follows a software engineer investigating a secretive research division after her boyfriend’s disappearance. Quantum computing becomes the basis for a story about determinism, grief, surveillance, and technological power.
 
-### Severance
+### [Severance](https://en.wikipedia.org/wiki/Severance_(TV_series))
 
 A psychological science-fiction thriller about employees whose work and personal memories are surgically separated. Its unsettling office culture explores identity, consent, corporate control, and what happens when parts of a person’s life become inaccessible to each other.
 
-### Tales from the Loop
+### [Tales from the Loop](https://en.wikipedia.org/wiki/Tales_from_the_Loop)
 
 Inspired by Simon Stålenhag’s artwork, this science-fiction drama follows people living above a mysterious experimental research facility. Its quiet stories use extraordinary technology to examine ordinary experiences of love, loss, loneliness, and time.
 
-### Steven Spielberg’s Amazing Stories — “The Mission” (Season 1, Episode 5)
+### [Steven Spielberg’s Amazing Stories — “The Mission” (Season 1, Episode 5)](https://www.paleycenter.org/collection/item?item=B%3A73941)
 
 Steven Spielberg directs this 1985 episode about a World War II bomber crew trying to save a gunner trapped in a damaged aircraft. Its wartime suspense gives way to a story about imagination, hope, and solidarity.
 
-### The Twilight Zone (1985–1989) — “To See the Invisible Man” (Season 1, Episode 16)
+### [The Twilight Zone (1985–1989) — “To See the Invisible Man” (Season 1, Episode 16)](https://en.wikipedia.org/wiki/To_See_the_Invisible_Man)
 
 A man convicted of coldness is sentenced to a year of social invisibility, during which everyone must ignore him. This adaptation of Robert Silverberg’s story examines isolation, institutional cruelty, empathy, and the need for human recognition.
 
-### Doctor Who
+### [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who)
 
 A British science-fiction series about a time-traveling alien known as the Doctor, who explores the universe with human companions in the TARDIS. Its changing casts and settings support stories about curiosity, compassion, injustice, and the consequences of power.
 
-### Knight Rider
+### [Knight Rider](https://en.wikipedia.org/wiki/Knight_Rider_(1982_TV_series))
 
 A 1980s action series pairing crime fighter Michael Knight with KITT, an advanced talking car equipped with artificial intelligence. Its blend of automotive spectacle, electronic gadgetry, and human-machine partnership gives it a distinctive place in television science fiction.
 
-### Our Flag Means Death
+### [Our Flag Means Death](https://en.wikipedia.org/wiki/Our_Flag_Means_Death)
 
 A historical pirate comedy loosely inspired by Stede Bonnet and his encounters with Blackbeard. Its anachronistic humor and queer romance explore reinvention, belonging, vulnerability, and the distance between a fearsome reputation and a complicated person.
 
-### Love, Death & Robots
+### [Love, Death & Robots](https://en.wikipedia.org/wiki/Love,_Death_%26_Robots)
 
 An adult animated anthology featuring science fiction, fantasy, horror, and dark comedy in a wide range of visual styles. Its short stories explore artificial intelligence, war, desire, survival, and humanity’s encounters with unfamiliar forms of life.
 
@@ -307,11 +307,11 @@ An open-source suite and library for creating, converting, inspecting, and trans
 
 Virtual Network Computing is a remote-desktop system developed at the Olivetti & Oracle Research Laboratory in Cambridge. Its Remote Framebuffer protocol lets a viewer display and control another computer’s graphical desktop across a network.
 
-### QDOS II — Gazelle Systems
+### [QDOS II — Gazelle Systems](https://vetusware.com/manufacturer/Gazelle%20Systems/?author=151)
 
 A DOS file-management utility from Gazelle Systems that provides a visual interface for organizing files and directories. It reflects an era of tools designed to make everyday disk operations easier than typing individual DOS commands.
 
-### Edlin
+### [Edlin](https://en.wikipedia.org/wiki/Edlin)
 
 A line-oriented text editor included with early versions of MS-DOS and PC DOS. Its compact command interface supports basic text-file creation and editing, including changes to scripts and system configuration files.
 
@@ -391,7 +391,7 @@ An English musician, producer, visual artist, and theorist whose work helped def
 
 An English singer, songwriter, actor, and visual innovator known for repeatedly reinventing his sound and public identity. His career moved through glam rock, soul, electronic experimentation, art rock, pop, and late-career avant-garde work.
 
-### Vangelis
+### [Vangelis](https://en.wikipedia.org/wiki/Vangelis)
 
 A Greek composer and electronic musician known for expansive synthesizer arrangements, melodic improvisation, and atmospheric film scores. His music for *Blade Runner* and *Chariots of Fire*, along with albums such as *Albedo 0.39*, connects electronic experimentation with cinematic scale.
 
@@ -435,7 +435,7 @@ An American writer and futurist known for *Future Shock*, *The Third Wave*, and 
 
 A theoretical physicist and philosopher whose work included plasma physics, the Aharonov–Bohm effect, and a causal interpretation of quantum mechanics. His later writing explored wholeness, consciousness, creativity, and dialogue.
 
-### Richard Dawkins
+### [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins)
 
 A British evolutionary biologist and science writer known for *The Selfish Gene*, *The Extended Phenotype*, and *The Blind Watchmaker*. His writing explains evolution through natural selection and also addresses religion, skepticism, and the public understanding of science.
 
@@ -451,27 +451,27 @@ A Brazilian-born filmmaker, producer, activist, and founder of the Cultures of R
 
 An American-born British filmmaker, animator, and member of Monty Python. His visually extravagant, darkly comic films—including *Brazil*, *Time Bandits*, *The Fisher King*, and *12 Monkeys*—often pit imagination against bureaucracy and control.
 
-### Michael Snow
+### [Michael Snow](https://en.wikipedia.org/wiki/Michael_Snow)
 
 A Canadian experimental filmmaker, visual artist, and musician whose work investigates perception, duration, framing, and the act of looking. His 1967 film *Wavelength* became a landmark of structural cinema through its sustained zoom across a New York loft.
 
-### John Carpenter
+### [John Carpenter](https://en.wikipedia.org/wiki/John_Carpenter)
 
 An American director, screenwriter, and composer known for *Halloween*, *The Thing*, *Escape from New York*, and *They Live*. His economical visual style, electronic scores, and recurring distrust of authority connect horror, science fiction, action, and social criticism.
 
-### Alex Cox
+### [Alex Cox](https://en.wikipedia.org/wiki/Alex_Cox)
 
 A British filmmaker and writer known for *Repo Man*, *Sid and Nancy*, and *Walker*. His work combines punk sensibility, political criticism, dark humor, and an interest in outsiders, westerns, and unconventional filmmaking.
 
-### Sergio Leone
+### [Sergio Leone](https://en.wikipedia.org/wiki/Sergio_Leone)
 
 An Italian filmmaker whose spaghetti westerns reshaped the genre through extreme close-ups, expansive landscapes, prolonged suspense, and Ennio Morricone’s music. His films include the Dollars Trilogy, *Once Upon a Time in the West*, and *Once Upon a Time in America*.
 
-### Stephen Chow
+### [Stephen Chow](https://en.wikipedia.org/wiki/Stephen_Chow)
 
 A Hong Kong actor, comedian, director, and producer known for *Shaolin Soccer* and *Kung Fu Hustle*. His films combine martial arts, slapstick, absurd wordplay, and underdog stories with elaborate visual comedy.
 
-### Jean-Pierre Jeunet
+### [Jean-Pierre Jeunet](https://en.wikipedia.org/wiki/Jean-Pierre_Jeunet)
 
 A French filmmaker known for *Delicatessen*, *The City of Lost Children*, and *Amélie*. His richly detailed settings, expressive colors, eccentric characters, and inventive visual storytelling combine dark fantasy with affection for everyday human connections.
 
@@ -479,27 +479,27 @@ A French filmmaker known for *Delicatessen*, *The City of Lost Children*, and *A
 
 ## Actors
 
-### Harry Dean Stanton
+### [Harry Dean Stanton](https://en.wikipedia.org/wiki/Harry_Dean_Stanton)
 
 An American character actor known for his weathered presence, understated performances, and roles in *Paris, Texas*, *Repo Man*, and *Alien*. His work often gave lonely outsiders and working people a distinctive mixture of vulnerability, humor, and dignity.
 
-### Arnold Schwarzenegger
+### [Arnold Schwarzenegger](https://en.wikipedia.org/wiki/Arnold_Schwarzenegger)
 
 An Austrian-born American actor, bodybuilder, and former California governor whose films helped define action cinema in the 1980s and 1990s. Roles in *The Terminator*, *Predator*, *Total Recall*, and *The Running Man* pair physical presence with a recognizable deadpan delivery.
 
-### Rachel House
+### [Rachel House](https://en.wikipedia.org/wiki/Rachel_House)
 
 A New Zealand actor and director known for *Hunt for the Wilderpeople*, *Boy*, *Thor: Ragnarok*, and her voice performance as Gramma Tala in *Moana*. Her work combines comic authority, emotional warmth, and a strong presence in Māori and New Zealand storytelling.
 
-### Clint Eastwood
+### [Clint Eastwood](https://en.wikipedia.org/wiki/Clint_Eastwood)
 
 An American actor and filmmaker whose screen persona developed through spaghetti westerns and the *Dirty Harry* films. His later directing work, including *Unforgiven*, examines violence, responsibility, aging, and the myths surrounding American heroism.
 
-### Lee Van Cleef
+### [Lee Van Cleef](https://en.wikipedia.org/wiki/Lee_Van_Cleef)
 
 An American character actor whose sharp features and controlled performances made him an enduring presence in westerns. His roles in *For a Few Dollars More* and *The Good, the Bad and the Ugly* helped establish him as a defining figure of the spaghetti western.
 
-### Jackie Chan
+### [Jackie Chan](https://en.wikipedia.org/wiki/Jackie_Chan)
 
 A Hong Kong actor, martial artist, stunt performer, and filmmaker known for combining intricate action choreography with physical comedy. Films such as *Police Story*, *Project A*, and *Drunken Master* showcase his inventive use of props, environments, and dangerous practical stunts.
 
@@ -551,15 +551,15 @@ A series of U.S. Federal Communications Commission proceedings that drew and rev
 
 ## Chefs / Food & Travel YouTube
 
-### Mark Wiens
+### [Mark Wiens](https://en.wikipedia.org/wiki/Mark_Wiens)
 
 A food and travel presenter known for exploring regional dishes, street food, markets, and the people who prepare them. His videos emphasize enthusiastic tasting and the cultural context of meals across countries and communities.
 
-### Uncle Roger
+### [Uncle Roger](https://en.wikipedia.org/wiki/Nigel_Ng)
 
 A comedic character created by Malaysian comedian Nigel Ng, known for reacting to cooking videos and offering exaggerated criticism of fried rice and other Asian dishes. His performances mix culinary observations, recurring jokes, and commentary on cultural expectations around food.
 
-### Francis Mallmann
+### [Francis Mallmann](https://en.wikipedia.org/wiki/Francis_Mallmann)
 
 An Argentine chef and author known for open-fire cooking, Patagonian influences, and an emphasis on smoke, embers, and simple ingredients. His approach treats cooking as a physical craft shaped by landscape, patience, and the management of heat.
 
