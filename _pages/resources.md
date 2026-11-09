@@ -1149,3 +1149,6 @@ Cross-platform metadata reader and writer by Phil Harvey. It is useful for exami
 # needs organized
 https://dfirdiva.com/
 blueteams.academy
+
+## security scanners
+ Nessus, Retina, Core Impact and GFI LanGuard.
