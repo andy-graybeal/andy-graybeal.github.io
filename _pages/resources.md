@@ -367,6 +367,10 @@ Reticulum uses encryption by default. In the United States, ordinary encrypted R
 
 - [Brad Duncan — Malware-Traffic-Analysis.net](https://www.malware-traffic-analysis.net/) — Packet captures, tutorials, workshops, and exercises for investigating malicious network traffic.
 
+netresec.com?page=PcapFiles
+
+docs.securityonion.net/en/2.4/pcaps.html
+
 ### Educators and Video Channels
 
 - [John Strand and Black Hills Information Security — YouTube](https://www.youtube.com/@BlackHillsInformationSecurity) — Educational webcasts, security news, demonstrations, and practical guidance from John Strand and other working cybersecurity professionals at BHIS.
@@ -1142,4 +1146,5 @@ Cross-platform metadata reader and writer by Phil Harvey. It is useful for exami
 - [CMD Challenge](https://cmdchallenge.com/) — Short command-line exercises for practicing shell skills.
 
 
-
+# needs organized
+https://dfirdiva.com/
