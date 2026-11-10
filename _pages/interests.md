@@ -5,7 +5,39 @@ permalink: /interests/
 author_profile: true
 ---
 
-## Books
+<style>
+.interests-index { display:flex; flex-wrap:wrap; gap:.5em 1em; margin:1em 0 1.5em; padding:0; list-style:none; }
+.interests-section { border-top:1px solid #aaa6; padding:.75em 0; scroll-margin-top:1em; }
+.interests-section > summary { cursor:pointer; font-size:1.2em; padding:.25em 0; }
+.interests-section > summary:focus-visible { outline:2px solid currentColor; outline-offset:4px; }
+.interests-section > summary small { font-size:.7em; font-weight:normal; opacity:.7; margin-left:.5em; }
+</style>
+
+<nav aria-label="Interest categories" id="interests-index">
+<p><strong>Jump to a section</strong></p>
+<ul class="interests-index">
+<li><a href="#books">Books</a></li>
+<li><a href="#movies">Movies</a></li>
+<li><a href="#television">Television</a></li>
+<li><a href="#software">Software</a></li>
+<li><a href="#hardware-software-projects">Hardware / software projects</a></li>
+<li><a href="#graphic-design-visual-artists">Graphic design / Visual Artists</a></li>
+<li><a href="#musicians-composers">Musicians / composers</a></li>
+<li><a href="#authors-writers">Authors / writers</a></li>
+<li><a href="#filmmakers">Filmmakers</a></li>
+<li><a href="#actors">Actors</a></li>
+<li><a href="#record-labels">Record labels</a></li>
+<li><a href="#corporations-and-industrial-technology">Corporations and industrial technology</a></li>
+<li><a href="#laws-regulations">Laws / regulations</a></li>
+<li><a href="#chefs-food-travel-youtube">Chefs / Food &amp; Travel YouTube</a></li>
+<li><a href="#food">Food</a></li>
+</ul>
+</nav>
+
+Select a category to show or hide its entries.
+
+<details class="interests-section" id="books" markdown="1">
+<summary><strong>Books</strong><small>6 entries</small></summary>
 
 ### [The Computer Music Tutorial — Curtis Roads](https://mitpress.mit.edu/9780262361545/the-computer-music-tutorial/)
 
@@ -97,9 +129,12 @@ Stoll’s first-person account of tracing a 75-cent accounting discrepancy to an
 
 A nonfiction history of New York hacker culture and the conflict between the Masters of Deception and Legion of Doom. It follows teenage hackers, telephone networks, law enforcement, and the early social world of cyberspace.
 
----
+[Back to index](#interests-index)
 
-## Movies
+</details>
+
+<details class="interests-section" id="movies" markdown="1">
+<summary><strong>Movies</strong><small>49 entries</small></summary>
 
 ### [Metropolis](https://www.bfi.org.uk/film/bda6ff8a-ed7e-5942-980d-c2910c0120ec/metropolis)
 
@@ -836,9 +871,12 @@ Tim Burton’s 2014 biographical drama tells the story of painter Margaret Keane
 
 John Boorman’s 1974 science-fiction film stars Sean Connery as an outsider who enters an enclosed society of immortal elites. Its strange imagery and philosophical ambitions explore class, mortality, sexuality, and the stagnation of a life without death.
 
----
+[Back to index](#interests-index)
 
-## Television
+</details>
+
+<details class="interests-section" id="television" markdown="1">
+<summary><strong>Television</strong><small>13 entries</small></summary>
 
 ### [Mr. Robot](https://www.usanetwork.com/usa-insider/why-people-love-mr-robot-will-there-be-more)
 
@@ -1035,9 +1073,12 @@ A historical pirate comedy loosely inspired by Stede Bonnet and his encounters w
 
 An adult animated anthology featuring science fiction, fantasy, horror, and dark comedy in a wide range of visual styles. Its short stories explore artificial intelligence, war, desire, survival, and humanity’s encounters with unfamiliar forms of life.
 
----
+[Back to index](#interests-index)
 
-## Software
+</details>
+
+<details class="interests-section" id="software" markdown="1">
+<summary><strong>Software</strong><small>8 entries</small></summary>
 
 ### [Pure Data](https://puredata.info/)
 
@@ -1159,9 +1200,12 @@ A Markdown-based note-taking application that stores notes as local text files a
 
 A dynamic tiling Wayland compositor for Linux with extensive configuration, keyboard-driven window management, and animated transitions. It supports a highly customizable desktop built around workspaces, flexible layouts, and efficient navigation.
 
----
+[Back to index](#interests-index)
 
-## Hardware / software projects
+</details>
+
+<details class="interests-section" id="hardware-software-projects" markdown="1">
+<summary><strong>Hardware / software projects</strong><small>2 entries</small></summary>
 
 ### [BatAndCat Sound Labs](https://batandcat.com/index.html)
 
@@ -1193,9 +1237,12 @@ A Palo Alto hearing-technology research company working on modern hearing aids a
 
 The Open Master Hearing Aid is an AGPL-licensed platform for real-time, low-latency audio processing and hearing-aid research. Its modular framework and plugins let researchers implement, evaluate, and reproduce hearing algorithms on standard hardware.
 
----
+[Back to index](#interests-index)
 
-## Graphic design / Visual Artists
+</details>
+
+<details class="interests-section" id="graphic-design-visual-artists" markdown="1">
+<summary><strong>Graphic design / Visual Artists</strong><small>4 entries</small></summary>
 
 ### [Peter Saville](https://designmuseum.org/designers/peter-saville)
 
@@ -1257,9 +1304,12 @@ A Polish illustrator and concept artist whose paintings combine rural landscapes
 
 A Swedish artist and author known for placing mysterious machines, robots, and abandoned technological infrastructure within familiar suburban and rural landscapes. His illustrated narratives, including *Tales from the Loop* and *The Electric State*, combine nostalgia, unease, and speculative worldbuilding.
 
----
+[Back to index](#interests-index)
 
-## Musicians / composers
+</details>
+
+<details class="interests-section" id="musicians-composers" markdown="1">
+<summary><strong>Musicians / composers</strong><small>9 entries</small></summary>
 
 ### [Edward Ka-Spel](https://en.wikipedia.org/wiki/Edward_Ka-Spel)
 
@@ -1396,9 +1446,12 @@ An English singer, songwriter, actor, and visual innovator known for repeatedly 
 
 A Greek composer and electronic musician known for expansive synthesizer arrangements, melodic improvisation, and atmospheric film scores. His music for *Blade Runner* and *Chariots of Fire*, along with albums such as *Albedo 0.39*, connects electronic experimentation with cinematic scale.
 
----
+[Back to index](#interests-index)
 
-## Authors / writers
+</details>
+
+<details class="interests-section" id="authors-writers" markdown="1">
+<summary><strong>Authors / writers</strong><small>10 entries</small></summary>
 
 ### [Jaron Lanier](https://jaronlanier.com/general.html)
 
@@ -1550,9 +1603,12 @@ A theoretical physicist and philosopher whose work included plasma physics, the 
 
 A British evolutionary biologist and science writer known for *The Selfish Gene*, *The Extended Phenotype*, and *The Blind Watchmaker*. His writing explains evolution through natural selection and also addresses religion, skepticism, and the public understanding of science.
 
----
+[Back to index](#interests-index)
 
-## Filmmakers
+</details>
+
+<details class="interests-section" id="filmmakers" markdown="1">
+<summary><strong>Filmmakers</strong><small>8 entries</small></summary>
 
 ### [Iara Lee](https://www.ntticc.or.jp/en/Biography/Iara_l/index.html)
 
@@ -1674,9 +1730,12 @@ A Hong Kong actor, comedian, director, and producer known for *Shaolin Soccer* a
 
 A French filmmaker known for *Delicatessen*, *The City of Lost Children*, and *Amélie*. His richly detailed settings, expressive colors, eccentric characters, and inventive visual storytelling combine dark fantasy with affection for everyday human connections.
 
----
+[Back to index](#interests-index)
 
-## Actors
+</details>
+
+<details class="interests-section" id="actors" markdown="1">
+<summary><strong>Actors</strong><small>6 entries</small></summary>
 
 ### [Harry Dean Stanton](https://en.wikipedia.org/wiki/Harry_Dean_Stanton)
 
@@ -1768,9 +1827,12 @@ An American character actor whose sharp features and controlled performances mad
 
 A Hong Kong actor, martial artist, stunt performer, and filmmaker known for combining intricate action choreography with physical comedy. Films such as *Police Story*, *Project A*, and *Drunken Master* showcase his inventive use of props, environments, and dangerous practical stunts.
 
----
+[Back to index](#interests-index)
 
-## Record labels
+</details>
+
+<details class="interests-section" id="record-labels" markdown="1">
+<summary><strong>Record labels</strong><small>1 entry</small></summary>
 
 ### [4AD](https://shop.4ad.com/about)
 
@@ -1787,9 +1849,12 @@ A Hong Kong actor, martial artist, stunt performer, and filmmaker known for comb
 
 A British independent label founded in 1980 by Ivo Watts-Russell and Peter Kent. Its adventurous roster and the distinctive graphic identity created by Vaughan Oliver made 4AD a defining home for post-punk, dream pop, alternative rock, and experimental music.
 
----
+[Back to index](#interests-index)
 
-## Corporations and industrial technology
+</details>
+
+<details class="interests-section" id="corporations-and-industrial-technology" markdown="1">
+<summary><strong>Corporations and industrial technology</strong><small>7 entries</small></summary>
 
 ### [Bunker Ramo](https://en.wikipedia.org/wiki/Bunker_Ramo)
 
@@ -1896,9 +1961,12 @@ An early numerically controlled milling machine designed to cut complex surfaces
 
 A CNC control system for milling machines and lathes, with conventional ISO G-code programming and optional conversational programming. Its conversational interface guides operators through machining cycles, combining those cycles with G-code instructions to create part programs.
 
----
+[Back to index](#interests-index)
 
-## Laws / regulations
+</details>
+
+<details class="interests-section" id="laws-regulations" markdown="1">
+<summary><strong>Laws / regulations</strong><small>1 entry</small></summary>
 
 ### [FCC Computer Inquiries I, II, and III](https://en.wikipedia.org/wiki/FCC_Computer_Inquiries)
 
@@ -1915,9 +1983,12 @@ A CNC control system for milling machines and lathes, with conventional ISO G-co
 
 A series of U.S. Federal Communications Commission proceedings that drew and revised the boundary between regulated communications services and comparatively unregulated data-processing or “enhanced” services. Their framework helped shape competition, network access, and later internet policy.
 
----
+[Back to index](#interests-index)
 
-## Chefs / Food & Travel YouTube
+</details>
+
+<details class="interests-section" id="chefs-food-travel-youtube" markdown="1">
+<summary><strong>Chefs / Food &amp; Travel YouTube</strong><small>3 entries</small></summary>
 
 ### [Mark Wiens](https://en.wikipedia.org/wiki/Mark_Wiens)
 
@@ -1964,9 +2035,12 @@ A comedic character created by Malaysian comedian Nigel Ng, known for reacting t
 
 An Argentine chef and author known for open-fire cooking, Patagonian influences, and an emphasis on smoke, embers, and simple ingredients. His approach treats cooking as a physical craft shaped by landscape, patience, and the management of heat.
 
----
+[Back to index](#interests-index)
 
-## Food
+</details>
+
+<details class="interests-section" id="food" markdown="1">
+<summary><strong>Food</strong><small>2 entries</small></summary>
 
 ### [Hominy](https://en.wikipedia.org/wiki/Hominy)
 
@@ -1997,3 +2071,24 @@ Dried maize treated with alkali through nixtamalization, which softens the kerne
 </div>
 
 A traditional Mexican soup or stew built around nixtamalized hominy, usually with meat or vegetables and garnishes such as cabbage, radish, onion, chile, and lime. Major regional styles include red, green, and white pozole.
+
+[Back to index](#interests-index)
+
+</details>
+
+<script>
+(function () {
+  function openSection(hash) {
+    var target = document.getElementById(hash.replace(/^#/, ''));
+    if (target && target.classList.contains('interests-section')) {
+      target.open = true;
+    }
+  }
+  document.getElementById('interests-index').addEventListener('click', function (event) {
+    var link = event.target.closest('a[href^="#"]');
+    if (link) openSection(link.getAttribute('href'));
+  });
+  window.addEventListener('hashchange', function () { openSection(window.location.hash); });
+  openSection(window.location.hash);
+}());
+</script>
