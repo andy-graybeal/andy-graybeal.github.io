@@ -1150,7 +1150,7 @@ Cross-platform metadata reader and writer by Phil Harvey. It is useful for exami
 https://dfirdiva.com/
 blueteams.academy
 d3fend.mitre.org
-
+https://landscape.cncf.io/
 
 
 ## security scanners
