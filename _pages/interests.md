@@ -539,6 +539,11 @@ A Rockford, Illinois manufacturer of machine tools and later aerospace and indus
 
 An early numerically controlled milling machine designed to cut complex surfaces along five axes. The first OM-3 shipped to Douglas Aircraft in 1957, and Sundstrand demonstrated a continuously controlled five-axis version in 1959—an important step in modern aerospace machining.
 
+### [Fagor CNC 8055/8055i retrofit controller for the Omnimill](https://fagorautomation.com/en/document/cnc-8055-installation-manual/)
+
+A CNC control system for milling machines and lathes, with conventional ISO G-code programming and optional conversational programming. Its conversational interface guides operators through machining cycles, combining those cycles with G-code instructions to create part programs.
+
+
 ---
 
 ## Laws / regulations
